@@ -39,7 +39,7 @@
     "@preact/prerender-data-provider": "^3.0.1",
     "imagemin-mozjpeg": "^8.0.0",
     "imagemin-webpack-plugin": "^2.4.2",
-    "markdown-to-jsx": "^6.10.3",
+    "markdown-to-jsx": "^6.11.4",
     "parse-md": "^2.0.4",
     "preact": "^10.4.6",
     "preact-cli-plugin-netlify": "^1.6.0",
@@ -50,15 +50,15 @@
     "preset": "jest-preset-preact"
   },
   "bugs": {
-    "url": "https://github.com/preactjs/preact-netlify/issues"
+    "url": "https://github.com/jackokaiser/vanlab/issues"
   },
-  "homepage": "https://github.com/preactjs/preact-netlify#readme",
+  "homepage": "https://github.com/jackokaiser/vanlab#readme",
   "keywords": [
     "preact",
     "netlify"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/preactjs/preact-netlify.git"
+    "url": "git+https://github.com/jackokaiser/vanlab.git"
   }
 }
