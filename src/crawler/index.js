@@ -29,7 +29,7 @@ function getDetails(format, data) {
 function getPreview(data) {
 	const { content } = parseMD(data);
 	let preview = content.replace(/---(.*(\r)?\n)*---/, '').replace(/\[.*\]\(.*\)/g, '').replace(/(\r)?\n/,'');
-	preview = preview.substr(0, (preview.indexOf('\n') -1));
+	/* preview = preview.substr(0, (preview.indexOf('\n') -1)); */
 	return preview.length < 500? preview : preview.substr(0, 500);
 }
 

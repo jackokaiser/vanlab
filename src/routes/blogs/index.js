@@ -7,7 +7,7 @@ const blogs = (props) => {
 	const [data, isLoading] = usePrerenderData(props);
 	return (
 		<div class={style.pageBlogs}>
-			<h1 class={style.pageTitle}>My Blogs</h1>
+			<h1 class={style.pageTitle}>Van Building Diary</h1>
 			{ getBlogsListing(data, isLoading) }
 		</div>
 	);
@@ -29,20 +29,18 @@ function getBlogsListing(data, isLoading) {
 		return (
 			<>
 				{blogs.edges.map(blog => (
-				<Link href={`/blog/${blog.id}`}>
-					<article>
-						<h2>{blog.details.title}</h2>
-						<div>
-							{
-								(blog.details.tags.substr(1, blog.details.tags.length - 2).split(',') || []).map(tag => <span class={style.tag}>{tag}</span>)
-							}
-						</div>
-						<p class={style.preview}>
-							{blog.preview}
-						</p>
-					</article>
-				</Link>
-			))}
+					<Link href={`/post/${blog.id}`}>
+						<article>
+							<h2>{blog.details.title}</h2>
+							<p class={style.preview}>
+								{blog.preview}
+							</p>
+							<div>
+								<span class={style.tag}>{ blog.details.date }</span>
+							</div>
+						</article>
+					</Link>
+				))}
 			</>
 		);
 	}

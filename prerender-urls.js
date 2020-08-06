@@ -6,20 +6,17 @@ const parseMD = require('parse-md').default;
 const [blogs] = generateFileList(join(__dirname, 'content')).nodes;
 module.exports = () => {
 	const pages = [
-		{
-			url: '/',
-			seo: {
-				cover: '/assets/profile.jpg'
-			}
-		},
 		{ url: '/contact/' },
 		{ url: '/contact/success' }
 	];
 
 	// adding blogs list posts page
 	pages.push({
-		url: '/blogs/',
-		data: blogs
+		url: '/',
+		data: blogs,
+		seo: {
+			cover: '/assets/profile.jpg'
+		}
 	});
 
 	// adding all blog pages
@@ -32,7 +29,7 @@ module.exports = () => {
 			data = fs.readFileSync(join('content', 'blog', blog.id), 'utf-8').replace(/---(.*(\r)?\n)*---/, '');
 		}
 		return {
-			url: `/blog/${blog.id}`,
+			url: `/post/${blog.id}`,
 			seo: blog.details,
 			data: {
 				details: blog.details,
