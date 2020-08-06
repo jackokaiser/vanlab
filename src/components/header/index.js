@@ -12,8 +12,8 @@ const Header = (props) => {
 		<header>
 			<nav class="navbar fixed-top navbar-expand-sm navbar-dark bg-dark justify-content-between">
 				<Link class={ style.lobster + " navbar-brand" } href="/">Vanlab</Link>
-				{ lang=='en' && <img onClick={() => setLang('fr')} src="/assets/fr.svg" width="30"/> }
-				{ lang=='fr' && <img onClick={() => setLang('en')} src="/assets/us.svg" width="30"/> }
+				{/* { lang=='en' && <img onClick={() => setLang('fr')} src="/assets/fr.svg" width="30"/> }
+						{ lang=='fr' && <img onClick={() => setLang('en')} src="/assets/us.svg" width="30"/> } */}
 				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 					<span class="navbar-toggler-icon"></span>
 				</button>
