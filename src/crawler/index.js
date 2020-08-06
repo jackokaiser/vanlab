@@ -43,11 +43,16 @@ function getFolders(source) {
 		const data = fs.readFileSync(file, 'utf-8');
 		const id = file.substr(file.lastIndexOf(sep) + 1);
 		const format = getExtensionFromFilename(id);
+		const details = getDetails(format, data);
+		if (details.date) {
+			details.date = new Date(details.date).toDateString();
+		}
+
 		return {
 			id,
 			format,
 			path: file,
-			details: getDetails(format, data),
+			details: details,
 			preview: getPreview(data)
 		};
 	});
