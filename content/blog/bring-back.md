@@ -1,7 +1,6 @@
 ---
 title: Bringing back the van
 date: 2020-07-16
+cover: /assets/tank.jpg
 ---
-
-The first time we drove the van was to drive it back from Munich to Karlsruhe.
-We have also tanked natural gas for the first time, without problems.
+To bring the car back we drove it from Munich to Karlsruhe (around 300km), entirely on natural gas (we tanked somewhere in the middle). Tanking was straightforward and quick. Driving the van feels pretty good and the engine is quite powerful, allowing speeds above 110km/h.
