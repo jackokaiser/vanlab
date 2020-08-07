@@ -4,13 +4,21 @@ backend:
 media_folder: src/assets
 public_folder: /assets
 collections:
-  - name: "pages"
-    label: "Pages"
-    label_singular: "Page" # Used in the UI, ie: "New Post"
-    folder: "content/blog"
+  - name: "posts"
+    label: "Posts"
+    label_singular: "Post" # Used in the UI, ie: "New Post"
+    folder: "content/blogs"
     create: true
     fields:
       - { label: "Title", name: "title", widget: "string"}
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Cover", name: "cover", widget: "image", required: false}
       - { label: "Body", name: "body", widget: "markdown"}
+  - label: "Pages"
+    name: "pages"
+    files:
+      - label: "Contact Page"
+        name: "contact"
+        file: "content/pages/contact.md"
+        fields:
+          - {label: Body, name: body, widget: markdown}
