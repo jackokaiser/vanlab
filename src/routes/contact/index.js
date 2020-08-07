@@ -1,7 +1,7 @@
 import { h } from 'preact';
 import style from './style';
 
-const photographs = (props) => {
+const contact = (props) => {
 	return (
 		<div class={style.pageContact}>
 			<h1 class={style.pageTitle}>Contact</h1>
@@ -14,4 +14,4 @@ const photographs = (props) => {
 	);
 };
 
-export default photographs;
+export default contact;
