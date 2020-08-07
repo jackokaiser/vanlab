@@ -30,7 +30,7 @@ function getPreview(data) {
 	const { content } = parseMD(data);
 	let preview = content.replace(/---(.*(\r)?\n)*---/, '').replace(/\[.*\]\(.*\)/g, '').replace(/(\r)?\n/,'');
 	/* preview = preview.substr(0, (preview.indexOf('\n') -1)); */
-	return preview.length < 500? preview : preview.substr(0, 500);
+	return preview.length < 500? preview : (preview.substr(0, 497) + '...');
 }
 
 function getFolders(source) {
@@ -44,9 +44,6 @@ function getFolders(source) {
 		const id = file.substr(file.lastIndexOf(sep) + 1);
 		const format = getExtensionFromFilename(id);
 		const details = getDetails(format, data);
-		if (details.date) {
-			details.date = new Date(details.date).toDateString();
-		}
 
 		return {
 			id,

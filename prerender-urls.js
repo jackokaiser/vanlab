@@ -3,30 +3,42 @@ const { join } = require('path');
 const fs = require('fs');
 const parseMD = require('parse-md').default;
 
-const [blogs] = generateFileList(join(__dirname, 'content')).nodes;
+let { blogs } = generateFileList('content').nodes.reduce((obj, n) => {obj[n.id] = n; return obj}, {})
+
+/* sort blogs by dates */
+blogs.edges = blogs.edges.sort((a,b) => b.details.date - a.details.date)
+/* format blogs dates */
+blogs.edges.forEach(b => {b.details.date = b.details.date.toDateString()})
+
+function getPageMd(id) {
+	const data = parseMD(fs.readFileSync(join('content', 'pages', id + '.md'), 'utf-8'));
+	return data;
+};
+
 module.exports = () => {
-	const pages = [
-		{ url: '/contact/' },
+	const webpages = [
+		{
+			url: '/',
+			data: blogs,
+			seo: {
+				cover: '/assets/profile.jpg'
+			}
+		},
+		{
+			url: '/contact/',
+			data: getPageMd('contact')
+		},
 		{ url: '/contact/success' }
 	];
 
-	// adding blogs list posts page
-	pages.push({
-		url: '/',
-		data: blogs,
-		seo: {
-			cover: '/assets/profile.jpg'
-		}
-	});
-
-	// adding all blog pages
-	pages.push(...blogs.edges.map(blog => {
+	// adding all blog webpages
+	webpages.push(...blogs.edges.map(blog => {
 		let data;
 		if (blog.format === 'md') {
-			const { content } = parseMD(fs.readFileSync(join('content', 'blog', blog.id), 'utf-8'));
+			const { content } = parseMD(fs.readFileSync(blog.path, 'utf-8'));
 			data = content;
 		} else {
-			data = fs.readFileSync(join('content', 'blog', blog.id), 'utf-8').replace(/---(.*(\r)?\n)*---/, '');
+			data = fs.readFileSync(blog.path, 'utf-8').replace(/---(.*(\r)?\n)*---/, '');
 		}
 		return {
 			url: `/post/${blog.id}`,
@@ -38,5 +50,5 @@ module.exports = () => {
 		};
 	}));
 
-	return pages;
+	return webpages;
 };
