@@ -31,12 +31,15 @@ function getBlogsListing(data, isLoading) {
 				{blogs.edges.map(blog => (
 					<Link href={`/post/${blog.id}`}>
 						<article>
-							<h2>{blog.details.title}</h2>
-							<p class={style.preview}>
-								{blog.preview}
-							</p>
-							<div>
-								<span class={style.tag}>{ blog.details.date }</span>
+							<div class="row">
+								<div class="col-md-6">
+									<h2>{blog.details.title}</h2>
+									<p class={style.preview}>
+										{blog.preview}
+									</p>
+									<span class={style.tag}>{ blog.details.date }</span>
+								</div>
+								{ blog.details.cover && <img src={blog.details.cover} class={style.cover + " col-md-6"} /> }
 							</div>
 						</article>
 					</Link>
