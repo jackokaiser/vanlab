@@ -17,7 +17,7 @@ const contact = (props) => {
 	if (data && data.data) {
 		const { content, details } = data.data;
 		return (
-			<div>
+			<div class={style.pageContact}>
 				<h1 class={style.pageTitle}>Contact</h1>
 				<div class="container-fluid mt-3">
 					<Markdown>
