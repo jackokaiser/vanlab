@@ -45,7 +45,7 @@ module.exports = () => {
 			url: `/post/${blog.id}`,
 			seo: {
 				title: blog.details.title,
-				cover: `https://vanderfool.com/${blog.details.cover}`
+				cover: `https://vanderfool.com${blog.details.cover}`
 			},
 			data: {
 				details: blog.details,
