@@ -32,12 +32,15 @@ function getBlogsListing(data, isLoading) {
 					<Link href={`/post/${blog.id}`}>
 						<article>
 							<div class="row">
-								<div class="col-md-6">
+								<div class="col-md-6 no">
 									<h2>{blog.details.title}</h2>
 									<p class={style.preview}>
 										{blog.preview}
 									</p>
-									<span class={style.tag}>{ blog.details.date }</span>
+									<div class="d-flex justify-content-between">
+										<span class={style.tag}>{ blog.details.date }</span>
+										<span class="fb-like" data-href={`vanderfool.com/post/${blog.id}`} data-width="" data-layout="button_count" data-action="like" data-size="small" data-share="true"></span>
+									</div>
 								</div>
 								{ blog.details.cover && <img src={blog.details.cover} class={style.cover + " col-md-6"} /> }
 							</div>

@@ -1,3 +1,7 @@
+.likealign {
+	margin-top: 2.5rem;
+}
+
 .blogcontainer {
 	max-width: 728px;
 	width: 100%;
@@ -76,6 +80,8 @@ code.inline {
 	text-align: left;
 	font-size: 1.2rem;
 	margin-bottom: 1rem;
+	padding-top: 0;
+	padding-bottom: 0;
 }
 
 .blogcover {
