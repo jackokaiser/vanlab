@@ -22,7 +22,7 @@ module.exports = () => {
 			data: blogs,
 			seo: {
 				title: 'Vanderfool blog',
-				cover: '/assets/profile.jpg'
+				cover: 'https://vanderfool.com/profile.jpg'
 			}
 		},
 		{
@@ -45,7 +45,7 @@ module.exports = () => {
 			url: `/post/${blog.id}`,
 			seo: {
 				title: blog.details.title,
-				cover: blog.details.cover
+				cover: `https://vanderfool.com/${blog.details.cover}`
 			}
 			data: {
 				details: blog.details,
