@@ -60,7 +60,7 @@ function getBlogBody(props, data, isLoading) {
 					{ details.date && <caption class={style.blogsubtitle + " col"}>{details.date}</caption> }
 					<span class="fb-like col" data-href={`vanderfool.com${props.url}`} data-width="" data-layout="button_count" data-action="like" data-size="small" data-share="true"></span>
 				</div>
-				{ details.cover && <div class={style.blogcover} style={`background-image:url(${details.cover})`} /> }
+				{ details.cover && <img src={details.cover} class={style.cover} /> }
 				<div class={style.blogbody}>
 					<Markdown options={{
 						overrides: {
