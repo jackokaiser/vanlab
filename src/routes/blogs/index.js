@@ -1,10 +1,11 @@
 import { h } from 'preact';
 import { Link } from 'preact-router';
-import { usePrerenderData } from '@preact/prerender-data-provider';
+import { usePrerenderData } from '../../components/utils'
 import style from './style';
 
 const blogs = (props) => {
 	const [data, isLoading] = usePrerenderData(props);
+
 	return (
 		<div class={style.pageBlogs}>
 			<h1 class={style.pageTitle}>Van Building Diary</h1>
