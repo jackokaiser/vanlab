@@ -20,9 +20,9 @@ export default class App extends Component {
 	 */
 	handleRoute = e => {
 		this.currentUrl = e.url;
-		if (window) {
-			setTimeout(refreshFacebook, 1000);
-		}
+		if (typeof window !== "undefined") {
+				setTimeout(refreshFacebook, 1000);
+			}
 	};
 
 	render(props) {
