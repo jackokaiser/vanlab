@@ -30,7 +30,7 @@ function getBlogsListing(data, isLoading) {
 			<>
 				{blogs.edges.map(blog => (
 					<Link href={`/post/${blog.id}`}>
-						<article>
+						<article class="container-fluid">
 							<div class="row">
 								<div class="col-md-6 no">
 									<h2>{blog.details.title}</h2>
