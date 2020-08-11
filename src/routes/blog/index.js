@@ -10,7 +10,7 @@ const blogs = (props) => {
 	const [data, isLoading] = usePrerenderData(props);
 	return (
 		<article class={style.blogcontainer}>
-			{getBlogBody(data, isLoading)}
+			{getBlogBody(props, data, isLoading)}
 		</article>
 	);
 };
@@ -36,7 +36,7 @@ function InlineImage({ alt, title, src }) {
 	);
 }
 
-function getBlogBody(data, isLoading) {
+function getBlogBody(props, data, isLoading) {
 	if (isLoading) {
 		return (
 			<div class={style.loadingPlaceholder}>
@@ -56,7 +56,10 @@ function getBlogBody(data, isLoading) {
 		return (
 			<div>
 				<h1 class={style.blogtitle}>{details.title}</h1>
-				{ details.date && <caption class={style.blogsubtitle}>{details.date}</caption> }
+				<div class="row justify-content-between">
+					{ details.date && <caption class={style.blogsubtitle + " col"}>{details.date}</caption> }
+					<span class="fb-like col" data-href={`vanderfool.com${props.url}`} data-width="" data-layout="button_count" data-action="like" data-size="small" data-share="true"></span>
+				</div>
 				{ details.cover && <div class={style.blogcover} style={`background-image:url(${details.cover})`} /> }
 				<div class={style.blogbody}>
 					<Markdown options={{
@@ -70,6 +73,10 @@ function getBlogBody(data, isLoading) {
 						}
 					}}
 					>{ content }</Markdown>
+				</div>
+				<div class="d-flex">
+					<span class={`fb-like col-2-md ${style.likealign}`} data-href={`vanderfool.com${props.url}`} data-width="" data-layout="box_count" data-action="like" data-size="small" data-share="true"></span>
+					<div class="fb-comments col-10-md" data-href={`vanderfool.com${props.url}`} data-numposts="5" data-width="100%"></div>
 				</div>
 			</div>
 		);
