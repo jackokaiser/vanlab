@@ -9,23 +9,42 @@
 		<meta property="og:title" content="<%= (htmlWebpackPlugin.options.seo && htmlWebpackPlugin.options.seo.title) || htmlWebpackPlugin.options.title %>" />
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 		<% if(htmlWebpackPlugin.options.seo && 'cover' in htmlWebpackPlugin.options.seo) {%>
-			<meta property="og:image" content="<%= htmlWebpackPlugin.options.seo.cover %>" />
+		<meta property="og:image" content="<%= htmlWebpackPlugin.options.seo.cover %>" />
 		<% } %>
 		<% if(htmlWebpackPlugin.options.seo && 'subtitle' in htmlWebpackPlugin.options.seo) {%>
-			<meta property="og:description" content="<%= htmlWebpackPlugin.options.seo.subtitle %>" />
-			<meta property="description" content="<%= htmlWebpackPlugin.options.seo.subtitle %>" />
+		<meta property="og:description" content="<%= htmlWebpackPlugin.options.seo.subtitle %>" />
+		<meta property="description" content="<%= htmlWebpackPlugin.options.seo.subtitle %>" />
 		<% } %>
 		<meta name="twitter:card" content="<%= (htmlWebpackPlugin.options.seo && 'cover' in htmlWebpackPlugin.options.seo) ? 'summary_large_image' : 'summary'%>" />
 		<% if(htmlWebpackPlugin.options.seo && 'cover' in htmlWebpackPlugin.options.seo) {%>
-			<meta name="twitter:image" content="<%= htmlWebpackPlugin.options.seo.cover %>">
+		<meta name="twitter:image" content="<%= htmlWebpackPlugin.options.seo.cover %>">
 		<% } %>
 		<% if(htmlWebpackPlugin.options.seo && 'subtitle' in htmlWebpackPlugin.options.seo) {%>
-			<meta property="twitter:description" content="<%= htmlWebpackPlugin.options.seo.subtitle %>" />
+		<meta property="twitter:description" content="<%= htmlWebpackPlugin.options.seo.subtitle %>" />
 		<% } %>
 		<% preact.headEnd %>
 	</head>
 	<body>
-		<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v8.0" nonce="87SahINa"></script>
+		<script>
+		 window.fbAsyncInit = function() {
+			 FB.init({
+				 appId      : '307302537052260',
+				 cookie     : true,
+				 xfbml      : true,
+				 version    : 'v8.0'
+			 });
+
+			 FB.AppEvents.logPageView();
+		 };
+
+		 (function(d, s, id){
+			 var js, fjs = d.getElementsByTagName(s)[0];
+			 if (d.getElementById(id)) {return;}
+			 js = d.createElement(s); js.id = id;
+			 js.src = "https://connect.facebook.net/en_US/sdk.js";
+			 fjs.parentNode.insertBefore(js, fjs);
+		 }(document, 'script', 'facebook-jssdk'));
+		</script>
 		<% preact.bodyEnd %>
 		<div id="fb-root"></div>
 		<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

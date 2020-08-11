@@ -53,7 +53,6 @@ function getBlogBody(props, data, isLoading) {
 
 	if (data && data.data) {
 		const { details, content } = data.data;
-		setTimeout(() => {FB.XFBML.parse();}, 100);
 		return (
 			<div>
 				<h1 class={style.blogtitle}>{details.title}</h1>

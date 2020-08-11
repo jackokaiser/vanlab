@@ -2,6 +2,7 @@ import { h, Component } from 'preact';
 import { Router } from 'preact-router';
 import { Provider } from '@preact/prerender-data-provider';
 import Header from './header';
+import { refreshFacebook } from './utils';
 
 // Code-splitting is automated for routes
 import Home from '../routes/home';
@@ -19,6 +20,9 @@ export default class App extends Component {
 	 */
 	handleRoute = e => {
 		this.currentUrl = e.url;
+		if (window) {
+			setTimeout(refreshFacebook, 1000);
+		}
 	};
 
 	render(props) {
