@@ -1,6 +1,6 @@
 import { h } from 'preact';
 import style from './style';
-import { usePrerenderData } from '@preact/prerender-data-provider';
+import { usePrerenderData } from '../../components/utils'
 import Markdown from 'markdown-to-jsx';
 
 const contact = (props) => {

@@ -1,6 +1,6 @@
 import { h } from 'preact';
 import { Suspense } from 'preact/compat';
-import { usePrerenderData } from '@preact/prerender-data-provider';
+import { usePrerenderData } from '../../components/utils'
 import Markdown from 'markdown-to-jsx';
 import { FormattedCodeBlock } from './formatted-code-block';
 
@@ -58,7 +58,7 @@ function getBlogBody(props, data, isLoading) {
 				<h1 class={style.blogtitle}>{details.title}</h1>
 				<div class="row justify-content-between">
 					{ details.date && <caption class={style.blogsubtitle + " col"}>{details.date}</caption> }
-					<span class="fb-like col flex-grow-0" data-href={`vanderfool.com${props.url}`} data-width="" data-layout="button_count" data-action="like" data-size="small" data-share="true"></span>
+					<span class="fb-like col flex-grow-0" data-href={props.url} data-width="" data-layout="button_count" data-action="like" data-size="small" data-share="true"></span>
 				</div>
 				{ details.cover && <img src={details.cover} class={style.cover} /> }
 				<div class={style.blogbody}>
@@ -76,7 +76,7 @@ function getBlogBody(props, data, isLoading) {
 				</div>
 				<div class="d-flex">
 					<span class={`fb-like col-2-md ${style.likealign}`} data-href={`vanderfool.com${props.url}`} data-width="" data-layout="box_count" data-action="like" data-size="small" data-share="true"></span>
-					<div class="fb-comments col-10-md" data-href={`vanderfool.com${props.url}`} data-numposts="5" data-width="100%"></div>
+					<div class="fb-comments col-10-md" data-href={props.url} data-numposts="5" data-width="100%"></div>
 				</div>
 			</div>
 		);
