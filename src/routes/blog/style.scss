@@ -84,12 +84,12 @@ code.inline {
 	padding-bottom: 0;
 }
 
-.blogcover {
+.cover {
 	height: 30vh;
-	background-size: cover;
-	background-color: #eee;
-	background-position: center;
+	width: 100%;
+	object-fit: cover;
 	margin-bottom: 1rem;
+	background-color: #eee;
 }
 
 .loadingPlaceholder .blogtitle {
