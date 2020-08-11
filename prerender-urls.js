@@ -21,6 +21,7 @@ module.exports = () => {
 			url: '/',
 			data: blogs,
 			seo: {
+				title: 'Vanderfool blog',
 				cover: '/assets/profile.jpg'
 			}
 		},
@@ -42,7 +43,10 @@ module.exports = () => {
 		}
 		return {
 			url: `/post/${blog.id}`,
-			seo: blog.details,
+			seo: {
+				title: blog.details.title,
+				cover: blog.details.cover
+			}
 			data: {
 				details: blog.details,
 				content: data
