@@ -26,7 +26,6 @@ function getBlogsListing(data, isLoading) {
 	}
 	if (data && data.data) {
 		const { data: blogs } = data;
-		setTimeout(() => {FB.XFBML.parse();}, 100);
 		return (
 			<>
 				{blogs.edges.map(blog => (
