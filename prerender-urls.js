@@ -22,7 +22,7 @@ module.exports = () => {
 			data: blogs,
 			seo: {
 				title: 'Vanderfool blog',
-				cover: 'https://vanderfool.com/profile.jpg'
+				cover: 'https://vanderfool.com/assets/van.jpg'
 			}
 		},
 		{
