@@ -42,7 +42,7 @@ function getBlogsListing(data, isLoading) {
 									</p>
 									<div class="d-flex justify-content-between">
 										<span class={style.tag}>{ blog.details.date }</span>
-										<span class="fb-like" data-href={`vanderfool.com/post/${blog.id}`} data-width="" data-layout="button_count" data-action="like" data-size="small" data-share="true"></span>
+										<span class="fb-like" data-href={`vanderfool.com/post/${blog.id}`} data-width="" data-layout="button" data-action="like" data-size="small" data-share="true"></span>
 									</div>
 								</div>
 								{ blog.details.cover && <img src={blog.details.cover} class={style.cover + " col-md-6"} /> }

@@ -60,7 +60,7 @@ function getBlogBody(props, data, isLoading) {
 				<h1 class={style.blogtitle}>{details.title}</h1>
 				<div class="row justify-content-between">
 					{ details.date && <caption class={style.blogsubtitle + " col"}>{details.date}</caption> }
-					<span class="fb-like col flex-grow-0" data-href={props.url} data-width="" data-layout="button_count" data-action="like" data-size="small" data-share="true"></span>
+					<span class="fb-like col flex-grow-0" data-href={props.url} data-width="" data-layout="button" data-action="like" data-size="small" data-share="true"></span>
 				</div>
 				{ details.cover && <img src={details.cover} class={style.cover} /> }
 				<div class={style.blogbody}>
