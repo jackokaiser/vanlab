@@ -1,4 +1,5 @@
 import { usePrerenderData as OriginalUsePrerenderData } from '@preact/prerender-data-provider';
+import { Component } from 'preact';
 
 const refreshFacebook = () => {
 	if (FB && FB.XFBML) {
@@ -11,4 +12,14 @@ const usePrerenderData = (props) => {
 	return OriginalUsePrerenderData({ url });
 }
 
-export { refreshFacebook, usePrerenderData };
+class FacebookComponent extends Component {
+	componentDidMount() {
+		refreshFacebook();
+	}
+	componentDidUpdate() {
+		refreshFacebook();
+	}
+};
+
+
+export { refreshFacebook, usePrerenderData, FacebookComponent };
