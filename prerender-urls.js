@@ -22,8 +22,7 @@ module.exports = () => {
 			data: blogs,
 			seo: {
 				title: 'Vanderfool blog - our van building diary',
-				cover: 'https://vanderfool.com/assets/van.jpg',
-				subtitle: ''
+				cover: 'https://vanderfool.com/assets/van.jpg'
 			}
 		},
 		{
@@ -47,7 +46,6 @@ module.exports = () => {
 			seo: {
 				title: blog.details.title,
 				cover: `https://vanderfool.com${blog.details.cover}`,
-				subtitle: '',
 				url: `https://vanderfool.com/post/${blog.id}`
 			},
 			data: {
