@@ -1,18 +1,20 @@
 import { h } from 'preact';
 import { Suspense } from 'preact/compat';
-import { usePrerenderData } from '../../components/utils'
+import { usePrerenderData, FacebookComponent } from '../../components/utils'
 import Markdown from 'markdown-to-jsx';
 import { FormattedCodeBlock } from './formatted-code-block';
 
 import style from './style';
 
-const blogs = (props) => {
-	const [data, isLoading] = usePrerenderData(props);
-	return (
-		<article class={`container-fluid ${style.blogcontainer}`}>
-			{getBlogBody(props, data, isLoading)}
-		</article>
-	);
+class Blog extends FacebookComponent {
+	render(props) {
+		const [data, isLoading] = usePrerenderData(props);
+		return (
+			<article class={`container-fluid ${style.blogcontainer}`}>
+				{getBlogBody(props, data, isLoading)}
+			</article>
+		);
+	}
 };
 
 function CodeBlock(props) {
@@ -83,4 +85,4 @@ function getBlogBody(props, data, isLoading) {
 	}
 }
 
-export default blogs;
+export default Blog;

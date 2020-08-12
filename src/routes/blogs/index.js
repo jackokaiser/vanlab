@@ -1,17 +1,19 @@
 import { h } from 'preact';
 import { Link } from 'preact-router';
-import { usePrerenderData } from '../../components/utils'
+import { usePrerenderData, FacebookComponent } from '../../components/utils'
 import style from './style';
 
-const blogs = (props) => {
-	const [data, isLoading] = usePrerenderData(props);
+class Blogs extends FacebookComponent {
+	render(props) {
+		const [data, isLoading] = usePrerenderData(props);
 
-	return (
-		<div class={style.pageBlogs}>
-			<h1 class={style.pageTitle}>Van Building Diary</h1>
-			{ getBlogsListing(data, isLoading) }
-		</div>
-	);
+		return (
+			<div class={style.pageBlogs}>
+				<h1 class={style.pageTitle}>Van Building Diary</h1>
+				{ getBlogsListing(data, isLoading) }
+			</div>
+		);
+	}
 };
 
 function getBlogsListing(data, isLoading) {
@@ -53,4 +55,4 @@ function getBlogsListing(data, isLoading) {
 	}
 }
 
-export default blogs;
+export default Blogs;
