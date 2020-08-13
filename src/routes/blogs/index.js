@@ -9,7 +9,7 @@ class Blogs extends FacebookComponent {
 
 		return (
 			<div class={style.pageBlogs}>
-				<h1 class={style.pageTitle}>Van Building Diary</h1>
+				<h1 class={style.pageTitle}>Van Conversion Diary</h1>
 				{ getBlogsListing(data, isLoading) }
 			</div>
 		);
