@@ -21,7 +21,7 @@ module.exports = () => {
 			url: '/',
 			data: blogs,
 			seo: {
-				title: 'Vanderfool blog - our van building diary',
+				title: 'Vanderfool blog - our van conversion diary',
 				cover: 'https://vanderfool.com/assets/van.jpg'
 			}
 		},
