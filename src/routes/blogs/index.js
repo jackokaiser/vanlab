@@ -8,7 +8,7 @@ class Blogs extends FacebookComponent {
 		const [data, isLoading] = usePrerenderData(props);
 
 		return (
-			<div class={style.pageBlogs}>
+			<div>
 				<h1 class={style.pageTitle}>Van Conversion Diary</h1>
 				{ getBlogsListing(data, isLoading) }
 			</div>
@@ -40,7 +40,7 @@ function getBlogsListing(data, isLoading) {
 									<p class={style.preview}>
 										{blog.preview}
 									</p>
-									<div class="d-flex justify-content-between">
+									<div class={`${style.meta} d-flex justify-content-between`}>
 										<span class={style.tag}>{ blog.details.date }</span>
 										<span class="fb-like" data-href={`https://vanderfool.com/post/${blog.id}`} data-width="" data-layout="button" data-action="like" data-size="small" data-share="true"></span>
 									</div>

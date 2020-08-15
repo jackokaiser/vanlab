@@ -29,7 +29,10 @@ module.exports = () => {
 			url: '/contact/',
 			data: getPageMd('contact')
 		},
-		{ url: '/contact/success' }
+		{
+			url: '/privacy-policy/',
+			data: getPageMd('privacy-policy')
+		}
 	];
 
 	// adding all blog webpages
