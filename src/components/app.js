@@ -2,6 +2,7 @@ import { h, Component } from 'preact';
 import { Router } from 'preact-router';
 import { Provider } from '@preact/prerender-data-provider';
 import Header from './header';
+import Footer from './footer';
 
 // Code-splitting is automated for routes
 import Home from '../routes/home';
@@ -10,6 +11,7 @@ import Blog from '../routes/blog';
 import Contact from '../routes/contact';
 import ContactSuccess from '../routes/contact-success';
 import NotFoundPage from '../routes/notfound';
+import PrivacyPolicy from '../routes/privacy-policy';
 
 export default class App extends Component {
 
@@ -26,13 +28,18 @@ export default class App extends Component {
 			<Provider value={props}>
 				<div id="app">
 					<Header />
-					<Router onChange={this.handleRoute}>
-						<Blogs path="/" />
-						<Blog path="/post/:name" />
-						<Contact path="/contact/" />
-						<ContactSuccess path="/contact/success" />
-						<NotFoundPage type="404" default />
-					</Router>
+					<div class="pagewrap">
+						<div class="main container clear-top">
+							<Router onChange={this.handleRoute}>
+								<Blogs path="/" />
+								<Blog path="/post/:name" />
+								<Contact path="/contact/" />
+								<PrivacyPolicy path="/privacy-policy/" />
+								<NotFoundPage type="404" default />
+							</Router>
+						</div>
+					</div>
+					<Footer />
 				</div>
 			</Provider>
 		);

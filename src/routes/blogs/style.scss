@@ -5,10 +5,6 @@
 	margin-bottom: 1rem;
 }
 
-.pageBlogs {
-	padding: 0 5%;
-}
-
 .pageTitle {
 	position: relative;
 	display: inline-block;
@@ -23,6 +19,10 @@
 	content: '';
 	width: 75%;
 	border-bottom: 2px solid #FFC107;
+}
+
+.meta {
+	max-height: 2rem;
 }
 
 h2 {

@@ -22,3 +22,8 @@ collections:
         file: "content/pages/contact.md"
         fields:
           - {label: Body, name: body, widget: markdown}
+      - label: "Privacy Policy Page"
+        name: "privacy_policy"
+        file: "content/pages/privacy-policy.md"
+        fields:
+          - {label: Body, name: body, widget: markdown}

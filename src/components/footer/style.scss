@@ -1,0 +1,9 @@
+@import '../../style/common';
+
+.footer {
+  position: relative;
+  margin-top: -$footer-height; /* negative value of footer height */
+  height: $footer-height;
+  clear:both;
+  padding-top:20px;
+}

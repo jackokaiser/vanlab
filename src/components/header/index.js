@@ -2,8 +2,6 @@ import { h } from 'preact';
 import { Link } from 'preact-router/match';
 import style from './style';
 
-import { useContext } from 'preact/hooks';
-
 const Header = (props) => {
 	return (
 		<header>
