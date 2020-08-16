@@ -18,12 +18,22 @@ body {
 }
 
 .main {
-	overflow:auto;
+	overflow: hidden;
 	padding-bottom: $footer-height;
 }
 
 img {
 	max-width: 100%;
+}
+
+.row-image {
+	display: flex;
+	align-items: flex-end;
+	margin: 32px 0px;
+}
+
+.row-image > div {
+	margin: 0 10px;
 }
 
 * {
