@@ -12,14 +12,4 @@ const usePrerenderData = (props) => {
 	return OriginalUsePrerenderData({ url });
 }
 
-class FacebookComponent extends Component {
-	componentDidMount() {
-		refreshFacebook();
-	}
-	componentDidUpdate() {
-		refreshFacebook();
-	}
-};
-
-
-export { refreshFacebook, usePrerenderData, FacebookComponent };
+export { refreshFacebook, usePrerenderData };

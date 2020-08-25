@@ -1,19 +1,21 @@
 import { h } from 'preact';
+import { useEffect } from 'preact/hooks';
 import { Link } from 'preact-router';
-import { usePrerenderData, FacebookComponent } from '../../components/utils'
+import { usePrerenderData, refreshFacebook } from '../../components/utils'
 import style from './style';
 
-class Blogs extends FacebookComponent {
-	render(props) {
-		const [data, isLoading] = usePrerenderData(props);
-
-		return (
-			<div>
-				<h1 class={style.pageTitle}>Van Conversion Diary</h1>
-				{ getBlogsListing(data, isLoading) }
-			</div>
-		);
+const Blogs = (props) => {
+	const [data, isLoading] = usePrerenderData(props);
+	if (!isLoading) {
+		useEffect(refreshFacebook);
 	}
+
+	return (
+		<div>
+			<h1 class={style.pageTitle}>Van Conversion Diary</h1>
+			{ getBlogsListing(data, isLoading) }
+		</div>
+	);
 };
 
 function getBlogsListing(data, isLoading) {
