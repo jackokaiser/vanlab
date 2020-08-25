@@ -1,20 +1,23 @@
 import { h } from 'preact';
+import { useEffect } from 'preact/hooks';
 import { Suspense } from 'preact/compat';
-import { usePrerenderData, FacebookComponent } from '../../components/utils'
+import { usePrerenderData, refreshFacebook } from '../../components/utils'
 import Markdown from 'markdown-to-jsx';
 import { FormattedCodeBlock } from './formatted-code-block';
 
 import style from './style';
 
-class Blog extends FacebookComponent {
-	render(props) {
-		const [data, isLoading] = usePrerenderData(props);
-		return (
-			<article class={`container-fluid ${style.blogcontainer}`}>
-				{getBlogBody(props, data, isLoading)}
-			</article>
-		);
+const Blog = (props) => {
+	const [data, isLoading] = usePrerenderData(props);
+	if (!isLoading) {
+		useEffect(refreshFacebook);
 	}
+
+	return (
+		<article class={`container-fluid ${style.blogcontainer}`}>
+			{getBlogBody(props, data, isLoading)}
+		</article>
+	);
 };
 
 function CodeBlock(props) {
