@@ -10,7 +10,7 @@ We picked the MPK vision vent M pro, because it has a certified passive air flow
 
 <div class="row-image">
 ![Plastic piece](/assets/roof_window/IMG_20200905_090443.jpg "plastic piece")
-![Frame upside down](/assets/roof_window/IMG_20200911_203908.jpg "frame upside down")
+![Frame upside down](/assets/roof_window/IMG_20200904_193319.jpg "frame upside down")
 </div>
 
 We had to cut the little teeth of the plastic pieces to make the surface flat. We have also been unable to fit the four corner pieces, so currently the wooden frame only holds with the four border pieces. We will reinforce the structure once we get to the cladding of the roof.
