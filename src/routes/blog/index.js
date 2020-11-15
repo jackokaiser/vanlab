@@ -35,7 +35,7 @@ function CodeBlock(props) {
 function InlineImage({ alt, title, src }) {
 	return (
 		<div class={style.inlineImageContainer}>
-			<a href={src}>
+			<a native href={src}>
 				<img class={style.inlineImage} src={src} alt={alt} />
 			</a>
 			{title && <span class={style.inlineImageTitle}>{title}</span>}
@@ -70,7 +70,11 @@ function getBlogBody(props, data, isLoading) {
 					{ details.date && <caption class={style.blogsubtitle + " col"}>{details.date}</caption> }
 					<span class="fb-like col flex-grow-0" data-href={rawUrl} data-width="" data-layout="button" data-action="like" data-size="small" data-share="true"></span>
 				</div>
-				{ details.cover && <img src={details.cover} class={style.cover} /> }
+				{ details.cover &&
+          <a href={details.cover} native>
+            <img src={details.cover} class={style.cover} />
+          </a>
+        }
 				<div class={style.blogbody}>
 					<Markdown options={{
 						overrides: {
