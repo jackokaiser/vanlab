@@ -35,7 +35,9 @@ function CodeBlock(props) {
 function InlineImage({ alt, title, src }) {
 	return (
 		<div class={style.inlineImageContainer}>
-			<img class={style.inlineImage} src={src} alt={alt} />
+			<a href={src}>
+				<img class={style.inlineImage} src={src} alt={alt} />
+			</a>
 			{title && <span class={style.inlineImageTitle}>{title}</span>}
 		</div>
 	);
