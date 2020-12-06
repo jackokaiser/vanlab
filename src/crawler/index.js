@@ -27,10 +27,21 @@ function getDetails(format, data) {
 }
 
 function getPreview(data) {
-	const { content } = parseMD(data);
-	let preview = content.replace(/---(.*(\r)?\n)*---/, '').replace(/\[.*\]\(.*\)/g, '').replace(/(\r)?\n/,'');
-	/* preview = preview.substr(0, (preview.indexOf('\n') -1)); */
-	return preview.length < 500? preview : (preview.substr(0, 497) + '...');
+  const { content } = parseMD(data);
+	let preview = content.replace(/---(.*(\r)?\n)*---/, '')
+                       .replace(/\[.*\]\(.*\)/g, '')
+                       .replace(/(\r)?\n/,'')
+                       .replace(/<div.*>[.\s\S]*?<\/div>/, '')
+                       .replace(/(\r)?\n/,'');
+  let firstSentence = ['.', '!', '?']
+    .map(d => preview.indexOf(d))
+    .filter(idx => idx > 0);
+	let subtitle = preview.substr(0, Math.min(...firstSentence));
+  let previewLength = 500;
+	return {
+    'preview' : preview.length < previewLength? preview : (preview.substr(0, previewLength) + '...'),
+    subtitle
+  }
 }
 
 function getFolders(source) {
@@ -44,13 +55,15 @@ function getFolders(source) {
 		const id = file.substr(file.lastIndexOf(sep) + 1);
 		const format = getExtensionFromFilename(id);
 		const details = getDetails(format, data);
+    const { preview, subtitle } = getPreview(data);
 
 		return {
 			id,
 			format,
 			path: file,
-			details: details,
-			preview: getPreview(data)
+			details,
+      preview,
+      subtitle
 		};
 	});
 	const nodes = allContent.filter(isDirectory).map(dir => getFolders(dir));
