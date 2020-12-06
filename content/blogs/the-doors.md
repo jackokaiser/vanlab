@@ -1,11 +1,11 @@
 ---
-title: Isolating and cladding the doors
+title: Insulating and cladding the doors
 date: 2020-11-19
 cover: /assets/doors/combined_doors.jpg
 ---
 
 The van has two doors to access the future living area: a sliding door on the side, and a two half doors rotating on the back.
-We completed the isolation and cladding for the sliding door in mid-September, and the back doors in late November.
+We completed the insulation and cladding for the sliding door in mid-September, and the back doors in late November.
 In between I started tracking time - so I can state that for the back doors it took us 22 hours of work.
 
 <div class="row-image">
@@ -13,8 +13,8 @@ In between I started tracking time - so I can state that for the back doors it t
 ![Intello vapour barrier](/assets/doors/IMG_20200913_164115.jpg "Intello vapour barrier")
 </div>
 
-For the doors, the isolation only consists of hemp.
-Protecting this isolation with the intello membrane was tricky around features like door handles and latches which are not air-tight.
+For the doors, the insulation only consists of hemp.
+Protecting this insulation with the intello membrane was tricky around features like door handles and latches which are not air-tight.
 Those features also made it complicated for cladding, since we decided for lambri instead of a wood panel.
 Additionally there are a bunch of running cables within the doors' structure to handle locking and lights.
 It was stressful to drill blindly behind the membrane where we knew cables were near.
