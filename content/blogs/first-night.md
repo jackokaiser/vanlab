@@ -9,8 +9,8 @@ We have celebrated New Year's Eve at friends - Tiphaine and Alexandre.
 They live quite close to my mother's place where we currently live, but with the French curfew of 8pm, we couldn't just drive back after the party - we had to stay over!
 This was the call for a meaningful deadline: get the bed done before 2021.
 
-Actually we had built and [oiled the bed frame](oiling-the-bed.md) a while ago, long before we even bought the van.
-What was left to do was to find a way to robustly attach the bed to the [15mm OSB floor](floor.md), at the right height.
+Actually we had built and [oiled the bed frame](/post/oiling-the-bed.md) a while ago, long before we even bought the van.
+What was left to do was to find a way to robustly attach the bed to the [15mm OSB floor](/post/floor.md), at the right height.
 The core part of the bed frame consists of a 1,40m x 1,40m square, which stands on 6 legs.
 The legs consists of 3cm x 3cm aluminum square profiles, which slide in bed feet, themselves attached to the floor with two nuts each.
 
