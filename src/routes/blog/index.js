@@ -90,7 +90,6 @@ function getBlogBody(props, data, isLoading) {
 				</div>
 				<div class="d-flex">
 					<span class={`fb-like col-2-md ${style.likealign}`} data-href={rawUrl} data-width="" data-layout="box_count" data-action="like" data-size="small" data-share="true"></span>
-					<div class="fb-comments col-10-md" data-href={rawUrl} data-numposts="5" data-width="100%"></div>
 				</div>
 			</div>
 		);
