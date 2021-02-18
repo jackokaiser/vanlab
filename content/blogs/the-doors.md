@@ -15,7 +15,7 @@ In between I started tracking time - so I can state that for the back doors it t
 
 For the doors, the insulation only consists of hemp.
 Protecting this insulation with the intello membrane was tricky around features like door handles and latches which are not air-tight.
-Those features also made it complicated for cladding, since we decided for lambri instead of a wood panel.
+Those features also made it complicated for cladding, since we decided for lambris instead of a wood panel.
 Additionally there are a bunch of running cables within the doors' structure to handle locking and lights.
 It was stressful to drill blindly behind the membrane where we knew cables were near.
 There was no choice though, since the doors also do not offer so much structure into which you can drill.
@@ -32,13 +32,13 @@ For rivet nuts, you first drill a hole, in which you then insert the rivet.
 Using a special clamp, you bend the rivet so that it holds strong on the surface.
 These rivets are threaded, so once in place you can screw and unscrew screws.
 The tricky part with rivnuts, is that the hole in the metal and the hole in the wood has to align perfectly.
-We have used them for the sliding door, since we attached lambri pieces unpainted, took them down a month later to paint them and attached them again.
+We have used them for the sliding door, since we attached lambris pieces unpainted, took them down a month later to paint them and attached them again.
 Even there, once painted some holes did not want to align anymore and we had to use standard screws.
 
 <div class="row-image">
 ![Rivnut backside](/assets/doors/IMG_20201001_112525.jpg "Rivnut backside")
 ![Don't: Rivnut on Naideck](/assets/doors/IMG_20200913_143844.jpg "Don't: Rivnut on Naideck")
-![Lambri](/assets/doors/IMG_20200913_144540.jpg "Lambri")
+![Lambris](/assets/doors/IMG_20200913_144540.jpg "Lambris")
 </div>
 
 Here is the reason why rivnuts did not work so good for the sliding door in our case.
