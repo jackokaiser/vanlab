@@ -28,12 +28,16 @@ img {
 
 .row-image {
 	display: flex;
-	align-items: flex-start;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
 	margin: 32px 0px;
-}
-
-.row-image > div {
-	margin: 0 10px;
+	> div {
+		margin: 0 10px;
+	}
+	@include sm-up {
+		flex-wrap: nowrap;
+	}
 }
 
 * {

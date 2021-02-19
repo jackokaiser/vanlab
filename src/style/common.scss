@@ -1,1 +1,7 @@
 $footer-height: 40px;
+
+@mixin sm-up {
+	@media (min-width: 960px) {
+		@content;
+	}
+}
