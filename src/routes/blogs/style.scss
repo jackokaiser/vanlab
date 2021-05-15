@@ -5,22 +5,6 @@
   margin-bottom: 1rem;
 }
 
-.pageTitle {
-  position: relative;
-  display: inline-block;
-  font-weight: 500;
-  font-family: serif;
-}
-
-.pageTitle:after {
-  position: absolute;
-  bottom: -5px;
-  left: 0px;
-  content: '';
-  width: 75%;
-  border-bottom: 2px solid #FFC107;
-}
-
 .meta {
   max-height: 2rem;
 }
