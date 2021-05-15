@@ -1,7 +1,23 @@
 $footer-height: 40px;
 
 @mixin sm-up {
-	@media (min-width: 960px) {
-		@content;
-	}
+  @media (min-width: 960px) {
+    @content;
+  }
+}
+
+.pageTitle {
+  position: relative;
+  display: inline-block;
+  font-weight: 500;
+  font-family: serif;
+}
+
+.pageTitle:after {
+  position: absolute;
+  bottom: -5px;
+  left: 0px;
+  content: '';
+  width: 75%;
+  border-bottom: 2px solid #FFC107;
 }
