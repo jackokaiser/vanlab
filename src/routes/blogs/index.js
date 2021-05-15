@@ -1,7 +1,7 @@
 import { h } from 'preact'
 import { useEffect } from 'preact/hooks'
 import { Link } from 'preact-router'
-import { usePrerenderData, refreshFacebook } from '../../components/utils'
+import { usePrerenderData, refreshFacebook, callToAction } from '../../components/utils'
 import style from './style'
 
 const Blogs = (props) => {
@@ -12,8 +12,10 @@ const Blogs = (props) => {
 
   return (
     <div>
-      <h1 class={style.pageTitle}>Van Conversion Diary</h1>
+      {callToAction()}
+      <h1 class="pageTitle">Van Conversion Diary</h1>
       {getBlogsListing(data, isLoading)}
+      {callToAction()}
     </div>
   )
 }
@@ -37,7 +39,7 @@ function getBlogsListing (data, isLoading) {
           <Link href={`/post/${blog.id}`}>
             <article class='container-fluid'>
               <div class='row'>
-                <div class='col-md-6 no'>
+                <div class='col-md-6 pl-0'>
                   <h2>{blog.details.title}</h2>
                   <p class={style.preview}>
                     {blog.preview}
