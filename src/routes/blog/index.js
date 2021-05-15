@@ -64,13 +64,14 @@ function getBlogBody (props, data, isLoading) {
 
   if (data && data.data) {
     const { details, content } = data.data
+    const postUrl = data.seo.url
 
     return (
       <div>
         <h1 class={style.blogtitle}>{details.title}</h1>
         <div class='row justify-content-between'>
           {details.date && <caption class={style.blogsubtitle + ' col'}>{details.date}</caption>}
-          <span class='fb-like col flex-grow-0' data-href="https://www.facebook.com/vanderfool.fr" data-width='' data-layout='button' data-action='like' data-size='small' data-share='true' />
+          <div class="fb-share-button" data-href={postUrl} data-layout="button_count" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={`${encodeURIComponent(postUrl)}&amp;src=sdkpreparse`}" class="fb-xfbml-parse-ignore">Share</a></div>
         </div>
         {details.cover &&
          <a href={details.cover} native>
@@ -89,9 +90,6 @@ function getBlogBody (props, data, isLoading) {
           }}
           >{content}
           </Markdown>
-        </div>
-        <div class='d-flex'>
-          <span class="fb-like col-2-md mt-2" data-href="https://www.facebook.com/vanderfool.fr" data-width='' data-layout='box_count' data-action='like' data-size='small' data-share='true' />
         </div>
       </div>
     )
