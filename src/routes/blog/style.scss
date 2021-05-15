@@ -1,130 +1,126 @@
-.likealign {
-	margin-top: 2.5rem;
-}
-
 .blogcontainer {
-	max-width: 728px;
+  max-width: 728px;
 }
 
 .blogtitle {
-	font-size: 2.2rem;
-	font-weight: 400;
-	margin-bottom: 8px;
-	line-height: 1;
+  font-size: 2.2rem;
+  font-weight: 400;
+  margin-bottom: 8px;
+  line-height: 1;
 }
 
 .blogbody {
-	font-size: 1.1rem;
+  font-size: 1.1rem;
 }
 
 .blogbody img {
-	max-width: 100%;
+  max-width: 100%;
 }
 
 .blogbody a {
-	color: #000;
-	text-decoration: underline;
+  color: #000;
+  text-decoration: underline;
 }
 
 .blogbody pre code {
-	display: block;
-	max-width: 100%;
-	color: rgb(57, 58, 52);
-	font-family: Consolas, "Bitstream Vera Sans Mono", "Courier New", Courier, monospace;
-	direction: ltr;
-	text-align: left;
-	white-space: pre;
-	word-spacing: normal;
-	word-break: normal;
-	font-size: 0.95em;
-	line-height: 1.2em;
-	tab-size: 4;
-	hyphens: none;
-	overflow-x: scroll;
+  display: block;
+  max-width: 100%;
+  color: rgb(57, 58, 52);
+  font-family: Consolas, "Bitstream Vera Sans Mono", "Courier New", Courier, monospace;
+  direction: ltr;
+  text-align: left;
+  white-space: pre;
+  word-spacing: normal;
+  word-break: normal;
+  font-size: 0.95em;
+  line-height: 1.2em;
+  tab-size: 4;
+  hyphens: none;
+  overflow-x: scroll;
 }
 
 code.inline {
-	display: inline;
-	max-width: none;
-	background: #ddd;
-	padding: 0px 4px;
+  display: inline;
+  max-width: none;
+  background: #ddd;
+  padding: 0px 4px;
 }
 
 .blogbody pre pre {
-	max-width: 100%;
-	overflow: scroll;
-	color: rgb(57, 58, 52);
-	font-family: Consolas, "Bitstream Vera Sans Mono", "Courier New", Courier;
-	direction: ltr;
-	text-align: left;
-	white-space: pre;
-	word-spacing: normal;
-	word-break: normal;
-	font-size: 0.95em;
-	line-height: 1.2em;
-	tab-size: 4;
-	hyphens: none;
-	padding: 1em;
-	margin: 0.5em 0px;
-	overflow: auto;
-	border: 1px solid rgb(221, 221, 221);
-	background-color: white;
+  max-width: 100%;
+  overflow: scroll;
+  color: rgb(57, 58, 52);
+  font-family: Consolas, "Bitstream Vera Sans Mono", "Courier New", Courier;
+  direction: ltr;
+  text-align: left;
+  white-space: pre;
+  word-spacing: normal;
+  word-break: normal;
+  font-size: 0.95em;
+  line-height: 1.2em;
+  tab-size: 4;
+  hyphens: none;
+  padding: 1em;
+  margin: 0.5em 0px;
+  overflow: auto;
+  border: 1px solid rgb(221, 221, 221);
+  background-color: white;
 }
 
 .blogsubtitle {
-	color: #aaa;
-	display: block;
-	text-align: left;
-	font-size: 1.2rem;
-	margin-bottom: 1rem;
-	padding-top: 0;
-	padding-bottom: 0;
+  color: #aaa;
+  display: block;
+  text-align: left;
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+  padding-top: 0;
+  padding-bottom: 0;
 }
 
 .cover {
-	height: 30vh;
-	width: 100%;
-	object-fit: cover;
-	margin-bottom: 1rem;
-	background-color: #eee;
+  height: 30vh;
+  width: 100%;
+  object-fit: cover;
+  margin-bottom: 1rem;
+  background-color: #eee;
 }
 
 .loadingPlaceholder .blogtitle {
-	height: 24px;
+  height: 24px;
 }
 
 .loadingPlaceholder .blogsubtitle {
-	height: 18px;
+  height: 18px;
 }
 
 .loadingBody {
-	height: 12px;
-	margin-bottom: 8px;
+  height: 12px;
+  margin-bottom: 8px;
 }
 
 .loadingBody:nth-child(1) {
-	width: 90%;
+  width: 90%;
 }
 
 .loadingBody:nth-child(3) {
-	width: 65%;
+  width: 65%;
 }
 
 .inlineImageContainer{
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	align-items: center;
-	width: 80%;
-	margin: 32px auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  margin: 32px auto;
 }
 
 .inlineImage {
-	max-width: 100%;
+  max-width: 100%;
 }
 
 .inlineImageTitle {
-	font-size: 0.9rem;
-	margin-top: 8px;
-	color: #777;
+  font-size: 0.9rem;
+  margin-top: 8px;
+  color: #777;
 }
