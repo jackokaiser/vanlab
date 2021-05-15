@@ -65,19 +65,17 @@ function getBlogBody (props, data, isLoading) {
   if (data && data.data) {
     const { details, content } = data.data
 
-    const rawUrl = 'https://vanderfool.com' + props.url.split('?')[0]
-
     return (
       <div>
         <h1 class={style.blogtitle}>{details.title}</h1>
         <div class='row justify-content-between'>
           {details.date && <caption class={style.blogsubtitle + ' col'}>{details.date}</caption>}
-          <span class='fb-like col flex-grow-0' data-href={rawUrl} data-width='' data-layout='button' data-action='like' data-size='small' data-share='true' />
+          <span class='fb-like col flex-grow-0' data-href="https://www.facebook.com/vanderfool.fr" data-width='' data-layout='button' data-action='like' data-size='small' data-share='true' />
         </div>
         {details.cover &&
-          <a href={details.cover} native>
-            <img src={details.cover} class={style.cover} />
-          </a>}
+         <a href={details.cover} native>
+           <img src={details.cover} class={style.cover} />
+         </a>}
         <div class={style.blogbody}>
           <Markdown options={{
             overrides: {
@@ -93,7 +91,7 @@ function getBlogBody (props, data, isLoading) {
           </Markdown>
         </div>
         <div class='d-flex'>
-          <span class={`fb-like col-2-md ${style.likealign}`} data-href={rawUrl} data-width='' data-layout='box_count' data-action='like' data-size='small' data-share='true' />
+          <span class="fb-like col-2-md mt-2" data-href="https://www.facebook.com/vanderfool.fr" data-width='' data-layout='box_count' data-action='like' data-size='small' data-share='true' />
         </div>
       </div>
     )
