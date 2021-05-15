@@ -1,4 +1,5 @@
 ---
+title: Privacy policy
 ---
 
 ## User data

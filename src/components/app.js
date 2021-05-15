@@ -8,10 +8,8 @@ import Footer from './footer'
 import Home from '../routes/home'
 import Blogs from '../routes/blogs'
 import Blog from '../routes/blog'
-import Contact from '../routes/contact'
-import ContactSuccess from '../routes/contact-success'
+import GenericMd from '../routes/generic-md'
 import NotFoundPage from '../routes/notfound'
-import PrivacyPolicy from '../routes/privacy-policy'
 
 export default class App extends Component {
   /** Gets fired when the route changes.
@@ -32,8 +30,9 @@ export default class App extends Component {
               <Router onChange={this.handleRoute}>
                 <Blogs path='/' />
                 <Blog path='/post/:name' />
-                <Contact path='/contact/' />
-                <PrivacyPolicy path='/privacy-policy/' />
+                <GenericMd path='/contact/' />
+                <GenericMd path='/registered/' />
+                <GenericMd path='/privacy-policy/' />
                 <NotFoundPage type='404' default />
               </Router>
             </div>

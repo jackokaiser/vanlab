@@ -1,9 +1,8 @@
 import { h } from 'preact'
-import style from './style'
 import { usePrerenderData } from '../../components/utils'
 import Markdown from 'markdown-to-jsx'
 
-const contact = (props) => {
+const genericMd = (props) => {
   const [data, isLoading] = usePrerenderData(props)
 
   if (isLoading) {
@@ -15,10 +14,12 @@ const contact = (props) => {
   }
 
   if (data && data.data) {
-    const { content, details } = data.data
+    console.log(data)
+    const content = data.data.content
+    const title = data.data.metadata.title
     return (
       <div>
-        <h1 class={style.pageTitle}>Contact</h1>
+        <h1 class="pageTitle">{title}</h1>
         <div>
           <Markdown>
             {content}
@@ -29,4 +30,4 @@ const contact = (props) => {
   }
 }
 
-export default contact
+export default genericMd
