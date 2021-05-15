@@ -14,7 +14,6 @@ const genericMd = (props) => {
   }
 
   if (data && data.data) {
-    console.log(data)
     const content = data.data.content
     const title = data.data.metadata.title
     return (
