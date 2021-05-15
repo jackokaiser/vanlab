@@ -1,7 +1,7 @@
 import { h } from 'preact'
 import { useEffect } from 'preact/hooks'
 import { Suspense } from 'preact/compat'
-import { usePrerenderData, refreshFacebook } from '../../components/utils'
+import { usePrerenderData, refreshFacebook, callToAction } from '../../components/utils'
 import Markdown from 'markdown-to-jsx'
 import { FormattedCodeBlock } from './formatted-code-block'
 
@@ -14,9 +14,13 @@ const Blog = (props) => {
   }
 
   return (
-    <article class={`container-fluid ${style.blogcontainer}`}>
-      {getBlogBody(props, data, isLoading)}
-    </article>
+    <>
+      {callToAction()}
+      <article class={`container-fluid p-0 ${style.blogcontainer}`}>
+        {getBlogBody(props, data, isLoading)}
+      </article>
+      {callToAction()}
+    </>
   )
 }
 
