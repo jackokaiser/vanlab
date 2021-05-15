@@ -30,6 +30,10 @@ module.exports = () => {
       data: getPageMd('contact')
     },
     {
+      url: '/registered/',
+      data: getPageMd('registered')
+    },
+    {
       url: '/privacy-policy/',
       data: getPageMd('privacy-policy')
     }
