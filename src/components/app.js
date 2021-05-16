@@ -1,5 +1,5 @@
 import { h, Component } from 'preact'
-import { Router } from 'preact-router'
+import { Router, route } from 'preact-router'
 import { Provider } from '@preact/prerender-data-provider'
 import Header from './header'
 import Footer from './footer'
@@ -10,6 +10,16 @@ import Blogs from '../routes/blogs'
 import Blog from '../routes/blog'
 import GenericMd from '../routes/generic-md'
 import NotFoundPage from '../routes/notfound'
+
+class Redirect extends Component {
+  componentWillMount() {
+    route(this.props.to, true);
+  }
+
+  render() {
+    return null;
+  }
+}
 
 export default class App extends Component {
   /** Gets fired when the route changes.
@@ -33,6 +43,7 @@ export default class App extends Component {
                 <GenericMd path='/contact/' />
                 <GenericMd path='/registered/' />
                 <GenericMd path='/privacy-policy/' />
+                <Redirect path="/defaultsite" to="/" />
                 <NotFoundPage type='404' default />
               </Router>
             </div>
