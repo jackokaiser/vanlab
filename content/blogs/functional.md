@@ -75,4 +75,4 @@ So far we noted that the humidity and temperature was always more extreme in the
 </div>
 
 We have also started the process to immatriculate the van as the camper.
-The first step will be checking our gas system - finger crossed.
+The first step will be checking our gas system - fingers crossed.
