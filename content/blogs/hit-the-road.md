@@ -44,9 +44,9 @@ This made them simpler to fit into standard boxes, such as leftovers screw packa
 The dimmable fan circuit is replicated from [this youtube video](https://www.youtube.com/watch?v=8e64L5RWYGM) - only a potentiometer and a N-channel MOSFET, it's a weird one but it works.
 
 <div class="row-image">
-!\[Fan dimmer](/assets/finished/IMG_20210420_160933.jpg "Fan dimmer")
-!\[Fan integration](/assets/finished/IMG_20210422_164507.jpg "Fan integration")
-!\[Roof-window alarm](/assets/finished/IMG_20210420_160853.jpg "Roof-window alarm")
+![Fan dimmer](/assets/finished/IMG_20210420_160933.jpg "Fan dimmer")
+![Fan integration](/assets/finished/IMG_20210422_164507.jpg "Fan integration")
+![Roof-window alarm](/assets/finished/IMG_20210420_160853.jpg "Roof-window alarm")
 </div>
 
 When we reached our friend Pauline and John's home, only about 20km away on the first night, the van had a breakdown and it was impossible to start again.
@@ -69,8 +69,8 @@ Overall, phone reception was sufficient to support remote video conferences, esp
 We've now bought a dedicated 4G router to spare our phones.
 
 <div class="row-image">
-!\[Human antenna](/assets/finished/2021-05-23_12.18.20.jpeg "Human antenna")
-!\[Remote working](/assets/finished/2021-05-23_12.46.05.jpeg "Remote working")
+![Human antenna](/assets/finished/2021-05-23_12.18.20.jpeg "Human antenna")
+![Remote working](/assets/finished/2021-05-23_12.46.05.jpeg "Remote working")
 </div>
 
 The final van check in order to get it registered as an official camper van got scheduled for next week, which is the reason why we are already driving back.
