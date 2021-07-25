@@ -22,13 +22,13 @@ We should probably slow down our traveling fury in the future.
 
 <div class="row-image">
 ![Kayaking under Pont du Gard](/assets/first_months/IMG_20210621_160638.jpg "Kayaking under Pont du Gard")
-![Mud bathing at naturist campsite](/assets/first_months/IMG_20210704_170801.jpg "Mud bath at naturist campsite")
 ![Hiking Volcano in Auvergne](/assets/first_months/IMG_20210605_121621.jpg "Hiking Volcano in Auvergne")
+![Via Ferrata in Queyras](/assets/first_months/IMG_20210707_105720.jpg "Via Ferrata in Queyras")
 </div>
 <div class="row-image">
 ![Saint-Véran Observatory](/assets/first_months/P7083370.JPG "Saint-Véran Observatory")
+![Mud bathing at naturist campsite](/assets/first_months/IMG_20210704_170801.jpg "Mud bath at naturist campsite")
 ![Canyoning in Mercantour](/assets/first_months/RIMG0356.JPG "Canyoning in Mercantour")
-![Via Ferrata in Queyras](/assets/first_months/IMG_20210707_105720.jpg "Via Ferrata in Queyras")
 </div>
 
 A few minor things broke along the way, somewhat unsurprising as we've built everything ourselves.
