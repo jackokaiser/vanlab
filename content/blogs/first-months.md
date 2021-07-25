@@ -15,13 +15,13 @@ All in all we're pretty satisfied with our vanlife.
 It was easy to find places to sleep, where internet was sufficiently good for us to work.
 Mostly, it was also fine to plan our days around work commitments and vice versa.
 Needless to say, there's plenty to do in France, and we had to give up that we simply can't do it all.
-Still, we've managed to always experience the specificities of all the regions we've crossed: we hiked the volcanoes of Auvergne, climbed the gorges of Verdon, got dusty in Lubéron, swam in the Mediterranean sea, dominated the rapids in Mercantour, observed the stars from Saint Véran,...
+Still, we've managed to always experience the specificities of all the regions we've crossed: we hiked the volcanoes of Auvergne, climbed the gorges of Verdon, got dusty in Roussillon, swam in the Mediterranean sea, dominated the rapids in Ubaye, observed the stars from Saint Véran,...
 There was no time for being bored.
 In fact I didn't even play a single chord on my ukulele, because we were always so busy.
 We should probably slow down our traveling fury in the future.
 
 <div class="row-image">
-![Kayaking under Pont du Gard](/assets/first_months/IMG_20210621_160638.jpg "Kayaking under Pont du Gard")
+![Canoeing under Pont du Gard](/assets/first_months/IMG_20210621_160638.jpg "Canoeing under Pont du Gard")
 ![Hiking Volcano in Auvergne](/assets/first_months/IMG_20210605_121621.jpg "Hiking Volcano in Auvergne")
 ![Via Ferrata in Queyras](/assets/first_months/IMG_20210707_105720.jpg "Via Ferrata in Queyras")
 </div>
@@ -58,7 +58,7 @@ Cooking in the van also works well, the two stoves are enough for cooking most o
 We also caught up with all the dining out we couldn't do during lockdown.
 There are just so many nice restaurants in France cooking tasty local dishes - since we don't stay long we can't resist it.
 In fact, dining out is where we spent the most, followed by groceries and gas.
-We drove as much as possible on bioGNV (Erdgas - basically methane) although many regions simply didn't have any tanking stations for individuals.
+We drove as much as possible on bioGNV (Erdgas - basically methane) although many regions in France simply didn't have any tanking stations for individuals.
 
 <div class="row-image">
 ![Air quality plot](/assets/first_months/2021-06-07.png "Air quality plot")
