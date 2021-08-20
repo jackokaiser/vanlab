@@ -40,9 +40,9 @@ export default class App extends Component {
 			  <Router onChange={this.handleRoute}>
 				<Blogs path='/' />
 				<Blog path='/post/:name' />
-				<GenericMd path='/contact/' />
-				<GenericMd path='/registered/' />
-				<GenericMd path='/privacy-policy/' />
+				<GenericMd path='/contact' />
+				<GenericMd path='/registered' />
+				<GenericMd path='/privacy-policy' />
 				<Redirect path="/defaultsite" to="/" />
 				<NotFoundPage type='404' default />
 			  </Router>
