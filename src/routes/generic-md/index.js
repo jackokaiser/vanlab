@@ -14,11 +14,10 @@ const genericMd = (props) => {
   }
 
   if (data && data.data) {
-	const content = data.data.content
-	const title = data.data.metadata.title
+	const { details, content } = data.data
 	return (
 	  <div>
-		<h1 class="pageTitle">{title}</h1>
+		<h1 class="pageTitle">{details.title}</h1>
 		<div>
 		  <Markdown>
 			{content}

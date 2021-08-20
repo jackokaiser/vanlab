@@ -3,22 +3,16 @@ const { join } = require('path')
 const fs = require('fs')
 const parseMD = require('parse-md').default
 
-function getPageMd (id) {
-  const data = parseMD(fs.readFileSync(join('content', 'pages', id + '.md'), 'utf-8'))
-  return data
-}
-
-
 module.exports = () => {
   const contentFiles = generateFileList('content')
   const getEdges = nodeName => contentFiles.nodes.find(n => n.id == nodeName).edges
   var blogs = getEdges('blogs')
+  var pages = getEdges('pages')
 
   /* sort blogs by dates */
   blogs = blogs.sort((a, b) => b.details.date - a.details.date)
   /* format blogs dates */
   blogs.forEach(b => { b.details.date = b.details.date.toDateString() })
-
 
   const webpages = [
 	{
@@ -28,20 +22,24 @@ module.exports = () => {
 		title: 'Vanderfool blog - our van conversion diary',
 		cover: 'https://vanderfool.com/assets/van.jpg'
 	  }
-	},
-	{
-	  url: '/contact/',
-	  data: getPageMd('contact')
-	},
-	{
-	  url: '/registered/',
-	  data: getPageMd('registered')
-	},
-	{
-	  url: '/privacy-policy/',
-	  data: getPageMd('privacy-policy')
 	}
   ]
+
+  // adding all pages
+  webpages.push(...pages.map(page => {
+	const { content } = parseMD(fs.readFileSync(page.path, 'utf-8'))
+	const url = page.id.slice(0, -3)
+	return {
+	  url: `/${url}`,
+	  seo: {
+		title: page.details.title,
+	  },
+	  data: {
+		details: page.details,
+		content
+	  }
+	}
+  }))
 
   // adding all blog webpages
   webpages.push(...blogs.map(blog => {
