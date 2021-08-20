@@ -17,50 +17,50 @@ function getPageMd (id) {
 
 module.exports = () => {
   const webpages = [
-    {
-      url: '/',
-      data: blogs,
-      seo: {
-        title: 'Vanderfool blog - our van conversion diary',
-        cover: 'https://vanderfool.com/assets/van.jpg'
-      }
-    },
-    {
-      url: '/contact/',
-      data: getPageMd('contact')
-    },
-    {
-      url: '/registered/',
-      data: getPageMd('registered')
-    },
-    {
-      url: '/privacy-policy/',
-      data: getPageMd('privacy-policy')
-    }
+	{
+	  url: '/',
+	  data: blogs,
+	  seo: {
+		title: 'Vanderfool blog - our van conversion diary',
+		cover: 'https://vanderfool.com/assets/van.jpg'
+	  }
+	},
+	{
+	  url: '/contact/',
+	  data: getPageMd('contact')
+	},
+	{
+	  url: '/registered/',
+	  data: getPageMd('registered')
+	},
+	{
+	  url: '/privacy-policy/',
+	  data: getPageMd('privacy-policy')
+	}
   ]
 
   // adding all blog webpages
   webpages.push(...blogs.edges.map(blog => {
-    let data
-    if (blog.format === 'md') {
-      const { content } = parseMD(fs.readFileSync(blog.path, 'utf-8'))
-      data = content
-    } else {
-      data = fs.readFileSync(blog.path, 'utf-8').replace(/---(.*(\r)?\n)*---/, '')
-    }
-    return {
-      url: `/post/${blog.id}`,
-      seo: {
-        title: blog.details.title,
-        cover: `https://vanderfool.com${blog.details.cover}`,
-        subtitle: blog.subtitle,
-        url: `https://vanderfool.com/post/${blog.id}`
-      },
-      data: {
-        details: blog.details,
-        content: data
-      }
-    }
+	let data
+	if (blog.format === 'md') {
+	  const { content } = parseMD(fs.readFileSync(blog.path, 'utf-8'))
+	  data = content
+	} else {
+	  data = fs.readFileSync(blog.path, 'utf-8').replace(/---(.*(\r)?\n)*---/, '')
+	}
+	return {
+	  url: `/post/${blog.id}`,
+	  seo: {
+		title: blog.details.title,
+		cover: `https://vanderfool.com${blog.details.cover}`,
+		subtitle: blog.subtitle,
+		url: `https://vanderfool.com/post/${blog.id}`
+	  },
+	  data: {
+		details: blog.details,
+		content: data
+	  }
+	}
   }))
 
   return webpages
