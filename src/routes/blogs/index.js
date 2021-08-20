@@ -59,7 +59,7 @@ function getBlogsListing (data, isLoading) {
 	const { data: blogs } = data
 	return (
 	  <>
-		{blogs.edges.map(blogPreview)}
+		{blogs.map(blogPreview)}
 	  </>
 	)
   }
