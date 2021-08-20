@@ -6,26 +6,26 @@ const genericMd = (props) => {
   const [data, isLoading] = usePrerenderData(props)
 
   if (isLoading) {
-    return (
-      <div>
-        <h1>Loading...</h1>
-      </div>
-    )
+	return (
+	  <div>
+		<h1>Loading...</h1>
+	  </div>
+	)
   }
 
   if (data && data.data) {
-    const content = data.data.content
-    const title = data.data.metadata.title
-    return (
-      <div>
-        <h1 class="pageTitle">{title}</h1>
-        <div>
-          <Markdown>
-            {content}
-          </Markdown>
-        </div>
-      </div>
-    )
+	const content = data.data.content
+	const title = data.data.metadata.title
+	return (
+	  <div>
+		<h1 class="pageTitle">{title}</h1>
+		<div>
+		  <Markdown>
+			{content}
+		  </Markdown>
+		</div>
+	  </div>
+	)
   }
 }
 

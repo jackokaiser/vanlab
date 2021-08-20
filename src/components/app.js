@@ -13,11 +13,11 @@ import NotFoundPage from '../routes/notfound'
 
 class Redirect extends Component {
   componentWillMount() {
-    route(this.props.to, true);
+	route(this.props.to, true);
   }
 
   render() {
-    return null;
+	return null;
   }
 }
 
@@ -27,30 +27,30 @@ export default class App extends Component {
    *	@param {string} event.url	The newly routed URL
    */
   handleRoute = (e) => {
-    this.currentUrl = e.url
+	this.currentUrl = e.url
   }
 
   render (props) {
-    return (
-      <Provider value={props}>
-        <div id='app'>
-          <Header />
-          <div class='pagewrap'>
-            <div class='main container clear-top'>
-              <Router onChange={this.handleRoute}>
-                <Blogs path='/' />
-                <Blog path='/post/:name' />
-                <GenericMd path='/contact/' />
-                <GenericMd path='/registered/' />
-                <GenericMd path='/privacy-policy/' />
-                <Redirect path="/defaultsite" to="/" />
-                <NotFoundPage type='404' default />
-              </Router>
-            </div>
-          </div>
-          <Footer />
-        </div>
-      </Provider>
-    )
+	return (
+	  <Provider value={props}>
+		<div id='app'>
+		  <Header />
+		  <div class='pagewrap'>
+			<div class='main container clear-top'>
+			  <Router onChange={this.handleRoute}>
+				<Blogs path='/' />
+				<Blog path='/post/:name' />
+				<GenericMd path='/contact/' />
+				<GenericMd path='/registered/' />
+				<GenericMd path='/privacy-policy/' />
+				<Redirect path="/defaultsite" to="/" />
+				<NotFoundPage type='404' default />
+			  </Router>
+			</div>
+		  </div>
+		  <Footer />
+		</div>
+	  </Provider>
+	)
   }
 }
