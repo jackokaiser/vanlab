@@ -1,13 +1,13 @@
 ---
-title: Our first months of vanlife
+title: Premiers mois de vanlife
 date: 2021-07-24
 cover: /assets/first_months/IMG_20210607_190053.jpg
 ---
 
-We've left home on the 26th of may for our final compliance check with the DREAL, and lived in the van since then.
-Starting from Strasbourg, we drove all the way down to Pyrénées orientales, crossing Auvergne, looped back around côte d'Azur and drove back up to Strasbourg through Mercantour and Queyras.
-We came back up on the 13th of May to attend my cousin Marie's wedding the following day, which I didn't want to miss.
-Now we're on the road again, but we took the chance of being home for a week to fix and improve a few things in the van.
+Nous avons quitté la maison le 26 mai pour notre dernier contrôle de conformité avec la DREAL, et avons vécu dans le van depuis.
+Au départ de Strasbourg, nous sommes descendus jusqu'aux Pyrénées orientales, avons traversé l'Auvergne, fait une boucle autour de la Côte d'Azur et nous sommes remontés à Strasbourg par le Mercantour et le Queyras.
+Nous sommes revenus le 13 juillet pour assister au mariage de ma cousine Marie le jour suivant, que je ne voulais pas manquer.
+Maintenant nous sommes de nouveau sur la route, mais nous avons profité d'être à la maison pendant une semaine pour réparer et améliorer certaines choses dans le van.
 
 ![Map of our first trip](/assets/first_months/Vanderfool1strip.png "Map of our first trip")
 

@@ -1,5 +1,8 @@
 import { usePrerenderData as OriginalUsePrerenderData } from '@preact/prerender-data-provider'
 import { Component } from 'preact'
+import { useContext } from 'preact/hooks'
+import { join } from 'path'
+import { Lang, defaultLang } from '../../components/languages'
 
 
 const refreshFacebook = () => {
@@ -9,7 +12,10 @@ const refreshFacebook = () => {
 }
 
 const usePrerenderData = (props) => {
-  const url = props.url.split('?')[0]
+  const lang = useContext(Lang)
+  const prefix = lang === defaultLang ? '' : lang
+  const url = join('/', prefix, props.url.split('?')[0])
+  console.log("requested url: ", url)
   return OriginalUsePrerenderData({ url })
 }
 

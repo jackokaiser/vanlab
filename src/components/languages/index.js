@@ -49,4 +49,4 @@ function setLangInQuery(lang) {
 	route(targetUrl, true)
 }
 
-export { Lang, getLangFromQuery, setLangInQuery }
+export { defaultLang, Lang, getLangFromQuery, setLangInQuery }
