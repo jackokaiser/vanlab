@@ -15,7 +15,6 @@ const usePrerenderData = (props) => {
   const lang = useContext(Lang)
   const prefix = lang === defaultLang ? '' : lang
   const url = join('/', prefix, props.url.split('?')[0])
-  console.log("requested url: ", url)
   return OriginalUsePrerenderData({ url })
 }
 
