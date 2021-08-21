@@ -1,5 +1,7 @@
 import { h } from 'preact'
 import { Link } from 'preact-router/match'
+import { Lang, setLangInQuery } from '../languages';
+
 import style from './style'
 
 const Header = (props) => {
@@ -7,6 +9,12 @@ const Header = (props) => {
 	<header>
 	  <nav class='navbar fixed-top navbar-expand-sm navbar-dark bg-dark justify-content-between'>
 		<Link class={`${style.lobster} navbar-brand`} href='/'>Vanderfool</Link>
+		<button type="button" onClick={() => {props.setLang('en')}} class="btn btn-link">
+		  🇬🇧
+		</button>
+		<button type="button" onClick={() => {props.setLang('fr')}} class="btn btn-link">
+		  🇫🇷
+		</button>
 		<button class='navbar-toggler' type='button' data-toggle='collapse' data-target='#navbarSupportedContent' aria-controls='navbarSupportedContent' aria-expanded='false' aria-label='Toggle navigation'>
 		  <span class='navbar-toggler-icon' />
 		</button>
