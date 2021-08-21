@@ -5,7 +5,6 @@ import Header from './header'
 import Footer from './footer'
 
 // Code-splitting is automated for routes
-import Home from '../routes/home'
 import Blogs from '../routes/blogs'
 import Blog from '../routes/blog'
 import GenericMd from '../routes/generic-md'
