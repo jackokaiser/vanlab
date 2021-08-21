@@ -10,8 +10,6 @@ function getLangPrefix(lang) {
 }
 
 module.exports = () => {
-  console.log("SALUT INITIAL")
-
   const contentFiles = generateFileList('content')
   const getEdges = nodeName => contentFiles.nodes.find(n => n.id == nodeName).edges
   var blogs = {
