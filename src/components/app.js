@@ -1,11 +1,12 @@
 import { h, Component } from 'preact'
+import { useState } from 'preact/hooks';
 import { Router, route } from 'preact-router'
 import { Provider } from '@preact/prerender-data-provider'
+import { Lang, getLangFromQuery, setLangInQuery } from './languages';
 import Header from './header'
 import Footer from './footer'
 
 // Code-splitting is automated for routes
-import Home from '../routes/home'
 import Blogs from '../routes/blogs'
 import Blog from '../routes/blog'
 import GenericMd from '../routes/generic-md'
@@ -31,25 +32,33 @@ export default class App extends Component {
   }
 
   render (props) {
+	const [lang, setLang] = useState(getLangFromQuery())
+	const setLangAndUrl = l => {
+	  setLang(l)
+	  setLangInQuery(l)
+	}
+
 	return (
 	  <Provider value={props}>
-		<div id='app'>
-		  <Header />
-		  <div class='pagewrap'>
-			<div class='main container clear-top'>
-			  <Router onChange={this.handleRoute}>
-				<Blogs path='/' />
-				<Blog path='/post/:name' />
-				<GenericMd path='/contact' />
-				<GenericMd path='/registered' />
-				<GenericMd path='/privacy-policy' />
-				<Redirect path="/defaultsite" to="/" />
-				<NotFoundPage type='404' default />
-			  </Router>
+		<Lang.Provider value={lang}>
+		  <div id='app'>
+			<Header setLang={setLangAndUrl} />
+			<div class='pagewrap'>
+			  <div class='main container clear-top'>
+				<Router onChange={this.handleRoute}>
+				  <Blogs path='/' />
+				  <Blog path='/post/:name' />
+				  <GenericMd path='/contact' />
+				  <GenericMd path='/registered' />
+				  <GenericMd path='/privacy-policy' />
+				  <Redirect path="/defaultsite" to="/" />
+				  <NotFoundPage type='404' default />
+				</Router>
+			  </div>
 			</div>
+			<Footer />
 		  </div>
-		  <Footer />
-		</div>
+		</Lang.Provider>
 	  </Provider>
 	)
   }

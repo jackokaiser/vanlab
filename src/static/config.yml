@@ -4,10 +4,20 @@ backend:
 media_folder: src/assets
 public_folder: /assets
 collections:
-  - name: "posts"
-    label: "Posts"
-    label_singular: "Post" # Used in the UI, ie: "New Post"
-    folder: "content/blogs"
+  - name: "posts_en"
+    label: "Posts english"
+    label_singular: "Post english" # Used in the UI, ie: "New Post"
+    folder: "content/blogs_en"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string"}
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Cover", name: "cover", widget: "image", required: false}
+      - { label: "Body", name: "body", widget: "markdown"}
+  - name: "posts_fr"
+    label: "Posts french"
+    label_singular: "Post french" # Used in the UI, ie: "New Post"
+    folder: "content/blogs_fr"
     create: true
     fields:
       - { label: "Title", name: "title", widget: "string"}
@@ -17,13 +27,33 @@ collections:
   - label: "Pages"
     name: "pages"
     files:
-      - label: "Contact Page"
+      - label: "Contact Page english"
         name: "contact"
-        file: "content/pages/contact.md"
+        file: "content/pages_en/contact.md"
         fields:
           - {label: Body, name: body, widget: markdown}
-      - label: "Privacy Policy Page"
+      - label: "Privacy Policy Page english"
         name: "privacy_policy"
-        file: "content/pages/privacy-policy.md"
+        file: "content/pages_en/privacy-policy.md"
+        fields:
+          - {label: Body, name: body, widget: markdown}
+      - label: "Registered english"
+        name: "registered"
+        file: "content/pages_en/registered.md"
+        fields:
+          - {label: Body, name: body, widget: markdown}
+      - label: "Contact Page french"
+        name: "contact"
+        file: "content/pages_fr/contact.md"
+        fields:
+          - {label: Body, name: body, widget: markdown}
+      - label: "Privacy Policy Page french"
+        name: "privacy_policy"
+        file: "content/pages_fr/privacy-policy.md"
+        fields:
+          - {label: Body, name: body, widget: markdown}
+      - label: "Registered french"
+        name: "registered"
+        file: "content/pages_fr/registered.md"
         fields:
           - {label: Body, name: body, widget: markdown}
