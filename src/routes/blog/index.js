@@ -70,7 +70,7 @@ function getBlogBody (props, data, isLoading) {
 	  <div>
 		<h1 class={style.blogtitle}>{details.title}</h1>
 		<div class='row justify-content-between'>
-		  {details.date && <caption class={style.blogsubtitle + ' col'}>{details.date}</caption>}
+		  {details.date && <caption class={style.blogsubtitle + ' col'}>{new Date(details.date).toDateString()}</caption>}
 		  <div class="fb-share-button" data-href={postUrl} data-layout="button_count" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={`${encodeURIComponent(postUrl)}&amp;src=sdkpreparse`}" class="fb-xfbml-parse-ignore">Share</a></div>
 		</div>
 		{details.cover &&

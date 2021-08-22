@@ -33,12 +33,12 @@ function blogPreview (blog) {
 			  {blog.preview}
 			</p>
 			<div class={`${style.meta} d-flex justify-content-between`}>
-			  <span class={style.tag}>{blog.details.date}</span>
+			  <span class={style.tag}>{new Date(blog.details.date).toDateString()}</span>
 			  <div class="fb-share-button" data-href={postUrl} data-layout="button_count" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={`${encodeURIComponent(postUrl)}&amp;src=sdkpreparse`}" class="fb-xfbml-parse-ignore">Share</a></div>
 			</div>
-	</div>
-	{blog.details.cover && <img src={blog.details.cover} class={style.cover + ' col-md-6'} />}
-	</div>
+		  </div>
+		  {blog.details.cover && <img src={blog.details.cover} class={style.cover + ' col-md-6'} />}
+		</div>
 	  </article>
 	</Link>
   )

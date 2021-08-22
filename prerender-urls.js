@@ -9,25 +9,31 @@ function getLangPrefix(lang) {
   return lang === defaultLang ? '' : lang
 }
 
+function getEdges(contentFiles, nodeName) {
+  return contentFiles.nodes.find(n => n.id == nodeName).edges
+}
+
+function filterByLang(edges, lang) {
+  let lang_edges = edges.filter(edge => edge.id.startsWith(lang))
+  lang_edges.forEach(edge => edge.id = edge.id.slice(lang.length + 1))
+  return lang_edges
+}
+
 module.exports = () => {
   const contentFiles = generateFileList('content')
-  const getEdges = nodeName => contentFiles.nodes.find(n => n.id == nodeName).edges
-  var blogs = {
-	en: getEdges('blogs_en'),
-	fr: getEdges('blogs_fr')
-  }
-  var pages = {
-	en: getEdges('pages_en'),
-	fr: getEdges('pages_fr')
+
+  const all_pages = getEdges(contentFiles, 'pages')
+  const all_blogs = getEdges(contentFiles, 'blogs').sort((a, b) => b.details.date - a.details.date)
+
+  const pages = {
+	en: filterByLang(all_pages, 'en'),
+	fr: filterByLang(all_pages, 'fr')
   }
 
-  for ([lang, blogs_by_lang] of Object.entries(blogs)) {
-	/* sort blogs by dates */
-	blogs_by_lang.sort((a, b) => b.details.date - a.details.date)
-	/* format blogs dates */
-	blogs_by_lang.forEach(b => { b.details.date = b.details.date.toDateString() })
+  const blogs = {
+	en: filterByLang(all_blogs, 'en'),
+	fr: filterByLang(all_blogs, 'fr')
   }
-
 
   const webpages = [
 	{

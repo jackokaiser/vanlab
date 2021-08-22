@@ -1,5 +1,5 @@
 ---
-title: Premiers mois de vanlife
+title: Nos premiers mois en vanlife
 date: 2021-07-24
 cover: /assets/first_months/IMG_20210607_190053.jpg
 ---
