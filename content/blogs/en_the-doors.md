@@ -1,7 +1,7 @@
 ---
 title: Insulating and cladding the doors
 date: 2020-11-19
-cover: /assets/doors/combined_doors.jpg
+cover: https://res.cloudinary.com/vanderfool/image/upload/v1629627468/doors/combined_doors_auvpyq.jpg
 ---
 
 The van has two doors to access the future living area: a sliding door on the side, and a two half doors rotating on the back.
@@ -9,8 +9,8 @@ We completed the insulation and cladding for the sliding door in mid-September, 
 In between I started tracking time - so I can state that for the back doors it took us 22 hours of work.
 
 <div class="row-image">
-![Hemp in sliding door](/assets/doors/IMG_20200913_155804.jpg "Hemp in sliding door")
-![Intello vapour barrier](/assets/doors/IMG_20200913_164115.jpg "Intello vapour barrier")
+![Hemp in sliding door](https://res.cloudinary.com/vanderfool/image/upload/v1629627456/doors/IMG_20200913_155804_jwspin.jpg "Hemp in sliding door")
+![Intello vapour barrier](https://res.cloudinary.com/vanderfool/image/upload/v1629627461/doors/IMG_20200913_164115_oroyxm.jpg "Intello vapour barrier")
 </div>
 
 For the doors, the insulation only consists of hemp.
@@ -21,9 +21,9 @@ It was stressful to drill blindly behind the membrane where we knew cables were 
 There was no choice though, since the doors also do not offer so much structure into which you can drill.
 
 <div class="row-image">
-![Removing the doors](/assets/doors/IMG_20201114_111949.jpg "Backdoor handle")
-![Sealing the handle](/assets/doors/IMG_20201114_122703.jpg "Sealing the handle")
-![Cladding around](/assets/doors/IMG_20201206_120420.jpg "Cladding around")
+![Removing the doors](https://res.cloudinary.com/vanderfool/image/upload/v1629627459/doors/IMG_20201114_111949_m9ajdh.jpg "Backdoor handle")
+![Sealing the handle](https://res.cloudinary.com/vanderfool/image/upload/v1629627466/doors/IMG_20201114_122703_x5tpof.jpg "Sealing the handle")
+![Cladding around](https://res.cloudinary.com/vanderfool/image/upload/v1629627464/doors/IMG_20201206_120420_b77mtb.jpg "Cladding around")
 </div>
 
 Our technique changed between the sliding door and the back doors.
@@ -36,9 +36,9 @@ We have used them for the sliding door, since we attached lambris pieces unpaint
 Even there, once painted some holes did not want to align anymore and we had to use standard screws.
 
 <div class="row-image">
-![Rivnut backside](/assets/doors/IMG_20201001_112525.jpg "Rivnut backside")
-![Don't: Rivnut on Naideck](/assets/doors/IMG_20200913_143844.jpg "Don't: Rivnut on Naideck")
-![Lambris](/assets/doors/IMG_20200913_144540.jpg "Lambris")
+![Rivnut backside](https://res.cloudinary.com/vanderfool/image/upload/v1629627452/doors/IMG_20201001_112525_e9zd0r.jpg "Rivnut backside")
+![Don't: Rivnut on Naideck](https://res.cloudinary.com/vanderfool/image/upload/v1629627452/doors/IMG_20200913_143844_i3wyav.jpg "Don't: Rivnut on Naideck")
+![Lambris](https://res.cloudinary.com/vanderfool/image/upload/v1629627449/doors/IMG_20200913_144540_hacags.jpg "Lambris")
 </div>
 
 Here is the reason why rivnuts did not work so good for the sliding door in our case.
