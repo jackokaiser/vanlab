@@ -1,6 +1,11 @@
 backend:
   name: git-gateway
   branch: master
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: vanderfool
+    api_key: 843197414235756
 media_folder: src/assets
 public_folder: /assets
 collections:
