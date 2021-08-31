@@ -1,5 +1,5 @@
 ---
-title: Insulating the headliner
+title: Isolation de la cabine
 date: 2020-11-02
 cover: https://res.cloudinary.com/vanderfool/image/upload/v1630405097/headliner/IMG_20201102_181532_c9zktd.jpg
 ---

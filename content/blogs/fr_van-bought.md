@@ -1,5 +1,5 @@
 ---
-title: Buying the van
+title: On achète le van
 date: 2020-07-13
 cover: https://res.cloudinary.com/vanderfool/image/upload/v1630256157/bought/van_equnet.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-title: Building the floor
+title: Construction du sol
 date: 2020-10-23
 cover: https://res.cloudinary.com/vanderfool/image/upload/v1630405976/build_floor/floor-before-after_opbayx.jpg
 ---

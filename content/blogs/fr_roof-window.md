@@ -1,5 +1,5 @@
 ---
-title: Installing the roof window
+title: Installation du lanterneau
 date: 2020-09-11
 cover: https://res.cloudinary.com/vanderfool/image/upload/v1630256272/roof_window/DSC02811_uvrj2q.jpg
 ---

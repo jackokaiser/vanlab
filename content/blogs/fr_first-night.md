@@ -1,5 +1,5 @@
 ---
-title: First night
+title: Première nuit
 date: 2020-12-31
 cover: https://res.cloudinary.com/vanderfool/image/upload/v1630406209/first_night/IMG_20210101_043826_qrzjns.jpg
 ---

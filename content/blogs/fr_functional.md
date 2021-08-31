@@ -1,5 +1,5 @@
 ---
-title: The van is functional
+title: Le van est fonctionnel
 date: 2021-04-04
 cover: https://res.cloudinary.com/vanderfool/image/upload/v1630405779/functional/IMG_20210320_124433_ysqqg5.jpg
 ---

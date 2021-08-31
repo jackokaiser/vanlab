@@ -1,5 +1,5 @@
 ---
-title: Oiling the bed
+title: De l'huile sur le lit
 date: 2020-07-04T11:58:39.569Z
 cover: https://res.cloudinary.com/vanderfool/image/upload/v1630405060/bed/dsc01245_nxxlei.jpg
 ---

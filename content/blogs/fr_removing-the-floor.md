@@ -1,5 +1,5 @@
 ---
-title: Removing the floor
+title: On débarrasse le plancher
 date: 2020-08-04T12:07:38.061Z
 cover: https://res.cloudinary.com/vanderfool/image/upload/v1630404939/remove_floor/dsc01442_wu2q7c.jpg
 ---

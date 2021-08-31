@@ -1,5 +1,5 @@
 ---
-title: Building the furniture
+title: Construction des meubles
 date: 2021-02-15
 cover: https://res.cloudinary.com/vanderfool/image/upload/v1630405617/furniture/IMG-20201225-WA0034_dlxzud.jpg
 ---

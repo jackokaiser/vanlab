@@ -1,5 +1,5 @@
 ---
-title: Cleaning the electronics - II
+title: Nettoyage de l'élèctronique - II
 date: 2020-08-16T12:07:38.061Z
 cover: https://res.cloudinary.com/vanderfool/image/upload/v1630406689/cleaning_electronics_2/IMG_20200815_163524_jsuh3c.jpg
 ---

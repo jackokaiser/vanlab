@@ -1,5 +1,5 @@
 ---
-title: Our first months of vanlife
+title: Nos premiers mois de vanlife
 date: 2021-07-24
 cover: https://res.cloudinary.com/vanderfool/image/upload/v1630406350/first_months/IMG_20210607_190053_jq4btj.jpg
 ---

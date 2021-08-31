@@ -1,5 +1,5 @@
 ---
-title: The van is registered
+title: Importation et immatriculation
 date: 2020-09-03
 cover: https://res.cloudinary.com/vanderfool/image/upload/v1630405198/immatriculation/immatriculation1_yl8hqb.jpg
 ---

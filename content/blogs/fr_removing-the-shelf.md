@@ -1,5 +1,5 @@
 ---
-title: Removing the shelf
+title: On dégage l'étagère
 date: 2020-07-18T08:16:50.389Z
 cover: https://res.cloudinary.com/vanderfool/image/upload/v1630404845/shelf/IMG_20200717_195923_1_slc70z.jpg
 ---
