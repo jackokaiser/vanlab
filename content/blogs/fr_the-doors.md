@@ -1,5 +1,5 @@
 ---
-title: Isolation et habillage des portes
+title: Insulating and cladding the doors
 date: 2020-11-19
 cover: https://res.cloudinary.com/vanderfool/image/upload/v1629627468/doors/combined_doors_auvpyq.jpg
 ---

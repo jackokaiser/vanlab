@@ -1,7 +1,7 @@
 ---
 title: Buying the van
 date: 2020-07-13
-cover: /assets/van.jpg
+cover: https://res.cloudinary.com/vanderfool/image/upload/v1630256157/bought/van_equnet.jpg
 ---
 We visited this Mercedes Sprinter 2011 NGT L2H2 in Munich and decided to buy it.
 NGT stands for Natural Gas Technology (Erdgas in German, GNC or GNV in French).
@@ -13,8 +13,8 @@ Natural gas has a few advantages: it's cheap (around 1€ for 10km), it's ecolog
 The major drawback is that there aren't so many stations to tank natural gas.
 This is where the large benzine tank comes in handy.
 
-![Van window side](/assets/window_side.jpg "Van window side")
+![Van window side](https://res.cloudinary.com/vanderfool/image/upload/v1630256157/bought/window_side_pbxzyu.jpg "Van window side")
 
 The van has around 38 000km, it's red and in good condition. It already has a nice large side window and a rear camera. The inside has a floor and a self-made shelf that we will remove.
 
-![Van inside](/assets/original_mess.jpg "Van inside")
+![Van inside](https://res.cloudinary.com/vanderfool/image/upload/v1630256156/bought/original_mess_wptmyu.jpg "Van inside")

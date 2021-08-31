@@ -1,7 +1,7 @@
 ---
 title: First night
 date: 2020-12-31
-cover: /assets/first_night/IMG_20210101_043826.jpg
+cover: https://res.cloudinary.com/vanderfool/image/upload/v1630406209/first_night/IMG_20210101_043826_qrzjns.jpg
 ---
 
 For the first day of year 2021, we slept in the van for the first time.
@@ -15,25 +15,25 @@ The core part of the bed frame consists of a 1,40m x 1,40m square, which stands 
 The legs consists of 3cm x 3cm aluminum square profiles, which slide in bed feet, themselves attached to the floor with two nuts each.
 
 <div class="row-image">
-![Core bed frame](/assets/first_night/IMG-20201230-WA0054.jpg "Core bed frame")
-![Drilling feet](/assets/first_night/IMG_20201231_122813.jpg "Drilling feet")
-![Nuts wood inserts](/assets/first_night/IMG_20201231_124805.jpg "Nuts wood inserts")
+![Core bed frame](https://res.cloudinary.com/vanderfool/image/upload/v1630406207/first_night/IMG-20201230-WA0054_eiyovq.jpg "Core bed frame")
+![Drilling feet](https://res.cloudinary.com/vanderfool/image/upload/v1630406207/first_night/IMG_20201231_122813_rdkdhn.jpg "Drilling feet")
+![Nuts wood inserts](https://res.cloudinary.com/vanderfool/image/upload/v1630406208/first_night/IMG_20201231_124805_gzm24t.jpg "Nuts wood inserts")
 </div>
 
 This part of the bed makes two thirds of the total bed area.
 There's storage space underneath it, and it can lift up on both the front and back sides to transform into a sofa.
 We had to correctly place the frame so that it could still lift up all the way, without colliding with the curved wall.
 
-![Frame lift-up](/assets/first_night/IMG-20201230-WA0055.jpg "Frame lift-up")
+![Frame lift-up](https://res.cloudinary.com/vanderfool/image/upload/v1630406207/first_night/IMG-20201230-WA0055_h6hjod.jpg "Frame lift-up")
 
 The other one third of the bed was built separately - during the day it turns into two facing seats and a table.
 This part is attached to the core bed frame with nuts, and only stands on the floor.
 This will allow us to easily move the seats around if we need to, by simply unscrewing a few nuts.
 
 <div class="row-image">
-![The facing seats](/assets/first_night/IMG-20201230-WA0000.jpg "The facing seats")
-![All legs](/assets/first_night/IMG_20201229_220855.jpg "All legs")
-![Test](/assets/first_night/IMG-20201230-WA0053.jpg "Test")
+![The facing seats](https://res.cloudinary.com/vanderfool/image/upload/v1630406207/first_night/IMG-20201230-WA0000_wscz7a.jpg "The facing seats")
+![All legs](https://res.cloudinary.com/vanderfool/image/upload/v1630406208/first_night/IMG_20201229_220855_mtc4gl.jpg "All legs")
+![Test](https://res.cloudinary.com/vanderfool/image/upload/v1630406207/first_night/IMG-20201230-WA0053_jorpc3.jpg "Test")
 </div>
 
 The night we've spent in the van was actually rather short - from 4:30 to 10:30.

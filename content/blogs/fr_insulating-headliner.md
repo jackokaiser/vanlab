@@ -1,7 +1,7 @@
 ---
 title: Insulating the headliner
 date: 2020-11-02
-cover: /assets/headliner/IMG_20201102_181532.jpg
+cover: https://res.cloudinary.com/vanderfool/image/upload/v1630405097/headliner/IMG_20201102_181532_c9zktd.jpg
 ---
 
 We've heard somewhere, that the front of the van can become a real oven in summer.
@@ -9,8 +9,8 @@ So we decided to insulate the headliner - the space above driver and passenger s
 It took us about two days to take it off, insulate, seal with the vapour barrier membrane and put it back.
 
 <div class="row-image">
-![Removing the headliner](/assets/headliner/IMG_20201101_155240.jpg "Removing the headliner")
-![Headliner removed](/assets/headliner/IMG_20201101_120445.jpg "Headliner removed")
+![Removing the headliner](https://res.cloudinary.com/vanderfool/image/upload/v1630405097/headliner/IMG_20201101_155240_wc8v1t.jpg "Removing the headliner")
+![Headliner removed](https://res.cloudinary.com/vanderfool/image/upload/v1630405096/headliner/IMG_20201101_120445_xhaujt.jpg "Headliner removed")
 </div>
 
 We picked cork for the floor, we used hemp for the headliner.
@@ -25,7 +25,7 @@ Once it was done, we re-installed the headliner and stuffed hemp until the space
 We also found the timer relay installed by the previous owner, which enables the rear camera to stay on for a few seconds after leaving the reverse gear - quite handy.
 
 <div class="row-image">
-![Fitting membrane and cables](/assets/headliner/IMG_20201102_163451.jpg "Fitting membrane and cables")
-![Timer relay](/assets/headliner/IMG_20201101_123244.jpg "Timer relay")
+![Fitting membrane and cables](https://res.cloudinary.com/vanderfool/image/upload/v1630405097/headliner/IMG_20201102_163451_w9zaop.jpg "Fitting membrane and cables")
+![Timer relay](https://res.cloudinary.com/vanderfool/image/upload/v1630405096/headliner/IMG_20201101_123244_t0zom3.jpg "Timer relay")
 ![Finished sealed](/assets/headliner/IMG_20201102_181532.jpg "Finished sealed")
 </div>

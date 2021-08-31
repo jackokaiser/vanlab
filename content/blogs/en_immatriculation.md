@@ -1,13 +1,13 @@
 ---
 title: The van is registered
 date: 2020-09-03
-cover: /assets/immatriculation1.jpg
+cover: https://res.cloudinary.com/vanderfool/image/upload/v1630405198/immatriculation/immatriculation1_yl8hqb.jpg
 ---
 
 Finally, after over 30 days, the French administration has finished processing the paperwork and the van is now imported!
 This is great news, since we were somewhat stuck without this registration.
 
-![Riveted immatriculation plate](/assets/immatriculation2.jpg "Riveted immatriculation plate")
+![Riveted immatriculation plate](https://res.cloudinary.com/vanderfool/image/upload/v1630405198/immatriculation/immatriculation2_bxe0tu.jpg "Riveted immatriculation plate")
 
 On one side, since our exportation plate expired, we were not allowed to drive the van anymore (and it was not insured either, so it was parked in private space).
 This prevented us to bring the van to a garrage to fix the holes in the floor, so we could not build the insulation.

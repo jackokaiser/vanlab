@@ -1,7 +1,7 @@
 ---
 title: Our first months of vanlife
 date: 2021-07-24
-cover: /assets/first_months/IMG_20210607_190053.jpg
+cover: https://res.cloudinary.com/vanderfool/image/upload/v1630406350/first_months/IMG_20210607_190053_jq4btj.jpg
 ---
 
 We've left home on the 26th of May for our final compliance check with the DREAL, and lived in the van since then.
@@ -9,7 +9,7 @@ Starting from Strasbourg, we drove all the way down to Pyrénées orientales, cr
 We came back up on the 13th of July to attend my cousin Marie's wedding the following day, which I didn't want to miss.
 Now we're on the road again, but we took the chance of being home for a week to fix and improve a few things in the van.
 
-![Map of our first trip](/assets/first_months/Vanderfool1strip.png "Map of our first trip")
+![Map of our first trip](https://res.cloudinary.com/vanderfool/image/upload/v1630406339/first_months/Vanderfool1strip_wxdi3h.png "Map of our first trip")
 
 All in all we're pretty satisfied with our vanlife.
 It was easy to find places to sleep, where internet was sufficiently good for us to work.
@@ -21,14 +21,14 @@ In fact I didn't even play a single chord on my ukulele, because we were always 
 We should probably slow down our traveling fury in the future.
 
 <div class="row-image">
-![Canoeing under Pont du Gard](/assets/first_months/IMG_20210621_160638.jpg "Canoeing under Pont du Gard")
-![Hiking Volcano in Auvergne](/assets/first_months/IMG_20210605_121621.jpg "Hiking Volcano in Auvergne")
-![Via Ferrata in Queyras](/assets/first_months/IMG_20210707_105720.jpg "Via Ferrata in Queyras")
+![Canoeing under Pont du Gard](https://res.cloudinary.com/vanderfool/image/upload/v1630406337/first_months/IMG_20210621_160638_yj7bhg.jpg "Canoeing under Pont du Gard")
+![Hiking Volcano in Auvergne](https://res.cloudinary.com/vanderfool/image/upload/v1630406335/first_months/IMG_20210605_121621_csgenr.jpg "Hiking Volcano in Auvergne")
+![Via Ferrata in Queyras](https://res.cloudinary.com/vanderfool/image/upload/v1630406337/first_months/IMG_20210707_105720_di1lnz.jpg "Via Ferrata in Queyras")
 </div>
 <div class="row-image">
-![Saint-Véran Observatory](/assets/first_months/P7083370.JPG "Saint-Véran Observatory")
-![Mud bathing at naturist campsite](/assets/first_months/IMG_20210704_170801.jpg "Mud bath at naturist campsite")
-![Canyoning in Mercantour](/assets/first_months/RIMG0356.JPG "Canyoning in Mercantour")
+![Saint-Véran Observatory](https://res.cloudinary.com/vanderfool/image/upload/v1630406339/first_months/P7083370_wwonxh.jpg "Saint-Véran Observatory")
+![Mud bathing at naturist campsite](https://res.cloudinary.com/vanderfool/image/upload/v1630406336/first_months/IMG_20210704_170801_bhls6k.jpg "Mud bath at naturist campsite")
+![Canyoning in Mercantour](https://res.cloudinary.com/vanderfool/image/upload/v1630406338/first_months/RIMG0356_pya3k2.jpg "Canyoning in Mercantour")
 </div>
 
 A few minor things broke along the way, somewhat unsurprising as we've built everything ourselves.
@@ -42,9 +42,9 @@ Camille added some more scratch to the curtains so that they don't fly in our fa
 One thing we didn't fix is the cooking workbench: the laminated wood splits appart, but taking it out would require us to redo some gas pipe joints with the cooking stove, which we'd rather not do.
 
 <div class="row-image">
-![Broken fridge lock](/assets/first_months/IMG_20210705_193451.jpg "Broken fridge lock")
-![Cracked workbench](/assets/first_months/IMG_20210616_080237.jpg "Cracked workbench")
-![Drying line](/assets/first_months/IMG_20210620_105555.jpg "Drying line")
+![Broken fridge lock](https://res.cloudinary.com/vanderfool/image/upload/v1630406337/first_months/IMG_20210705_193451_yct2c8.jpg "Broken fridge lock")
+![Cracked workbench](https://res.cloudinary.com/vanderfool/image/upload/v1630406336/first_months/IMG_20210616_080237_b7eakq.jpg "Cracked workbench")
+![Drying line](https://res.cloudinary.com/vanderfool/image/upload/v1630406336/first_months/IMG_20210620_105555_hkm1qw.jpg "Drying line")
 </div>
 
 All the weather sensors, including those we've placed in the roof and in the wall are still working.
@@ -61,8 +61,8 @@ In fact, dining out is where we spent the most, followed by groceries and gas.
 We drove as much as possible on bioGNV (Erdgas - basically methane) although many regions in France simply didn't have any tanking stations for individuals.
 
 <div class="row-image">
-![Air quality plot](/assets/first_months/2021-06-07.png "Air quality plot")
-![Expenses plot](/assets/first_months/expenses.png "Expenses plot")
+![Air quality plot](https://res.cloudinary.com/vanderfool/image/upload/v1630406334/first_months/2021-06-07_dkdxns.png "Air quality plot")
+![Expenses plot](https://res.cloudinary.com/vanderfool/image/upload/v1630406334/first_months/expenses_zly0zd.png "Expenses plot")
 </div>
 
 The plan for the next months is to drive along the north and west coast of France, and join Avignon, where Camille has an hypnosis training mid-August.

@@ -1,7 +1,7 @@
 ---
 title: Building the furniture
 date: 2021-02-15
-cover: /assets/furniture/IMG-20201225-WA0034.jpg
+cover: https://res.cloudinary.com/vanderfool/image/upload/v1630405617/furniture/IMG-20201225-WA0034_dlxzud.jpg
 ---
 
 The van slowly starts to look like something else than a workshop on wheels as we are now building the furniture.
@@ -14,9 +14,9 @@ Therefore, it needs to be strongly attached to the wall and the ceiling.
 Also, the angle to the wall isn't square.
 
 <div class="row-image">
-![Upper cabinet structure](/assets/furniture/IMG_20201215_153431.jpg "Upper cabinet structure")
-![Wall angle](/assets/furniture/IMG_20201207_135606.jpg "Wall angle")
-![Lighting](/assets/furniture/IMG_20210216_175102.jpg "Lighting")
+![Upper cabinet structure](https://res.cloudinary.com/vanderfool/image/upload/v1630405617/furniture/IMG_20201215_153431_ewrnyo.jpg "Upper cabinet structure")
+![Wall angle](https://res.cloudinary.com/vanderfool/image/upload/v1630405617/furniture/IMG_20201207_135606_ztoz78.jpg "Wall angle")
+![Lighting](https://res.cloudinary.com/vanderfool/image/upload/v1630405619/furniture/IMG_20210216_175102_bofsxf.jpg "Lighting")
 </div>
 
 We have kept the same building strategy for all other pieces: 2cm or 3cm wooden strips (tasseaux) for the structure, on which we attach poplar plywood slabs, either 0.5cm or 1cm thick.
@@ -32,9 +32,9 @@ There are two worktops, one of which holds our dometic combined two-burner hob a
 We have prepared this integration back in late summer 2020 already!
 
 <div class="row-image">
-![Summer build](/assets/furniture/IMG_20200901_161334.jpg "Summer build")
-![Kitchen frame](/assets/furniture/IMG-20200901-WA0000.jpg "Kitchen frame")
-![Integrated kitchen](/assets/furniture/IMG-20200901-WA0004.jpg "Integrated kitchen")
+![Summer build](https://res.cloudinary.com/vanderfool/image/upload/v1630405617/furniture/IMG_20200901_161334_hb6g0p.jpg "Summer build")
+![Kitchen frame](https://res.cloudinary.com/vanderfool/image/upload/v1630405617/furniture/IMG-20200901-WA0000_lyulu4.jpg "Kitchen frame")
+![Integrated kitchen](https://res.cloudinary.com/vanderfool/image/upload/v1630405617/furniture/IMG-20200901-WA0004_i2fa0b.jpg "Integrated kitchen")
 </div>
 
 We could not build the kitchen too far front, otherwise it collides with the driver seat when leaning back.
@@ -47,7 +47,7 @@ The wires feeding our appliances are hidden in ducts behind the cladding.
 So far we mostly have lights and sockets, but we plan for over small 20 appliances.
 
 <div class="row-image">
-![Kitchen](/assets/furniture/IMG_20210111_113842.jpg "Kitchen")
-![Main electrics](/assets/furniture/IMG_20210117_173900.jpg "Main electrics")
-![Main light](/assets/furniture/IMG_20210130_130021.jpg "Main light")
+![Kitchen](https://res.cloudinary.com/vanderfool/image/upload/v1630405618/furniture/IMG_20210111_113842_sufxnq.jpg "Kitchen")
+![Main electrics](https://res.cloudinary.com/vanderfool/image/upload/v1630405619/furniture/IMG_20210117_173900_twcstb.jpg "Main electrics")
+![Main light](https://res.cloudinary.com/vanderfool/image/upload/v1630405618/furniture/IMG_20210130_130021_e8ay6y.jpg "Main light")
 </div>
