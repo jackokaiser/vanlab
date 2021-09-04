@@ -2,11 +2,11 @@
 title: Contact
 ---
 
-## Who we are
+## Qui est-on
 
-[Jacques](https://jacqueskaiser.com/) and [Camille](https://www.linkedin.com/in/camillesifferlen).
+[Jacques](https://jacqueskaiser.com/) et [Camille](https://www.linkedin.com/in/camillesifferlen).
 
-## About the website
+## À propos du site Web
 
-This website is open-source and deployed on netlify-CMS using the github integration, see the [vanderfool repo](https://github.com/jackokaiser/vanlab).
-It is developed with the [preact](https://preactjs.com/) framework.
+Ce site est open-source et déployé sur netlify-CMS en utilisant l'intégration github, voir le repo [vanderfool repo](https://github.com/jackokaiser/vanlab).
+Il est développé avec le framework [preact](https://preactjs.com/).
