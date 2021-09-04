@@ -51,6 +51,6 @@ Jusqu'à présent, nous avons surtout des lumières et des prises, mais nous pr�
 
 <div class="row-image">
 ![Cuisine](https://res.cloudinary.com/vanderfool/image/upload/v1630405618/furniture/IMG_20210111_113842_sufxnq.jpg "Cuisine")
-![Panneau électrique](https://res.cloudinary.com/vanderfool/image/upload/v1630405619/furniture/IMG_20210117_173900_twcstb.jpg "Panneau électrique")
-![Éclairage principal](https://res.cloudinary.com/vanderfool/image/upload/v1630405618/furniture/IMG_20210130_130021_e8ay6y.jpg "Éclairage principal")
+![Panneau électrique](https://res.cloudinary.com/vanderfool/image/upload/a_270/v1630405619/furniture/IMG_20210117_173900_twcstb.jpg "Panneau électrique")
+![Éclairage principal](https://res.cloudinary.com/vanderfool/image/upload/a_270/v1630405618/furniture/IMG_20210130_130021_e8ay6y.jpg "Éclairage principal")
 </div>

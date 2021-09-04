@@ -27,7 +27,7 @@ Nous voulions éviter d'utiliser de la colle néoprène sur le métal, car le m�
 
 Nous avons posé un parquet flottant sur le sol, pour créer une ambiance cozy. En guise de finitions, nous avons installées des cornières en aluminium à de nombreux endroits, pour protéger le parquet et cacher les imperfections.
 
-![Parquet](https://res.cloudinary.com/vanderfool/image/upload/v1630405258/hit_the_road/IMG_20210425_175804_ahgwxd.jpg "Parquet")
+![Parquet](https://res.cloudinary.com/vanderfool/image/upload/a_270/v1630405258/hit_the_road/IMG_20210425_175804_ahgwxd.jpg "Parquet")
 
 Au départ, nous avions prévu de soulever l'arrière du lit à l'aide d'une corde pour le transformer en canapé, comme le modèle original qui nous a inspiré.
 Finalement, nous avons opté pour une approche plus classique en utilisant des glissières crantées.

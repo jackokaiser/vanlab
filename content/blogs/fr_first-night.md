@@ -18,7 +18,7 @@ Les pieds sont constitués de profils carrés en aluminium de 3cm x 3cm, qui gli
 <div class="row-image">
 ![Sommier](https://res.cloudinary.com/vanderfool/image/upload/v1630406207/first_night/IMG-20201230-WA0054_eiyovq.jpg "Sommier")
 ![Pieds du lit](https://res.cloudinary.com/vanderfool/image/upload/v1630406207/first_night/IMG_20201231_122813_rdkdhn.jpg "Pieds du lit")
-![Inserts filetés](https://res.cloudinary.com/vanderfool/image/upload/v1630406208/first_night/IMG_20201231_124805_gzm24t.jpg "Inserts filetés")
+![Inserts filetés](https://res.cloudinary.com/vanderfool/image/upload/a_180/v1630406208/first_night/IMG_20201231_124805_gzm24t.jpg "Inserts filetés")
 </div>
 
 Cette partie du lit représente les deux tiers de la surface totale du sommier.

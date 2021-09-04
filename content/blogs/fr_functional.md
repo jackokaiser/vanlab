@@ -1,7 +1,7 @@
 ---
 title: Le van est fonctionnel
 date: 2021-04-04
-cover: https://res.cloudinary.com/vanderfool/image/upload/v1630405779/functional/IMG_20210320_124433_ysqqg5.jpg
+cover: https://res.cloudinary.com/vanderfool/image/upload/a_270/v1630405779/functional/IMG_20210320_124433_ysqqg5.jpg
 ---
 
 Après 7 mois de construction à temps partiel, le van est entièrement fonctionnel.
@@ -51,9 +51,9 @@ Le système d'eau est également fonctionnel - la pompe à pied fonctionne bien 
 Nous garderons un œil sur ce point.
 
 <div class="row-image">
-![Compartiment étanche](https://res.cloudinary.com/vanderfool/image/upload/v1630405781/functional/IMG_20210405_111209_nnktf1.jpg "Compartiment étanche")
-![Vannes gaz](https://res.cloudinary.com/vanderfool/image/upload/v1630405780/functional/IMG_20210405_111308_byfbqe.jpg "Vannes gaz")
-![Chauffage au gaz](https://res.cloudinary.com/vanderfool/image/upload/v1630405781/functional/IMG_20210405_111357_d2y1ki.jpg "Chauffage au gaz")
+![Compartiment étanche](https://res.cloudinary.com/vanderfool/image/upload/a_270/v1630405781/functional/IMG_20210405_111209_nnktf1.jpg "Compartiment étanche")
+![Vannes gaz](https://res.cloudinary.com/vanderfool/image/upload/a_270/v1630405780/functional/IMG_20210405_111308_byfbqe.jpg "Vannes gaz")
+![Chauffage au gaz](https://res.cloudinary.com/vanderfool/image/upload/a_270/v1630405781/functional/IMG_20210405_111357_d2y1ki.jpg "Chauffage au gaz")
 </div>
 
 L'espace de vie est assez spacieux, nous pouvons tous les deux nous tenir debout et évoluer sans nous gêner l'un l'autre.
@@ -62,7 +62,7 @@ Il est resté chaud et l'humidité dans la pièce n'a pas beaucoup augmenté.
 Le carton au sol sera bientôt remplacé par du parquet, et Camille va coudre un rideau thermique adéquat.
 
 <div class="row-image">
-![L'entrée spacieuse](https://res.cloudinary.com/vanderfool/image/upload/v1630405781/functional/IMG_20210405_111651_sytpip.jpg "L'entrée spacieuse")
+![L'entrée spacieuse](https://res.cloudinary.com/vanderfool/image/upload/a_270/v1630405781/functional/IMG_20210405_111651_sytpip.jpg "L'entrée spacieuse")
 ![Dîner avec Yannick et Nicolas](https://res.cloudinary.com/vanderfool/image/upload/v1630405777/functional/IMG-20210404-WA0032_hrvyaf.jpg "Dîner avec Yannick et Nicolas")
 </div>
 
@@ -72,8 +72,8 @@ J'ai construit un boîtier en bois moche, mais à l'avenir, on pourra en faire u
 Jusqu'à présent nous avons constaté que l'humidité et la température étaient toujours plus extrêmes au plafond, donc l'isolation joue bien son rôle de tampon.
 
 <div class="row-image">
-![Boîte à capteurs](https://res.cloudinary.com/vanderfool/image/upload/v1630405777/functional/IMG_20210326_180607_wk9uuv.jpg "Boîte à capteurs")
-![Implémentation](https://res.cloudinary.com/vanderfool/image/upload/v1630405778/functional/IMG_20210326_180259_e4vfyd.jpg "Implémentation")
+![Boîte à capteurs](https://res.cloudinary.com/vanderfool/image/upload/a_270/v1630405777/functional/IMG_20210326_180607_wk9uuv.jpg "Boîte à capteurs")
+![Implémentation](https://res.cloudinary.com/vanderfool/image/upload/a_270/v1630405778/functional/IMG_20210326_180259_e4vfyd.jpg "Implémentation")
 </div>
 
 Nous avons également entamé les démarches pour immatriculer le van comme VASP camping-car.

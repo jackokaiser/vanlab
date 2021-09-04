@@ -17,7 +17,7 @@ The legs consists of 3cm x 3cm aluminum square profiles, which slide in bed feet
 <div class="row-image">
 ![Core bed frame](https://res.cloudinary.com/vanderfool/image/upload/v1630406207/first_night/IMG-20201230-WA0054_eiyovq.jpg "Core bed frame")
 ![Drilling feet](https://res.cloudinary.com/vanderfool/image/upload/v1630406207/first_night/IMG_20201231_122813_rdkdhn.jpg "Drilling feet")
-![Nuts wood inserts](https://res.cloudinary.com/vanderfool/image/upload/v1630406208/first_night/IMG_20201231_124805_gzm24t.jpg "Nuts wood inserts")
+![Nuts wood inserts](https://res.cloudinary.com/vanderfool/image/upload/a_180/v1630406208/first_night/IMG_20201231_124805_gzm24t.jpg "Nuts wood inserts")
 </div>
 
 This part of the bed makes two thirds of the total bed area.

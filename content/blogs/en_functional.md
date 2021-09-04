@@ -1,7 +1,7 @@
 ---
 title: The van is functional
 date: 2021-04-04
-cover: https://res.cloudinary.com/vanderfool/image/upload/v1630405779/functional/IMG_20210320_124433_ysqqg5.jpg
+cover: https://res.cloudinary.com/vanderfool/image/upload/a_270/v1630405779/functional/IMG_20210320_124433_ysqqg5.jpg
 ---
 
 After 7 months of part-time building, the van is fully functional.
@@ -50,9 +50,9 @@ The water system is also functional - the foot pump works well and we only notic
 We will keep an eye on this.
 
 <div class="row-image">
-![Airtight gas bottle closet](https://res.cloudinary.com/vanderfool/image/upload/v1630405781/functional/IMG_20210405_111209_nnktf1.jpg "Airtight gas bottle closet")
-![gas valves](https://res.cloudinary.com/vanderfool/image/upload/v1630405780/functional/IMG_20210405_111308_byfbqe.jpg "Gas valves")
-![Gas heater](https://res.cloudinary.com/vanderfool/image/upload/v1630405781/functional/IMG_20210405_111357_d2y1ki.jpg "Gas heater")
+![Airtight gas bottle closet](https://res.cloudinary.com/vanderfool/image/upload/a_270/v1630405781/functional/IMG_20210405_111209_nnktf1.jpg "Airtight gas bottle closet")
+![gas valves](https://res.cloudinary.com/vanderfool/image/upload/a_270/v1630405780/functional/IMG_20210405_111308_byfbqe.jpg "Gas valves")
+![Gas heater](https://res.cloudinary.com/vanderfool/image/upload/a_270/v1630405781/functional/IMG_20210405_111357_d2y1ki.jpg "Gas heater")
 </div>
 
 The living area is quite spacious, both of us can stand and do stuff without getting into each other's way.
@@ -61,7 +61,7 @@ It remained warm and the humidity in the room did not increase much.
 The cardboard on the floor will soon be replaced with parquet, and Camille will sew a proper thermal curtain.
 
 <div class="row-image">
-![Spacious entrance](https://res.cloudinary.com/vanderfool/image/upload/v1630405781/functional/IMG_20210405_111651_sytpip.jpg "Spacious entrance")
+![Spacious entrance](https://res.cloudinary.com/vanderfool/image/upload/a_270/v1630405781/functional/IMG_20210405_111651_sytpip.jpg "Spacious entrance")
 ![Dinner with Yannick and Nicolas](https://res.cloudinary.com/vanderfool/image/upload/v1630405777/functional/IMG-20210404-WA0032_hrvyaf.jpg "Dinner with Yannick and Nicolas")
 </div>
 
@@ -71,8 +71,8 @@ I have built an ugly wooden case, but in the future I might print a PCB to integ
 So far we noted that the humidity and temperature was always more extreme in the ceiling, so the insulation does play its role of buffer.
 
 <div class="row-image">
-![Sensor box](https://res.cloudinary.com/vanderfool/image/upload/v1630405777/functional/IMG_20210326_180607_wk9uuv.jpg "Sensor box")
-![Under the hood](https://res.cloudinary.com/vanderfool/image/upload/v1630405778/functional/IMG_20210326_180259_e4vfyd.jpg "Under the hood")
+![Sensor box](https://res.cloudinary.com/vanderfool/image/upload/a_270/v1630405777/functional/IMG_20210326_180607_wk9uuv.jpg "Sensor box")
+![Under the hood](https://res.cloudinary.com/vanderfool/image/upload/a_270/v1630405778/functional/IMG_20210326_180259_e4vfyd.jpg "Under the hood")
 </div>
 
 We have also started the process to immatriculate the van as the camper.

@@ -28,7 +28,7 @@ We wanted to avoid using neoprene glue on the metal, because it can get really h
 We have fitted a floating parquet on the floor, for a very cozy feeling.
 The finishing touch is the aluminium angles we've installed in many places, for protection and hiding imperfections.
 
-![Parquet](https://res.cloudinary.com/vanderfool/image/upload/v1630405258/hit_the_road/IMG_20210425_175804_ahgwxd.jpg "Parquet")
+![Parquet](https://res.cloudinary.com/vanderfool/image/upload/a_270/v1630405258/hit_the_road/IMG_20210425_175804_ahgwxd.jpg "Parquet")
 
 Originally we planned to lift the back of the bed with a rope to transform it into a sofa, like the original design we've copied.
 In the end we went for a more classical approach using notched sliders.
