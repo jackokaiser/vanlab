@@ -4,54 +4,54 @@ date: 2020-10-23
 cover: https://res.cloudinary.com/vanderfool/image/upload/v1630405976/build_floor/floor-before-after_opbayx.jpg
 ---
 
-Since we removed the previous industrial floor with a crowbar it was left to us to build one we like better.
-The build itself was actually only a matter of days, although the turn of events (our lack of experience) forced us to disassemble and resassemble it a few times until it was final.
+Nous avons enlevé le plancher industriel précédent au pied de biche, il nous fallait donc en fabriquer un meilleur.
+La construction n'a été qu'une question de jours, même si la tournure des événements (notre manque d'expérience) nous a obligé à le démonter et le remonter plusieurs fois jusqu'à ce qu'il soit définitif.
 
-We started by cleaning the edges of the previous holes, applying anti-rust and sealing them with black sillicon.
-For the bigger holes, we got helped by Alexandre who closed them by riveting aluminium plates.
+Nous avons commencé par nettoyer les bords des trous précédents, appliquer de l'antirouille et les sceller avec du sillicon noir.
+Pour les plus gros trous, nous avons bénéficié de l'aide d'Alexandre, qui les a fermés en rivetant des plaques d'aluminium.
 
 <div class="row-image">
-![Alexandre riveting alu plates](https://res.cloudinary.com/vanderfool/image/upload/v1630405977/build_floor/IMG_20200921_151925_mrj9le.jpg "Alexandre riveting alu plates")
-![Alu plate repair](https://res.cloudinary.com/vanderfool/image/upload/v1630405974/build_floor/IMG_20200918_185545_xuqjuy.jpg "Alu plate repair")
-![Camille applying anti-rust](https://res.cloudinary.com/vanderfool/image/upload/v1630405976/build_floor/IMG_20200815_184221_hsqadc.jpg "Camille applying anti-rust")
+![Fermeture des trous](https://res.cloudinary.com/vanderfool/image/upload/v1630405977/build_floor/IMG_20200921_151925_mrj9le.jpg "Fermeture des trous")
+![Réparation aluminium](https://res.cloudinary.com/vanderfool/image/upload/v1630405974/build_floor/IMG_20200918_185545_xuqjuy.jpg "Réparation aluminium")
+![Antirouille](https://res.cloudinary.com/vanderfool/image/upload/v1630405976/build_floor/IMG_20200815_184221_hsqadc.jpg "Antirouille")
 </div>
 
-For insulation, we have a first layer of 10mm compact cork that we put in the lowest part of the van to equalize the floor surface.
-Then comes a second layer of 20mm expanded cork which covers the whole surface.
-This insulation is protected from humidity by the intello plus membrane, on which sits 15mm OSB panels.
-All parts were cut to fit the van shape as good as we could (except for the wheels around which we will build a box).
+Pour l'isolation, nous avons une première couche de liège poncé de 10mm que nous mettons dans la partie la plus basse du van pour égaliser la surface.
+Vient ensuite une deuxième couche de liège expansé de 20mm qui recouvre toute la surface.
+Cette isolation est protégée de l'humidité par la membrane intello plus, sur laquelle reposent des panneaux OSB de 15 mm.
+Toutes les pièces ont été découpées pour épouser au mieux à la forme du van (sauf les roues autour desquelles nous allons construire une boîte).
 
 <div class="row-image">
-![Compact cork and expanded cork layers](https://res.cloudinary.com/vanderfool/image/upload/v1630405976/build_floor/IMG_20200919_164331_qpqfyt.jpg "Cork layers")
-![Completed expanded cork layer](https://res.cloudinary.com/vanderfool/image/upload/v1630405974/build_floor/IMG_20200919_172434_f4mat8.jpg "Completed expanded cork layer")
-![Membrane protecting the insulation](https://res.cloudinary.com/vanderfool/image/upload/v1630405978/build_floor/IMG_20200922_191707_i505uh.jpg "Airtight membrane")
+![Couches de liège](https://res.cloudinary.com/vanderfool/image/upload/v1630405976/build_floor/IMG_20200919_164331_qpqfyt.jpg "Cork layers")
+![Liège expensé](https://res.cloudinary.com/vanderfool/image/upload/v1630405974/build_floor/IMG_20200919_172434_f4mat8.jpg "Liège expensé")
+![Intello plus](https://res.cloudinary.com/vanderfool/image/upload/v1630405978/build_floor/IMG_20200922_191707_i505uh.jpg "Intello plus")
 </div>
 
-There are 4 OSB panels, which were machined with a router to fit into each other.
-For each panel, there are four long screws going all the way down to the metal to hold them in place.
-The membrane seals around the screws thanks to the tescon naideck tape.
+Il y a 4 panneaux OSB, qui nous avons usiné à la défonceuse pour qu'ils s'emboitent les uns dans les autres.
+Pour chaque panneau, il y a quatre longues vis qui descendent jusqu'au métal pour les maintenir en place.
+Pour chacune des vis, nous avons un bout de Tecon Naideck qui assure l'étanchéité de la membrane.
+Pas évident de savoir si la vis transperse bien au bon endroit.
 
 <div class="row-image">
-![Front OSB panel](https://res.cloudinary.com/vanderfool/image/upload/v1630405976/build_floor/IMG_20200919_173148_v7sdks.jpg "Front OSB panel")
-![Cut to size](https://res.cloudinary.com/vanderfool/image/upload/v1630405974/build_floor/IMG_20200919_173123_dpsl3g.jpg "Cut to size")
-![Front to middle OSB panels junction](https://res.cloudinary.com/vanderfool/image/upload/v1630405976/build_floor/IMG_20200919_191741_lzid6p.jpg "OSB panels junction")
+![Panneau OSB avant](https://res.cloudinary.com/vanderfool/image/upload/v1630405976/build_floor/IMG_20200919_173148_v7sdks.jpg "Panneau OSB avant")
+![Ça rentre](https://res.cloudinary.com/vanderfool/image/upload/v1630405974/build_floor/IMG_20200919_173123_dpsl3g.jpg "Ça rentre")
+![Jonction entre panneaux](https://res.cloudinary.com/vanderfool/image/upload/v1630405976/build_floor/IMG_20200919_191741_lzid6p.jpg "Jonction entre panneaux")
 </div>
 
+Atteindre ce stade ne nous a pris quelques jours de travail intense, mais nous étions vraiment satisfaits du résultat.
+Malheureusement, nous avons dù démonter et remonter les panneaux OSB à plusieurs reprises:
+- La première fois, environ une semaine après terminaison, car nous avions oublié de laisser suffisamment de membrane pour la jonction sol/mur.
+- Une deuxième fois, car les normes VASP camping-car exigent un trou dans le sol pour que les fuites de gaz dans le compartiment étanche puissent s'échapper (nous avions initialement prévu de faire un trou dans le mur).
+- Une troisième fois, car nous avons finalement décidé d'acheter un chauffage au gaz (Propex HS2000), qui nécessite également deux trous dans le sol.
 
-Getting this stage only took us a couple of intense work days but we were really satisfied with the results.
-However we were not quite as finished as we expected.
-We actually disassembled and reassembled the OSB panels a few times.
-The first time, about a week later because we forgot to leave enough membrane for the floor / wall junction.
-A second time, because the French standards require a hole in the floor for leaking gas to escape (we initially planned to put this hole in the wall).
-A third time, because we finally decided on buying a gas heater (Propex HS2000), which also requires two holes in the floor.
-
-Cutting holes through all the floor layers at once turned out to be quite easy with the right setup, which we got right thanks to the help of Jean Marc.
-After the cut, we are left with a nice sandwich of the different floor layers.
-The annoying bit is that it was always necessary to remove the OSB panels and seal the membrane with tescon vana tape.
-Had we been planning betterf we could have saved some hours, but overall we are quite happy with our new sturdy floor.
+Finalement, faire des trous dans toutes les couches du plancher en même temps s'est avéré assez facile avec les bons outils, qui nous ont été prété par Jean Marc.
+Après la découpe, nous nous retrouvons avec un joli sandwich des différentes couches du plancher.
+Alors pourquoi devoir retirer les plaques OSB du plancher à chaque nouveau trou ?
+Pour pouvoir sceller la membrane d'étanchéité avec du ruban adhésif Tescon vana.
+Si nous avions mieux planifié, nous aurions pu gagner quelques heures, mais dans l'ensemble, nous sommes assez satisfaits de notre plancher solide tout neuf.
 
 <div class="row-image">
-![Setup for cutting a hole](https://res.cloudinary.com/vanderfool/image/upload/v1630405979/build_floor/IMG_20201009_163705_cm7jzy.jpg "Setup for cutting a hole")
-![Leftover from the hole](https://res.cloudinary.com/vanderfool/image/upload/v1630405978/build_floor/IMG_20201009_181940_dpyhgu.jpg "Leftover from the hole")
-![Sealing for the hole](https://res.cloudinary.com/vanderfool/image/upload/v1630405978/build_floor/IMG_20201010_154038_spxj8y.jpg "Sealing for the hole")
+![Percer un trou droit](https://res.cloudinary.com/vanderfool/image/upload/v1630405979/build_floor/IMG_20201009_163705_cm7jzy.jpg "Percer un trou droit")
+![Carrote de plancher](https://res.cloudinary.com/vanderfool/image/upload/v1630405978/build_floor/IMG_20201009_181940_dpyhgu.jpg "Carrote de plancher")
+![Étanchéité](https://res.cloudinary.com/vanderfool/image/upload/v1630405978/build_floor/IMG_20201010_154038_spxj8y.jpg "Étanchéité")
 </div>

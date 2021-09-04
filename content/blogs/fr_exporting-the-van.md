@@ -1,7 +1,12 @@
 ---
 title: Exportation du van
 date: 2020-07-20T11:35:23.085Z
+cover: https://res.cloudinary.com/vanderfool/image/upload/v1630783529/Exporting/export_xkilfq.png
 ---
-Since we will be leaving Germany, we will de-register the van from Germany and register it in France. It appeared to us that the easiest way to proceed was to get exportation plates (Zollkennzeichen) in Germany. To get those, we dropped the van at a registration service (Zulassungsdienst) in Karlsruhe, together with all the van papers and the keys - a little scary. We could have went ourselves to the official Zullasungstelle directly instead of using a middleman, but requesting an appointment can take long and we wanted to get through it quickly to start the French immatriculation process.
+Comme nous allons quitter l'Allemagne, nous allons désimmatriculer le van en Allemagne et l'immatriculer en France.
+Il nous a semblé que la façon la plus simple de procéder était d'obtenir des plaques d'exportation (Zollkennzeichen) en Allemagne.
+Pour les obtenir, nous avons laissé le van dans un service d'enregistrement (Zulassungsdienst) à Karlsruhe, toute une journée, avec tous les papiers officiels les clés: un peu étrange.
+Nous aurions pu nous rendre directement au Zullasungstelle officiel au lieu d'utiliser un intermédiaire, mais demander un rendez-vous peut prendre du temps et nous voulions le faire rapidement pour commencer la procédure d'immatriculation française.
 
-A day later we were able to pick up the van with its new red exportation plates. They are valid and include an insurance for 15 days, for a cost of 236.40€.
+Un jour plus tard, nous avons pu récupérer le van avec ses nouvelles plaques d'exportation rouges.
+Elles sont valides et incluent une assurance pour 15 jours, pour un coût de 236,40€.

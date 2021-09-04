@@ -4,28 +4,29 @@ date: 2020-08-11T12:07:38.061Z
 cover: https://res.cloudinary.com/vanderfool/image/upload/v1630406540/cleaning_electronics_1/resized_IMG_20200808_104747_axdyvo.jpg
 ---
 
-We are still very much in the de-constructing phase.
-Back when we removed the shelf, we disconnected a lot of additional LEDs that the previous owner installed.
-That led to many useless cables that we had to track down and remove - the only extra piece of electronics we wanted to keep was the rear camera.
+Nous sommes toujours dans la phase de déconstruction.
+Lorsque nous avons retiré l'étagère, nous avons déconnecté un grand nombre de LED supplémentaires que le propriétaire précédent avait installé.
+Cela a rendu beaucoup de câbles obselète, que nous avons dû tirer et enlever.
+Le seul élément électronique supplémentaire que nous avons gardé est la caméra de recul.
 
-All cables added by the previous owner lead to beneath the driver seat.
-Although functional, it was a real mess down there.
+Tous les câbles ajoutés par le propriétaire précédent se rencontrent sous le siège du conducteur, proche de la batterie voiture.
+Ça fonctionne, mais quel foutoir.
 
-![Initial electrical mess](https://res.cloudinary.com/vanderfool/image/upload/v1630406554/cleaning_electronics_1/resized_IMG_20200806_165603_ynot7q.jpg "Initial electrical mess")
+![Foutoir initial](https://res.cloudinary.com/vanderfool/image/upload/v1630406554/cleaning_electronics_1/resized_IMG_20200806_165603_ynot7q.jpg "Foutoir initial")
 
-This is not my field of expertise but it looks to me like the equivalent of bad, unreadable code.
-After disconnecting the battery, I removed all the cables aside from those used for the rear camera.
-On the positive side, that makes quite a lot of wires and wagos that we'll be able to reuse for our own electronics once we buy an auxiliary battery.
+Ce n'est pas mon domaine d'expertise, mais cela me semble être l'équivalent de ce qu'on appelle du "code spaghetti" en informatique.
+Après avoir débranché la batterie, j'ai enlevé tous les câbles à l'exception de ceux utilisés pour la caméra de recul.
+Le côté positif, c'est que cela fait pas mal de câbles et de bornes Wagos que nous pourrons réutiliser pour notre propre électronique, une fois que nous aurons acheté une batterie auxiliaire.
 
-![Removed electronics](https://res.cloudinary.com/vanderfool/image/upload/v1630406567/cleaning_electronics_1/resized_IMG_20200808_105631_rd5du9.jpg "Removed electronics")
+![Superflu](https://res.cloudinary.com/vanderfool/image/upload/v1630406567/cleaning_electronics_1/resized_IMG_20200808_105631_rd5du9.jpg "Superflu")
 
-Sadly, even the rear camera circuit alone is quite a mess.
-There are too many hops, the fuses are directly mounted on the cables and it all look very floppy.
+Malheureusement, même le circuit de la caméra de recul est désordonné.
+Il y a beaucoup de jonctions, les fusibles sont directement attachés aux câbles et ça n'a pas l'air solide.
 
-![Original rear camera circuit](https://res.cloudinary.com/vanderfool/image/upload/v1630406577/cleaning_electronics_1/resized_IMG_20200807_201708_eurd3z.jpg "Original rear camera circuit")
+![Circuit caméra de recul](https://res.cloudinary.com/vanderfool/image/upload/v1630406577/cleaning_electronics_1/resized_IMG_20200807_201708_eurd3z.jpg "Circuit caméra de recul")
 
-In the coming days I'll rewire this circuit to clean it up.
-To do this, I have bought some tools, as my mother's home was not so equipped for everything that concerns electronics.
-A new electric drill and a set of torx will also be quite helpful.
+Dans les prochains jours, je vais recâbler ce circuit pour le nettoyer et le comprendre.
+Pour ce faire, j'ai acheté quelques outils: le garrage chez maman n'est pas tellement équipé pour l'électronique.
+Une nouvelle perceuse électrique ainsi qu'un de torx seront également très utiles.
 
-![Old analog multimeter](https://res.cloudinary.com/vanderfool/image/upload/v1630406583/cleaning_electronics_1/resized_IMG_20200808_131659_x9mgdz.jpg "Old analog multimeter")
+![Vieux voltmètre](https://res.cloudinary.com/vanderfool/image/upload/v1630406583/cleaning_electronics_1/resized_IMG_20200808_131659_x9mgdz.jpg "Vieux voltmètre")

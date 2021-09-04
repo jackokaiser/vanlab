@@ -4,37 +4,38 @@ date: 2020-12-31
 cover: https://res.cloudinary.com/vanderfool/image/upload/v1630406209/first_night/IMG_20210101_043826_qrzjns.jpg
 ---
 
-For the first day of year 2021, we slept in the van for the first time.
-We have celebrated New Year's Eve at friends - Tiphaine and Alexandre.
-They live quite close to my mother's place where we currently live, but with the French curfew of 8pm, we couldn't just drive back after the party - we had to stay over!
-This was the call for a meaningful deadline: get the bed done before 2021.
+Pour le premier jour de l'année 2021, nous avons dormi dans le van pour la première fois.
+Nous avons fêté le réveillon du Nouvel An chez des amis - Tiphaine et Alexandre.
+Ils habitent assez près de chez ma mère où nous vivons actuellement, mais avec le couvre-feu de 20 heures, nous ne pouvions pas rentrer en voiture après la fête.
+Cela nous imposait donc une date butoir : finir le lit avant 2021.
 
-Actually we had built and [oiled the bed frame](/post/oiling-the-bed.md) a while ago, long before we even bought the van.
-What was left to do was to find a way to robustly attach the bed to the [15mm OSB floor](/post/floor.md), at the right height.
-The core part of the bed frame consists of a 1,40m x 1,40m square, which stands on 6 legs.
-The legs consists of 3cm x 3cm aluminum square profiles, which slide in bed feet, themselves attached to the floor with two nuts each.
+En fait, nous avions déjà [construit et huilé le cadre du lit](/post/oiling-the-bed.md) il y a fort longtemps, avant même l'achat du van.
+Ce qui restait à faire était de trouver un moyen de fixer solidement le lit au [plancher OSB de 15mm](/post/floor.md), à la bonne hauteur.
+La partie centrale du cadre du lit consiste en un carré de 1,40m x 1,40m, qui repose sur 6 pieds.
+Les pieds sont constitués de profils carrés en aluminium de 3cm x 3cm, qui glissent dans les pieds du lit, eux-mêmes fixés au sol avec deux écrous chacun.
+
 
 <div class="row-image">
-![Core bed frame](https://res.cloudinary.com/vanderfool/image/upload/v1630406207/first_night/IMG-20201230-WA0054_eiyovq.jpg "Core bed frame")
-![Drilling feet](https://res.cloudinary.com/vanderfool/image/upload/v1630406207/first_night/IMG_20201231_122813_rdkdhn.jpg "Drilling feet")
-![Nuts wood inserts](https://res.cloudinary.com/vanderfool/image/upload/v1630406208/first_night/IMG_20201231_124805_gzm24t.jpg "Nuts wood inserts")
+![Sommier](https://res.cloudinary.com/vanderfool/image/upload/v1630406207/first_night/IMG-20201230-WA0054_eiyovq.jpg "Sommier")
+![Pieds du lit](https://res.cloudinary.com/vanderfool/image/upload/v1630406207/first_night/IMG_20201231_122813_rdkdhn.jpg "Pieds du lit")
+![Inserts filetés](https://res.cloudinary.com/vanderfool/image/upload/v1630406208/first_night/IMG_20201231_124805_gzm24t.jpg "Inserts filetés")
 </div>
 
-This part of the bed makes two thirds of the total bed area.
-There's storage space underneath it, and it can lift up on both the front and back sides to transform into a sofa.
-We had to correctly place the frame so that it could still lift up all the way, without colliding with the curved wall.
+Cette partie du lit représente les deux tiers de la surface totale du sommier.
+Il y a un espace de rangement permanent en dessous, et il peut se soulever à l'avant et à l'arrière pour se transformer en canapé.
+Le positionnement du cadre du lit est très précis, pour permettre au sommier de se plier sans toucher les murs incurvés en lambris.
 
-![Frame lift-up](https://res.cloudinary.com/vanderfool/image/upload/v1630406207/first_night/IMG-20201230-WA0055_h6hjod.jpg "Frame lift-up")
+![Ouverture sommier](https://res.cloudinary.com/vanderfool/image/upload/v1630406207/first_night/IMG-20201230-WA0055_h6hjod.jpg "Ouverture sommier")
 
-The other one third of the bed was built separately - during the day it turns into two facing seats and a table.
-This part is attached to the core bed frame with nuts, and only stands on the floor.
-This will allow us to easily move the seats around if we need to, by simply unscrewing a few nuts.
+L'autre tiers du lit a été construit séparément - pendant la journée, il se transforme en deux tabourets et une table.
+Cette partie est fixée au cadre central du lit à l'aide d'écrous, et ne fait que reposer sur le sol.
+Cela nous permettra de déplacer facilement les sièges si nous en avons besoin, en dévissant simplement quelques écrous à la main.
 
 <div class="row-image">
-![The facing seats](https://res.cloudinary.com/vanderfool/image/upload/v1630406207/first_night/IMG-20201230-WA0000_wscz7a.jpg "The facing seats")
-![All legs](https://res.cloudinary.com/vanderfool/image/upload/v1630406208/first_night/IMG_20201229_220855_mtc4gl.jpg "All legs")
+![Tabourets](https://res.cloudinary.com/vanderfool/image/upload/v1630406207/first_night/IMG-20201230-WA0000_wscz7a.jpg "Tabourets")
+![Pieds](https://res.cloudinary.com/vanderfool/image/upload/v1630406208/first_night/IMG_20201229_220855_mtc4gl.jpg "Pieds")
 ![Test](https://res.cloudinary.com/vanderfool/image/upload/v1630406207/first_night/IMG-20201230-WA0053_jorpc3.jpg "Test")
 </div>
 
-The night we've spent in the van was actually rather short - from 4:30 to 10:30.
-The outside temperature was around 0° but we were not cold - only the cold air intake next to the bed was a little uncomfortable.
+La nuit que nous avons passée dans le van a été en fait assez courte - de 4h30 à 10h30.
+La température extérieure était d'environ 0° mais nous n'avions pas froid - seule la prise d'air froid à côté du lit était un peu inconfortable.
