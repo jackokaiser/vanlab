@@ -4,13 +4,13 @@ date: 2020-09-03
 cover: https://res.cloudinary.com/vanderfool/image/upload/v1630405198/immatriculation/immatriculation1_yl8hqb.jpg
 ---
 
-Finally, after over 30 days, the French administration has finished processing the paperwork and the van is now imported!
-This is great news, since we were somewhat stuck without this registration.
+Enfin, après plus de 30 jours, l'administration française a fini de traiter les papiers et le van est maintenant importé !
+C'est une excellente nouvelle, car nous étions quelque peu coincés sans cette immatriculation.
 
-![Riveted immatriculation plate](https://res.cloudinary.com/vanderfool/image/upload/v1630405198/immatriculation/immatriculation2_bxe0tu.jpg "Riveted immatriculation plate")
+![Rivetage plaque d'immatriculation](https://res.cloudinary.com/vanderfool/image/upload/v1630405198/immatriculation/immatriculation2_bxe0tu.jpg "Rivetage plaque d'immatriculation")
 
-On one side, since our exportation plate expired, we were not allowed to drive the van anymore (and it was not insured either, so it was parked in private space).
-This prevented us to bring the van to a garrage to fix the holes in the floor, so we could not build the insulation.
-On the other side, we were not sure if the French administration would have required from us an additional technical inspection, so we did not want to cut into the body of the van to add the roof window just yet.
-Therefore, in the last 20 days, we have spent our time on auxiliary tasks: sourcing material, learning and building independant pieces of furniture.
-We can now start with the more involved tasks.
+D'une part, notre plaque d'exportation ayant expiré, nous n'étions plus autorisés à conduire le van (et il n'était pas assuré non plus, il fallait donc le laisser sur un terrain privé).
+Cela nous empêchait d'amener le van dans un garage pour réparer les trous dans le plancher, et nous ne pouvions donc pas construire l'isolation.
+D'autre part, nous n'étions pas sûrs si l'administration française allait exiger un contrôle technique supplémentaire, et nous ne voulions donc pas encore découper la carrosserie pour ajouter le lanterneau.
+Par conséquent, au cours des 20 derniers jours, nous avons consacré notre temps à des tâches auxiliaires : recherche de matériaux, apprentissage et construction de meubles indépendants.
+Nous pouvons maintenant commencer les tâches plus importantes.

@@ -15,7 +15,8 @@ They are screwed-in from the side using rivnuts that I crimped directly on the f
 
 ![2x100W solar panels](https://res.cloudinary.com/vanderfool/image/upload/v1630405777/functional/IMG-20210316-WA0008_xahfgb.jpg "2x100W solar panels")
 
-The rotating table is in place, we ended up finding the solid threaded metal tubes we needed in a common hardware store, in the shelf & decoration department.
+The rotating table is in place, Jean-Marc has found the solid threaded metal tubes we needed.
+They are the "My Tubes" of Leroy Merlin, in the shelving and decoration department.
 The table has a mount on its back, which screws in a L-shaped tube, itself inserted in a larger tube (a trampoline foot) attached in the corner of a stool.
 It has two rotation centers: within the larger tube next to the stool, and at the center of the table with the screw mount.
 At night, we take the L-shaped tube away and the table fits between the two stools to complete the bed frame.

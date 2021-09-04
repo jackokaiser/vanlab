@@ -28,7 +28,7 @@ Underneath the upper cabinet is a titled lambris, leaving room for small switche
 The switches control an ambiant LED strip which goes around the whole van, the spotlights above the kitchen area and another LED strip above the future mirror.
 
 The second piece of furniture we've built was the kitchen.
-There are two worktops, one of which holds our dometic combined two-burner hob and sink.
+There are two worktops, one of which holds our Dometic MO9722 combined two-burner hob and sink.
 We have prepared this integration back in late summer 2020 already!
 
 <div class="row-image">
@@ -38,8 +38,11 @@ We have prepared this integration back in late summer 2020 already!
 </div>
 
 We could not build the kitchen too far front, otherwise it collides with the driver seat when leaning back.
-There are three compartments underneath containing the gas bottle (which has to be airtight), two water tanks, and our 12V fridge on sliders.
-We are currently in the process of wiring up the gas and water circuits.
+There are three compartments underneath containing:
+- the gas bottle (which has to be airtight),
+- two water tanks (clean and grey),
+- our 12V fridge mounted on sliders.
+We are currently in the process of connecting the gas and water circuits.
 
 Meanwhile, the main electrical circuit is complete.
 There's a 200Ah 12V LIfePO4 battery which we have assembled with a BMS, a main switch, an MPPT, a shunt and lots of fuses, all of this fitted underneath the passenger bench.

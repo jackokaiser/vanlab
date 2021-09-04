@@ -4,28 +4,28 @@ date: 2020-11-02
 cover: https://res.cloudinary.com/vanderfool/image/upload/v1630405097/headliner/IMG_20201102_181532_c9zktd.jpg
 ---
 
-We've heard somewhere, that the front of the van can become a real oven in summer.
-So we decided to insulate the headliner - the space above driver and passenger seats.
-It took us about two days to take it off, insulate, seal with the vapour barrier membrane and put it back.
+Nous avons entendu quelque part que l'avant du van peut devenir un véritable four en été.
+Nous avons donc décidé d'isoler le plafond de la cabine avant - l'espace au-dessus des sièges du conducteur et du passager.
+Il nous a fallu environ deux jours pour le démonter, l'isoler, le sceller avec la membrane pare-vapeur et le remettre en place.
 
 <div class="row-image">
-![Removing the headliner](https://res.cloudinary.com/vanderfool/image/upload/v1630405097/headliner/IMG_20201101_155240_wc8v1t.jpg "Removing the headliner")
-![Headliner removed](https://res.cloudinary.com/vanderfool/image/upload/v1630405096/headliner/IMG_20201101_120445_xhaujt.jpg "Headliner removed")
+![Démontage plafond cabine](https://res.cloudinary.com/vanderfool/image/upload/v1630405097/headliner/IMG_20201101_155240_wc8v1t.jpg "Démontage plafond cabine")
+![Plafond cabine démonté](https://res.cloudinary.com/vanderfool/image/upload/v1630405096/headliner/IMG_20201101_120445_xhaujt.jpg "Plafond cabine démonté")
 </div>
 
-We picked cork for the floor, we used hemp for the headliner.
-Cork works great for flat, thin surfaces - hemp works best for uneven space.
-For the walls we are using both in combination, a post will follow on this.
-We have bought all the insulation material in a local bio shop called [alsabrico](https://www.alsabrico.fr/).
-These materials are good for the vanlife: they are natural, high air-quality, rot-proof and can absorb humidity to some extent.
+Nous avons choisi le liège pour l'isolation du plancher et le chanvre pour l'isolation de la cabine.
+Le liège fonctionne très bien pour les surfaces plates et fines - le chanvre fonctionne mieux pour les espaces irréguliers.
+Pour les murs, nous utilisons les deux en combinaison, un post suivra à ce sujet.
+Nous avons acheté tous les matériaux d'isolation dans un magasin bio local à Turckheim appelé [alsabrico](https://www.alsabrico.fr/).
+Ces matériaux sont bons pour vivre dans le van à templs plein : ils sont naturels, ne polluent pas l'air, imputrescibles et peuvent absorber l'humidité dans une certaine mesure.
 
-The difficulty of this build was to get the membrane to conform to the shape of the headliner.
-But even this was easier than anticipated.
-Once it was done, we re-installed the headliner and stuffed hemp until the space was full.
-We also found the timer relay installed by the previous owner, which enables the rear camera to stay on for a few seconds after leaving the reverse gear - quite handy.
+La difficulté de cette construction a été de faire en sorte que la membrane épouse la forme de la cabine de toit.
+Mais même cela a été plus facile que prévu.
+Une fois terminée, nous avons réinstallé le plafond de la cabine et rempli de chanvre jusqu'à ce que l'espace soit plein.
+Nous avons également trouvé le relais de temporisation installé par le propriétaire précédent, qui permet à la caméra de recul de rester allumée pendant quelques secondes, quand on change rapidement entre marche arrière et marche avant - très pratique.
 
 <div class="row-image">
-![Fitting membrane and cables](https://res.cloudinary.com/vanderfool/image/upload/v1630405097/headliner/IMG_20201102_163451_w9zaop.jpg "Fitting membrane and cables")
-![Timer relay](https://res.cloudinary.com/vanderfool/image/upload/v1630405096/headliner/IMG_20201101_123244_t0zom3.jpg "Timer relay")
-![Finished sealed](/assets/headliner/IMG_20201102_181532.jpg "Finished sealed")
+![Ajustement membrane et cables](https://res.cloudinary.com/vanderfool/image/upload/v1630405097/headliner/IMG_20201102_163451_w9zaop.jpg "Ajustement membrane et cables")
+![Relais temporisé](https://res.cloudinary.com/vanderfool/image/upload/v1630405096/headliner/IMG_20201101_123244_t0zom3.jpg "Relais temporisé")
+![Étanchéité terminée](/assets/headliner/IMG_20201102_181532.jpg "Étanchéité terminée")
 </div>

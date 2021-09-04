@@ -1,78 +1,78 @@
 ---
-title: On prend la route
+title: C’est parti pour un tour !
 date: 2021-05-16
 cover: https://res.cloudinary.com/vanderfool/image/upload/v1630405257/hit_the_road/IMG-20210511-WA0001_qzw503.jpg
 ---
-We are quite happy with the state of the van right now.
-On one side, we're done with most of the stylish details: remaining painting jobs, hiding more cables and membrane, cylinders holding shelf doors open...
-But we have also built new stuff which makes a real difference for living full-time in it.
+Nous sommes plutôt satisfaits de l'état du van en ce moment.
+D'un côté, nous en avons fini avec la plupart des détails tels que les travaux de peinture restants, la protection des câbles et de la membrane, l’installation des vérins maintenant les portes des étagères ouvertes...
+Mais nous avons également construit de nouvelles choses qui font une réelle différence pour vivre à plein temps dans le van.
 
-We have significantly increased storage space by building a compartment above the driver and passenger seats.
-It is made of a 1cm plywood plate, cut to shape and holding mainly with two threaded rods.
-The plate also rests in the front on two small brackets.
+Nous avons considérablement augmenté l'espace de rangement en construisant un compartiment au-dessus des sièges du conducteur et du passager.
+Il est fait d'une plaque de contreplaqué de 1cm, découpée à la forme de la cabine et tenant principalement grâce à deux tiges filetées.
+La plaque repose également à l'avant sur deux petits supports.
 
-![Headliner storage](https://res.cloudinary.com/vanderfool/image/upload/v1630405258/hit_the_road/IMG_20210424_193108_nd3k7f.jpg "Headliner storage")
+![Stockage au dessus de la cabine](https://res.cloudinary.com/vanderfool/image/upload/v1630405258/hit_the_road/IMG_20210424_193108_nd3k7f.jpg "Stockage au dessus de la cabine")
 
-We have used the bottom strip to hold a curtain rod, which makes a very efficient thermal separation between the van's cabin and loading space.
-The thermal curtains is made of two layers of textile - a heavy layer for the isolation and a light layer for the reflection.
-The two layers are attached to each other using velcro.
-In summer, the reflecting side of the light layer is facing to the cabine to keep the heat outside of the living area.
-Until now, we've had the reflecting side turned around to keep the heat inside the living area.
-We rely on the same technique for the side window - the curtain is directly attached to the sliding door with velcro.
-Camille dedicated the last weeks of van work to sewing all of this.
-She also hided most of the membrane with a grey fabric.
-We wanted to avoid using neoprene glue on the metal, because it can get really hot and we wanted to avoid volatile particles.
+Nous avons fixé une tringle à rideaux en dessous, ce qui permet d'obtenir une séparation thermique efficace entre la cabine du fourgon et l'espace arrière.
+Le rideau thermique est composé de deux couches de textile - une couche lourde de velours thermique pour l'isolation et une couche légère pour la réflexion (type couverture de survie).
+Les deux couches sont attachées l'une à l'autre à l'aide de velcro.
+En été, le côté réfléchissant de la couche légère est orienté vers la cabine afin de réfléchir la chaleur à l'extérieur de l'espace habitable.
+Jusqu'à présent, nous avons retourné le côté réfléchissant pour garder la chaleur à l'intérieur de l'habitation.
+Nous utilisons la même technique pour la fenêtre latérale - le rideau est directement fixé à la porte coulissante avec du velcro.
+Camille a consacré les dernières semaines de travaux du van à coudre tout cela.
+Elle a également caché la majeure partie de la membrane avec un tissu gris.
+Nous voulions éviter d'utiliser de la colle néoprène sur le métal, car le métal peut devenir très chaud en été et nous voulions éviter le risque de composés organiques volatils additionnels.
 
-![Thermal curtains](https://res.cloudinary.com/vanderfool/image/upload/v1630405257/hit_the_road/2021-05-23_12.46.16_wp6hn6.jpg "Thermal curtains")
+![Rideaux thermiques](https://res.cloudinary.com/vanderfool/image/upload/v1630405257/hit_the_road/2021-05-23_12.46.16_wp6hn6.jpg "Rideaux thermiques")
 
-We have fitted a floating parquet on the floor, for a very cozy feeling.
-The finishing touch is the aluminium angles we've installed in many places, for protection and hiding imperfections.
+Nous avons posé un parquet flottant sur le sol, pour créer une ambiance cozy. En guise de finitions, nous avons installées des cornières en aluminium à de nombreux endroits, pour protéger le parquet et cacher les imperfections.
 
 ![Parquet](https://res.cloudinary.com/vanderfool/image/upload/v1630405258/hit_the_road/IMG_20210425_175804_ahgwxd.jpg "Parquet")
 
-Originally we planned to lift the back of the bed with a rope to transform it into a sofa, like the original design we've copied.
-In the end we went for a more classical approach using notched sliders.
-On the front of the bed, we've installed cylinders to help us lift it up to reach the storage space.
+Au départ, nous avions prévu de soulever l'arrière du lit à l'aide d'une corde pour le transformer en canapé, comme le modèle original qui nous a inspiré.
+Finalement, nous avons opté pour une approche plus classique en utilisant des glissières crantées.
+Sur l'avant du lit, nous avons installé des vérins qui nous aident à le soulever pour accéder à l'espace de rangement.
 
-![Sofa bed - massage not included](https://res.cloudinary.com/vanderfool/image/upload/v1630405260/hit_the_road/received_511529293537597_iddr12.jpg "Sofa bed - massage not included")
+![Lit cannapé - massage non compris](https://res.cloudinary.com/vanderfool/image/upload/v1630405260/hit_the_road/received_511529293537597_iddr12.jpg "Lit cannapé - massage non compris")
 
-I've hacked up two additional smart van features: an extraction computer fan with variable speed, and a roof-window alarm.
-The roof-window alarm rings a buzzer when the roof-window is opened and the contact is on.
-It shouldn't be open when driving but it's easy to forget.
-Both electrical circuits only consist of a handful of components and a single MOSFET transistor, without microcontrollers.
-This made them simpler to fit into standard boxes, such as leftovers screw packages.
-The dimmable fan circuit is replicated from [this youtube video](https://www.youtube.com/watch?v=8e64L5RWYGM) - only a potentiometer and a N-channel MOSFET, it's a weird one but it works.
+J'ai également bricolé deux fonctionnalités "smart van" : un ventilateur d'ordinateur  à vitesse variable et une alarme pour le lanterneau.
+L'alarme du lanterneau fait sonner un buzzer lorsque il est ouvert et que le contact est activé.
+Il ne devrait pas être ouvert pendant la conduite, mais il est facile de l'oublier.
+Les deux circuits électriques ne comportent qu'une poignée de composants et un seul transistor MOSFET, sans microcontrôleur.
+Cela a permis de les faire entrer plus facilement dans des boîtiers standard, comme des vielles boîtes à vis.
+Le circuit du ventilateur à vitesse variable vient de [cette vidéo youtube](https://www.youtube.com/watch?v=8e64L5RWYGM) – il utilise seulement un potentiomètre et un MOSFET à canal N, c'est un circuit bizarre mais il fonctionne.
 
-<div class="row-image">
-![Fan dimmer](https://res.cloudinary.com/vanderfool/image/upload/v1630405258/hit_the_road/IMG_20210420_160933_b9ndfw.jpg "Fan dimmer")
-![Fan integration](https://res.cloudinary.com/vanderfool/image/upload/v1630405258/hit_the_road/IMG_20210422_164507_tlnb5r.jpg "Fan integration")
-![Roof-window alarm](https://res.cloudinary.com/vanderfool/image/upload/v1630405257/hit_the_road/IMG_20210420_160853_cmgm6m.jpg "Roof-window alarm")
-</div>
-
-When we reached our friend Pauline and John's home, only about 20km away on the first night, the van had a breakdown and it was impossible to start again.
-It was late and rainy so we decided to enjoy the evening and leave it for the next day.
-Unable to reach their garage driveway, we slept on the small road in front of their house.
-It was a steep slope.
-I woke up very early, and to my surprise, the van recovered and could start again.
-The same breakdown happened once again the day after when visiting my cousin André and his friend Lena in Barr.
-This time I pulled out the multimeter, to find out that the source of the problem was a slipping bolt at the van battery terminal.
-
-![Arriving at friends like heros](https://res.cloudinary.com/vanderfool/image/upload/v1630405258/hit_the_road/IMG_20210510_222109_tjv5bw.jpg "Arriving at friends like heros")
-
-After spending some relaxing days at Camille's mother, we took off for Jura, interleaving remote working on mobile data and travelling.
-The weather was particularly rainy and cold, especially in the mountains, but we only used the heater once.
-Most days, we slept on free spots with nearby public toilets.
-Every three days or so, we booked a camping for showering and filling the water tanks.
-It was too cold to try the solar shower.
-Despite the cloudy weather, the battery never went down below 80% or charge.
-Overall, phone reception was sufficient to support remote video conferences, especially when placing the phone close to the roof-window.
-We've now bought a dedicated 4G router to spare our phones.
 
 <div class="row-image">
-![Human antenna](https://res.cloudinary.com/vanderfool/image/upload/v1630405257/hit_the_road/2021-05-23_12.18.20_vhixqr.jpg "Human antenna")
-![Remote working](https://res.cloudinary.com/vanderfool/image/upload/v1630405257/hit_the_road/2021-05-23_12.46.05_ifb0kz.jpg "Remote working")
+![Variateur ventilateur](https://res.cloudinary.com/vanderfool/image/upload/v1630405258/hit_the_road/IMG_20210420_160933_b9ndfw.jpg "Variateur ventilateur")
+![Installation ventilateur](https://res.cloudinary.com/vanderfool/image/upload/v1630405258/hit_the_road/IMG_20210422_164507_tlnb5r.jpg "Installation ventilateur")
+![Alarme lanterneau](https://res.cloudinary.com/vanderfool/image/upload/v1630405257/hit_the_road/IMG_20210420_160853_cmgm6m.jpg "Alarme lanterneau")
 </div>
 
-The final van check in order to get it registered as an official camper van got scheduled for next week, which is the reason why we are already driving back.
-A few weeks ago, we had the official check of our gas system which was successful.
-Fingers crossed for that one too!
+Lorsque nous sommes arrivés chez nos amis Pauline et John, à seulement 20 km de chez nous, le premier soir, le van est tombé en panne et il était impossible de le redémarrer.
+Comme il était tard et qu'il pleuvait, nous avons décidé de profiter de la soirée et de remettre la réparation au lendemain.
+Ne pouvant atteindre l'allée de leur garage, nous avons dormi sur la petite route devant leur maison.
+C'était une pente raide.
+Je me suis réveillé très tôt et, à ma grande surprise, le van fonctionnait à nouveau et a pu redémarrer.
+La même panne s'est reproduite le lendemain lors d'une visite chez mon cousin André et son amie Lena à Barr.
+Cette fois, j'ai sorti le multimètre, pour découvrir que la source du problème était un boulon qui glissait à la borne de la batterie du van.
+
+![Arrivés en héros](https://res.cloudinary.com/vanderfool/image/upload/v1630405258/hit_the_road/IMG_20210510_222109_tjv5bw.jpg "Arrivés en héros")
+
+Après avoir passé quelques jours de détente chez la mère de Camille, nous sommes partis pour le Jura, entrecoupant travail à distance en utilisant les données mobiles de nos portables et voyages.
+Le temps était particulièrement pluvieux et froid, surtout dans les montagnes, mais nous n'avons utilisé le chauffage qu'une seule fois.
+La plupart des jours, nous avons dormi sur des emplacements libres avec des toilettes publiques à proximité.
+Tous les trois jours environ, nous réservions un camping pour prendre une douche et remplir les réservoirs d'eau.
+Il faisait trop froid pour essayer la douche solaire.
+Malgré le temps nuageux, la batterie n'est jamais descendue en dessous de 80% de charge.
+Dans l'ensemble, la réception téléphonique était suffisante pour permettre les vidéoconférences à distance, surtout en plaçant le téléphone près du lanterneau.
+Nous avons maintenant acheté un routeur 4G dédié pour ménager la batterie de nos téléphones.
+
+<div class="row-image">
+![Antenne humaine](https://res.cloudinary.com/vanderfool/image/upload/v1630405257/hit_the_road/2021-05-23_12.18.20_vhixqr.jpg "Antenne humaine")
+![Télétravail](https://res.cloudinary.com/vanderfool/image/upload/v1630405257/hit_the_road/2021-05-23_12.46.05_ifb0kz.jpg "Télétravail")
+</div>
+
+Le contrôle final du van afin de l'enregistrer en tant que camping-car officiel a été programmé pour la semaine prochaine, c'est pourquoi nous sommes déjà sur le chemin du retour.
+Il y a quelques semaines, nous avons eu le contrôle officiel de notre système de gaz avec Qualigaz et nous l’avons eu du premier coup.
+Nous croisons les doigts pour celui-là également!

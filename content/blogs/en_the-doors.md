@@ -10,11 +10,11 @@ In between I started tracking time - so I can state that for the back doors it t
 
 <div class="row-image">
 ![Hemp in sliding door](https://res.cloudinary.com/vanderfool/image/upload/v1629627456/doors/IMG_20200913_155804_jwspin.jpg "Hemp in sliding door")
-![Intello vapour barrier](https://res.cloudinary.com/vanderfool/image/upload/v1629627461/doors/IMG_20200913_164115_oroyxm.jpg "Intello vapour barrier")
+![Intello plus vapour barrier](https://res.cloudinary.com/vanderfool/image/upload/v1629627461/doors/IMG_20200913_164115_oroyxm.jpg "Intello plus vapour barrier")
 </div>
 
 For the doors, the insulation only consists of hemp.
-Protecting this insulation with the intello membrane was tricky around features like door handles and latches which are not air-tight.
+Protecting this insulation with the intello plus membrane was tricky around features like door handles and latches which are not air-tight.
 Those features also made it complicated for cladding, since we decided for lambris instead of a wood panel.
 Additionally there are a bunch of running cables within the doors' structure to handle locking and lights.
 It was stressful to drill blindly behind the membrane where we knew cables were near.

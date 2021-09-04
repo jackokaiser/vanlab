@@ -3,67 +3,63 @@ title: Nos premiers mois de vanlife
 date: 2021-07-24
 cover: https://res.cloudinary.com/vanderfool/image/upload/v1630406350/first_months/IMG_20210607_190053_jq4btj.jpg
 ---
+ Nous sommes partis le 26 mai pour notre dernier contrôle de conformité avec la DREAL, et avons habité dans le van depuis.
+Au départ de Strasbourg, nous sommes descendus jusqu'aux Pyrénées orientales, avons traversé l'Auvergne, fait une boucle autour de la Côte d'Azur et sommes remontés à Strasbourg par le Mercantour et le Queyras.
+Nous sommes revenus le 13 juillet pour assister au mariage de ma cousine Marie le jour suivant, que je ne voulais pas manquer.
+Maintenant nous sommes de nouveau sur la route, mais nous avons profité d’une semaine à la maison pour réparer et améliorer certaines choses dans le van.
 
-We've left home on the 26th of May for our final compliance check with the DREAL, and lived in the van since then.
-Starting from Strasbourg, we drove all the way down to Pyrénées orientales, crossing Auvergne, looped back around côte d'Azur and drove back up to Strasbourg through Mercantour and Queyras.
-We came back up on the 13th of July to attend my cousin Marie's wedding the following day, which I didn't want to miss.
-Now we're on the road again, but we took the chance of being home for a week to fix and improve a few things in the van.
+![Carte de notre premier voyage](https://res.cloudinary.com/vanderfool/image/upload/v1630406339/first_months/Vanderfool1strip_wxdi3h.png "Carte de notre premier voyage")
 
-![Map of our first trip](https://res.cloudinary.com/vanderfool/image/upload/v1630406339/first_months/Vanderfool1strip_wxdi3h.png "Map of our first trip")
-
-All in all we're pretty satisfied with our vanlife.
-It was easy to find places to sleep, where internet was sufficiently good for us to work.
-Mostly, it was also fine to plan our days around work commitments and vice versa.
-Needless to say, there's plenty to do in France, and we had to give up that we simply can't do it all.
-Still, we've managed to always experience the specificities of all the regions we've crossed: we hiked the volcanoes of Auvergne, climbed the gorges of Verdon, got dusty in Roussillon, swam in the Mediterranean sea, dominated the rapids in Ubaye, observed the stars from Saint Véran,...
-There was no time for being bored.
-In fact I didn't even play a single chord on my ukulele, because we were always so busy.
-We should probably slow down our traveling fury in the future.
+Dans l'ensemble, nous sommes plutôt satisfaits de notre vie en van.
+Il a été facile de trouver des endroits où dormir, où l'internet était suffisamment bon pour que nous puissions travailler.
+Et surtout, nous avons pu planifier nos journées en fonction de nos engagements professionnels et vice-versa.
+Inutile de dire qu'il y a beaucoup à faire en France, et nous avons dû accepter que nous ne pourrions tout simplement pas tout faire.
+Malgré tout, nous avons réussi à toujours expérimenter les spécialités des régions que nous avons traversées : nous avons randonné sur les volcans d'Auvergne, escaladé les gorges du Verdon, pris la poussière dans le Roussillon, nagé dans la mer Méditerranée, dominé les rapides en Ubaye, observé les étoiles depuis Saint Véran...
+Nous n’avions pas le temps de nous ennuyer! En fait, je n'ai même pas joué un seul accord sur mon ukulélé, car nous étions toujours si occupés.
+Nous devrions probablement ralentir notre rythme de voyage à l'avenir...
 
 <div class="row-image">
-![Canoeing under Pont du Gard](https://res.cloudinary.com/vanderfool/image/upload/v1630406337/first_months/IMG_20210621_160638_yj7bhg.jpg "Canoeing under Pont du Gard")
-![Hiking Volcano in Auvergne](https://res.cloudinary.com/vanderfool/image/upload/v1630406335/first_months/IMG_20210605_121621_csgenr.jpg "Hiking Volcano in Auvergne")
-![Via Ferrata in Queyras](https://res.cloudinary.com/vanderfool/image/upload/v1630406337/first_months/IMG_20210707_105720_di1lnz.jpg "Via Ferrata in Queyras")
+![Canoé sous le Pont du Gard](https://res.cloudinary.com/vanderfool/image/upload/v1630406337/first_months/IMG_20210621_160638_yj7bhg.jpg "Canoé sous le Pont du Gard")
+![Randonnée dans les volcans d'Auvergne](https://res.cloudinary.com/vanderfool/image/upload/v1630406335/first_months/IMG_20210605_121621_csgenr.jpg "Randonnée dans les volcans d'Auvergne")
+![Via Ferrata dans le Queyras](https://res.cloudinary.com/vanderfool/image/upload/v1630406337/first_months/IMG_20210707_105720_di1lnz.jpg "Via Ferrata dans le Queyras")
 </div>
 <div class="row-image">
-![Saint-Véran Observatory](https://res.cloudinary.com/vanderfool/image/upload/v1630406339/first_months/P7083370_wwonxh.jpg "Saint-Véran Observatory")
-![Mud bathing at naturist campsite](https://res.cloudinary.com/vanderfool/image/upload/v1630406336/first_months/IMG_20210704_170801_bhls6k.jpg "Mud bath at naturist campsite")
-![Canyoning in Mercantour](https://res.cloudinary.com/vanderfool/image/upload/v1630406338/first_months/RIMG0356_pya3k2.jpg "Canyoning in Mercantour")
+![L'observatoire de Saint-Véran](https://res.cloudinary.com/vanderfool/image/upload/v1630406339/first_months/P7083370_wwonxh.jpg "L'observatoire de Saint-Véran")
+![Bain de boue au camping naturiste](https://res.cloudinary.com/vanderfool/image/upload/v1630406336/first_months/IMG_20210704_170801_bhls6k.jpg "Bain de boue au camping naturiste")
+![Canyoning dans le Mercantour](https://res.cloudinary.com/vanderfool/image/upload/v1630406338/first_months/RIMG0356_pya3k2.jpg "Canyoning dans le Mercantour")
 </div>
 
-A few minor things broke along the way, somewhat unsurprising as we've built everything ourselves.
-What's good is that we can fix everything.
-We forgot to lock the fridge a few times and it opened itself while driving, until it broke the locker and jumped out of its rails once.
-We've fixed it now with a new locker and a few more screws.
-The power cables feeding the mirror LED got disconnected, I soldered them again and tried to reduce the force on the solder joint when the door opens and closes.
-The spinning table didn't break per say but got somewhat lose - hopefully gluing the threads with loctite fixes it for a long time.
-We've reorganized the under-bed storage with more boxes.
-Camille added some more scratch to the curtains so that they don't fly in our face while driving with the windows opened.
-One thing we didn't fix is the cooking workbench: the laminated wood splits appart, but taking it out would require us to redo some gas pipe joints with the cooking stove, which we'd rather not do.
+Certaines petites choses se sont cassées en cours de route, ce qui n'est pas très surprenant puisque nous avons tout construit nous-mêmes.
+Ce qui est bien, c'est que nous pouvons aussi tout réparer.
+Nous avons oublié de verrouiller la glacière plusieurs fois et elle s'est ouverte tout seul en conduisant, jusqu'à ce qu'elle casse le verrou et saute hors de ses rails une fois.
+Nous l'avons réparée avec un nouveau verrou et quelques vis supplémentaires.
+Les câbles d'alimentation de la LED du miroir se sont déconnectés, je les ai soudés à nouveau et j'ai essayé de réduire la force sur le joint de soudure lorsque la porte s'ouvre et se ferme.
+La table tournante ne s'est pas cassée mais s'est quelque peu desserrée - j'espère que le collage des filets avec de la colle Loctite tiendra longtemps.
+Nous avons réorganisé le rangement sous le lit avec plus de boîtes.
+Camille a ajouté quelques scratchs supplémentaires aux rideaux pour qu'ils ne nous claquent pas au visage lorsque nous conduisons avec les fenêtres ouvertes.
+Seul le plan de travail de la cuisine n’a pas été réparé: le bois lamellé collé s’est décollé à deux endroits, mais pour l'enlever, il faudrait refaire les joints de tuyaux de gaz avec la plaque de cuisson, ce que nous préférons ne pas faire.
 
 <div class="row-image">
-![Broken fridge lock](https://res.cloudinary.com/vanderfool/image/upload/v1630406337/first_months/IMG_20210705_193451_yct2c8.jpg "Broken fridge lock")
-![Cracked workbench](https://res.cloudinary.com/vanderfool/image/upload/v1630406336/first_months/IMG_20210616_080237_b7eakq.jpg "Cracked workbench")
-![Drying line](https://res.cloudinary.com/vanderfool/image/upload/v1630406336/first_months/IMG_20210620_105555_hkm1qw.jpg "Drying line")
+![Verrou cassé de la glacière](https://res.cloudinary.com/vanderfool/image/upload/v1630406337/first_months/IMG_20210705_193451_yct2c8.jpg "Verrou cassé de la glacière")
+![Bois lamellé-décollé](https://res.cloudinary.com/vanderfool/image/upload/v1630406336/first_months/IMG_20210616_080237_b7eakq.jpg "Bois lamellé-décollé")
+![Corde à linge](https://res.cloudinary.com/vanderfool/image/upload/v1630406336/first_months/IMG_20210620_105555_hkm1qw.jpg "Corde à linge")
 </div>
 
-All the weather sensors, including those we've placed in the roof and in the wall are still working.
-It's mostly the roof which reaches extreme temperatures, sometimes above 60°C when parked in the sun, but the inside stays "cool" around 30°C.
-In general the temperature and humidity in the van stays comfortable - the insulation is doing its job.
-The thermal curtains also makes a real difference, as the temperature in the cabin is often quite extreme too.
-Despite our efforts on ventilation, keeping the CO2 level low in the van proved difficult, as shown by our eCO2 sensor.
-It's also possible that the eCO2 readings are high because of another chemical compound released - for instance by the wood - we didn't research on that.
-
-Cooking in the van also works well, the two stoves are enough for cooking most of our recipes.
-We also caught up with all the dining out we couldn't do during lockdown.
-There are just so many nice restaurants in France cooking tasty local dishes - since we don't stay long we can't resist it.
-In fact, dining out is where we spent the most, followed by groceries and gas.
-We drove as much as possible on bioGNV (Erdgas - basically methane) although many regions in France simply didn't have any tanking stations for individuals.
+Tous les capteurs, y compris ceux que nous avons placés dans le toit et dans le mur, fonctionnent toujours.
+C'est surtout le toit qui atteint des températures extrêmes, parfois supérieures à 60°C lorsqu'il est garé en plein soleil, mais l'intérieur reste "frais" autour de 30°C.
+En général, la température et l'humidité dans le van restent confortables - l'isolation fait son travail.
+Les rideaux thermiques font également une réelle différence, car la température dans la cabine est souvent assez élevée également.
+Malgré nos efforts en matière de ventilation, il s'est avéré difficile de maintenir un faible niveau de CO2 dans le van, comme le montre notre capteur équivalentCO2.
+Il est également possible que les relevés d'eCO2 soient élevés à cause d'un autre composé chimique libéré, par exemple par le bois, mais nous n'avons pas fait plus de recherches à ce sujet.
+Cuisiner dans le van fonctionne aussi très bien, les deux réchauds sont suffisants pour cuisiner la plupart de nos recettes.
+Nous avons également rattrapé tous les repas à l'extérieur que nous n'avons pas pu faire pendant le confinement.
+Il y a tellement de bons restaurants en France qui préparent des plats locaux savoureux - comme nous ne restons pas longtemps, nous ne pouvons pas y résister.
+En fait, la plus grosse partie de notre budget est passée dans les restaurants, suivi par les courses et l'essence.
+Nous avons roulé autant que possible au bioGNV (Erdgas - essentiellement du méthane), bien que de nombreuses régions de France n'aient tout simplement pas de stations de ravitaillement pour les particuliers.
 
 <div class="row-image">
-![Air quality plot](https://res.cloudinary.com/vanderfool/image/upload/v1630406334/first_months/2021-06-07_dkdxns.png "Air quality plot")
-![Expenses plot](https://res.cloudinary.com/vanderfool/image/upload/v1630406334/first_months/expenses_zly0zd.png "Expenses plot")
+![Graphique de la qualité de l'air](https://res.cloudinary.com/vanderfool/image/upload/v1630406334/first_months/2021-06-07_dkdxns.png "Graphique de la qualité de l'air")
+![Répartition de notre budget](https://res.cloudinary.com/vanderfool/image/upload/v1630406334/first_months/expenses_zly0zd.png "Répartition de notre budget")
 </div>
 
-The plan for the next months is to drive along the north and west coast of France, and join Avignon, where Camille has an hypnosis training mid-August.
-If situations allow, we would then visit Spain and Portugal until December.
+Le plan pour les prochains mois est de rouler le long de la côte nord et ouest de la France, et de rejoindre Avignon, où Camille a une formation d’hypnose d’accompagnement à la mi-août. Si la situation le permet, nous visiterons ensuite l'Espagne et le Portugal jusqu'en décembre.
