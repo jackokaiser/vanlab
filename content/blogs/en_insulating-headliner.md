@@ -27,5 +27,5 @@ We also found the timer relay installed by the previous owner, which enables the
 <div class="row-image">
 ![Fitting membrane and cables](https://res.cloudinary.com/vanderfool/image/upload/v1630405097/headliner/IMG_20201102_163451_w9zaop.jpg "Fitting membrane and cables")
 ![Timer relay](https://res.cloudinary.com/vanderfool/image/upload/v1630405096/headliner/IMG_20201101_123244_t0zom3.jpg "Timer relay")
-![Finished sealed](/assets/headliner/IMG_20201102_181532.jpg "Finished sealed")
+![Finished sealed](https://res.cloudinary.com/vanderfool/image/upload/v1630405097/headliner/IMG_20201102_181532_c9zktd.jpg "Finished sealed")
 </div>

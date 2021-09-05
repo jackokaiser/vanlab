@@ -41,7 +41,7 @@ module.exports = () => {
 	  data: blogs['en'],
 	  seo: {
 		title: 'Vanderfool blog - our van conversion diary',
-		cover: 'https://vanderfool.com/assets/van.jpg'
+		cover: 'https://res.cloudinary.com/vanderfool/image/upload/v1630843980/van-rainbow_fuafwh.jpg'
 	  }
 	},
 	{
@@ -49,7 +49,7 @@ module.exports = () => {
 	  data: blogs['fr'],
 	  seo: {
 		title: 'Vanderfool blog - Le journal de conversion de notre van',
-		cover: 'https://vanderfool.com/assets/van.jpg'
+		cover: 'https://res.cloudinary.com/vanderfool/image/upload/v1630843980/van-rainbow_fuafwh.jpg'
 	  }
 	}
   ]
@@ -79,7 +79,7 @@ module.exports = () => {
 		url,
 		seo: {
 		  title: blog.details.title,
-		  cover: `https://vanderfool.com${blog.details.cover}`,
+		  cover: blog.details.cover,
 		  subtitle: blog.subtitle,
 		  url: `https://vanderfool.com/post/${blog.id}`
 		},

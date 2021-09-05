@@ -27,5 +27,5 @@ Nous avons également trouvé le relais de temporisation installé par le propri
 <div class="row-image">
 ![Ajustement membrane et cables](https://res.cloudinary.com/vanderfool/image/upload/v1630405097/headliner/IMG_20201102_163451_w9zaop.jpg "Ajustement membrane et cables")
 ![Relais temporisé](https://res.cloudinary.com/vanderfool/image/upload/v1630405096/headliner/IMG_20201101_123244_t0zom3.jpg "Relais temporisé")
-![Étanchéité terminée](/assets/headliner/IMG_20201102_181532.jpg "Étanchéité terminée")
+![Étanchéité terminée](https://res.cloudinary.com/vanderfool/image/upload/v1630405097/headliner/IMG_20201102_181532_c9zktd.jpg "Étanchéité terminée")
 </div>
