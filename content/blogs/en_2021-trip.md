@@ -20,7 +20,7 @@ Let's start with a map of our three trips, automatically generated from google l
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1rChaN2ThmCtaWgaOKvEWMAnF3JnIKtLW&ehbc=2E312F" width="640" height="480" style="width:100%;"></iframe>
 
-For this last trip, we drove 10735 km in 144 days, averaging to an a cruising speed of 75 km/day.
+For this last trip, we drove 10735 km in 144 days, averaging to a cruising speed of 75 km/day.
 This number is quite high for us, who never owned a car before, as we always lived close to well-connected cities.
 It also reflects that we were changing our sleeping spot and moving forward almost every day.
 
@@ -35,13 +35,13 @@ This was an important question for me, which is why I recorded all the fuel we t
 
 Disclaimer: the simulators available online to estimate carbon footprint are not adapted to vanlife.
 I therefore decided to estimate our carbon footprint from scratch, using the data collected during the trip.
-I'm not on expert on this topic so it could be that the reference numbers I have found online are wrong - I'm open to discussion.
+I'm not an expert on this topic so it could be that the reference numbers I have found online are wrong - I'm open to discussion.
 
 Most vans drive with diesel.
 In contrast, our van drives with petrol and Compressed Natural Gas (CNG) (it's methane, which is different from LPG).
 It has one 100L petrol tank and a 20kg CNG tank.
 It's advantageous to drive on CNG as much as possible, but tanking stations are sparse: there are less than 200 open to the public in France.
-Natural gas is a fossil fuel just like petrol, whereas but BioGNC is a renewable fuel which is locally produced from agricultural waste.
+Natural gas is a fossil fuel just like petrol, whereas BioGNC is a renewable fuel which is locally produced from agricultural waste.
 There were many BioGNC stations in the west of France, in August.
 After crossing the border to Spain in October, we could find many CNG stations, but no BioGNC stations.
 A van is a big and heavy car: I calculated our E10 fuel consumption to be around 16.8L/100km.
@@ -70,12 +70,12 @@ Our housing emissions likely decreased compared to our urban lifestyle.
 Adopting energy sobriety, most of the electricity we used was produced from our solar panels and stored in our battery.
 We never charged the battery from another source than solar, and never reached critical battery levels.
 Our setup would probably have been sufficient all year round in Spain, but maybe not for winter in France, when the sun is lower and days are shorter.
-There's also the electricity we consumed in campings, for laundry and so on, which is hard to account for (but probably does not weight much).
+There's also the electricity we consumed in campings, for laundry and so on, which is hard to account for (but probably does not weigh much).
 For heating and cooking, we used a single 13kg bottle of propane, representing 150 kg CO2 equivalent.
-We only sporadically turned the heater on for a few minutes in cold mornings, but never slept with the heater on.
+We only sporadically turned the heater on for a few minutes on cold mornings, but never slept with the heater on.
 
 Without surprise, transportation was the most important category of our carbon footprint.
-Suprisingly though, it did not weight as much in our expenses.
+Surprisingly though, it did not weigh as much in our expenses.
 
 ## How much did it cost?
 
@@ -92,13 +92,13 @@ We were able to work while on the road, so we could spend without worrying too m
 Food in general (groceries and restaurants) represented 49% of the total expenses.
 Like proper foodies, we always tried out the nice restaurants in the towns we visited.
 Dining out was our most important expense, representing 33% of the total budget, averaging to 183€ per week.
-Exluding the entries below 10€ (mostly ice creams, crêpes and tapas), we are left with 100 entries, that can be considered as proper meals.
+Excluding the entries below 10€ (mostly ice creams, crêpes and tapas), we are left with 100 entries that can be considered as proper meals.
 On average, we ate a meal in a restaurant 5 times a week, for a price of 35€ per meal for the two of us.
-In comparison, a meal cooked from our groceries costed us 6€ on average, counting breakfast as a meal.
+In comparison, a meal cooked from our groceries cost us 6€ on average, counting breakfast as a meal.
 
-To entertain ourself further with sporting activities, museums and so on, we spent 17% of the budget, accounting for 404€ per month.
+To entertain ourselves further with sporting activities, museums and so on, we spent 17% of the budget, accounting for 404€ per month.
 Camping only represented 8% of our total expenses, which averages to 190€ per month.
-This is much fewer than the 800€ we were paying for rent in Germany, even when adding up our gas/fuel consumption for driving around (381€/month).
+This is much less than the 800€ we were paying for rent in Germany, even when adding up our gas/fuel consumption for driving around (381€/month).
 We did our best to drive as much as possible on GNC and BioGNC if available, which was much cheaper per km than E10 petrol: 0.10€/km for GNC versus 0.25€/km for E10.
 For reference, during the trip, the median fueling cost per volume was 1.48€/L for E10 and 1.01€/kg for CNG/BioCNG.
 
@@ -107,22 +107,22 @@ The category "other" accounts mainly for local gifts we bought for friends and f
 
 ## Thermal comfort and air quality in the van
 
-I believe that we've spent lot more time and effort into insulating our van than most other vanlifers.
+I believe that we've spent a lot more time and effort into insulating our van than most other vanlifers.
 Especially for the air tightness, to protect the insulator from the water vapor released by cooking and breathing.
 In the end it was worth it.
 
-I have measured temperature and humidity in van at four spots: in the living area, near the exterior (in the fan), in the roof insulator and in the left wall insulator.
+I have measured temperature and humidity in the van at four spots: in the living area, near the exterior (in the fan), in the roof insulator and in the left wall insulator.
 Parking the van in the sun during the summer months, the insulator in the roof could exceed 50°C.
 Within the van however, the temperature would "only" peak to around 30°.
-Here is plot of a representative hot summer day: the 21st of August in Avignon, I spent the whole day working within the van with the door opens.
+Here is a plot of a representative hot summer day: the 21st of August in Avignon, I spent the whole day working within the van with the door opens.
 
 ![Hot summer day](https://res.cloudinary.com/vanderfool/image/upload/v1649517298/2021-trip/2021-08-21_temperature_twdgnf.png "Hot summer day")
 
 We were in Spain until the end of November, and did not spend winter in the van, so we did not have any really cold days.
 Here is a plot of a cold day in Grenada on the 18th of November, with a low peak at 0°C outside (just checked historical weather data online).
 The room temperature was 5°C above the temperature in the insulators, without any heating throughout the evening.
-When waking up around 9am, we turned on the heating a few minutes which quickly warmed the room.
-We spent the rest on the day visiting Grenada, outside of the van.
+When waking up around 9am, we turned on the heating for a few minutes which quickly warmed the room.
+We spent the rest of the day visiting Grenada, outside of the van.
 
 ![Cold winter day](https://res.cloudinary.com/vanderfool/image/upload/v1649517787/2021-trip/2021-11-18_temperature_qgh8hc.png "Cold winter day")
 
@@ -131,4 +131,4 @@ We've also noted that air quality was better in winter than in summer, likely be
 In general, air quality wasn't good according to the sensor: above 4000ppm equivalent CO2 most of the time.
 This sensor isn't very reliable as it doesn't measure CO2 directly though.
 This is something we should check in the future.
-Also, the computer fan we installed for ventilation was too loud for me for sleeping.
+Also, the computer fan we installed for ventilation was too loud for me to sleep.
