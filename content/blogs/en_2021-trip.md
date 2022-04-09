@@ -126,22 +126,9 @@ We spent the rest on the day visiting Grenada, outside of the van.
 
 ![Cold winter day](https://res.cloudinary.com/vanderfool/image/upload/v1649517787/2021-trip/2021-11-18_temperature_qgh8hc.png "Cold winter day")
 
-
-
-
-
-9 juin
-10 décembre
-
-air quality better in winter
-
-
-
-
-
-
-
-
-## Our plans now
-
-We're looking for a place to live
+Relative humidity in insulators remained below 70% even in winter.
+We've also noted that air quality was better in winter than in summer, likely because the temperature difference between inside and outside increased natural ventilation.
+In general, air quality wasn't good according to the sensor: above 4000ppm equivalent CO2 most of the time.
+This sensor isn't very reliable as it doesn't measure CO2 directly though.
+This is something we should check in the future.
+Also, the computer fan we installed for ventilation was too loud for me for sleeping.
