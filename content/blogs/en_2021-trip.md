@@ -8,7 +8,8 @@ We've been on the road for this longer trip from mid-July to mid-December.
 It was our intention to return to our families for christmas, but also because winter is more comfortable in a house than in a van.
 All in all, it went quite well for us, we roughly followed our plans around the coast of France, Spain and Portugal (even England with Gibraltar).
 We were in time for Camille's hypnosis training in August in Avignon, and she graduated.
-Also, we almost forgot about the pandemic, as we didn't have a TV and didn't meet much people either (vanlife is rather lonely).
+Also, we almost forgot about the pandemic, as we didn't have a TV and didn't meet much people either.
+In that respect, vanlife is rather lonely, in the sense that we could only establish short relationships.
 
 I've shared the pretty landscape pictures on our [instagram page](https://www.instagram.com/vanderfool.fr/).
 In this blog post, I provide an analysis of our vanlife, supported by data I collected during our trip.
@@ -27,7 +28,7 @@ It also reflects that we were changing our sleeping spot and moving forward almo
 The month we drove the most kilometers was August with 2745 km, mainly because we needed to reach Avignon in time for Camille's training.
 The month that we drove the least was September with 1462 km, when we were in the Pyrenees: there was a lot to do there and we loved this place.
 
-Vanlife is new to us and very different from our previous, urban lifestyle.
+Vanlife is new to us and very different from our previous, sedentary lifestyle.
 How did this change impact our carbon footprint?
 This was an important question for me, which is why I recorded all the fuel we tanked during the trip.
 
@@ -52,37 +53,38 @@ In total, we have consumed 767L of E10 petrol, 366kg of GNC and 180kg of BioGNC.
 To estimate our carbon footprint, I have converted these numbers into kilograms of equivalent CO2 emitted using the factors I could find online.
 These factors are different from one website to another, so here are the ones I used for reference:
 - 1L of E10 emits 2.21 kg CO2 equivalent
-- 1kg of CNG emits 2.96 kg CO2 equivalent
+- 1kg of CNG emits 2.96 kg CO2 equivalent (1kg of CNG has more energy than 1L of fuel)
 - 1kg of BioGNC emits 0.61 kg CO2 equivalent
 This results in a total of 2888 kg CO2 equivalent for driving the van during 144 days.
-We can extrapolate this number to 7320 kg CO2 equivalent for one year, assuming we would have continued cruising similarly.
-As we were two people in the van, this rounds up to 3660 kg CO2 equivalent for one year for one person.
 
-In comparison, an average French person emits 5769 kg of CO2 equivalent for transportation (representing 54% of the average footprint).
-During our urban lifestyle, we relied mostly on public transportations, but we also used to fly a lot for work and vacations.
-The flying part is really what used to ruin our carbon footprint badly.
-For example, the last vacations we took while living our urban lifestyle were in Chile in 2019.
-Two return tickets from Frankfurt to Santiago account for 8200 kg CO2 equivalent, more than what we would have emitted for the entire year had we continued the vanlife.
+I'll draw some comparisons with an average French person, with the data from this [carbone4 study](https://www.carbone4.com/myco2-empreinte-moyenne-evolution-methodo).
+On average, a French person emits 2650 kg of CO2 equivalent for transportation in one year.
+If we'd have continued cruising at the same pace for one year, we would have emitted 3660 kg CO2 equivalent each.
+During our sedentary lifestyle, we relied on public transportations, but we also used to fly for work and vacations.
+For example, for our last vacations in Chile in 2019, the return flight from Frankfurt to Santiago accounted for 4100 kg CO2 equivalent each.
 
-The other important categories when it comes to calculating carbon footprint are food diet and housing.
-Our food diet didn't change substantially between vanlife and urban style - I didn't track our meat consumption.
-Our housing emissions likely decreased compared to our urban lifestyle.
-Adopting energy sobriety, most of the electricity we used was produced from our solar panels and stored in our battery.
-We never charged the battery from another source than solar, and never reached critical battery levels.
-Our setup would probably have been sufficient all year round in Spain, but maybe not for winter in France, when the sun is lower and days are shorter.
-There's also the electricity we consumed in campings, for laundry and so on, which is hard to account for (but probably does not weigh much).
-For heating and cooking, we used a single 13kg bottle of propane, representing 150 kg CO2 equivalent.
+Our food diet didn't change substantially between vanlife and sedentary lifestyle - I didn't track our meat consumption.
+Housing and purchasing emissions were much smaller than an average French person, thanks to sobriety.
+We used a single 13kg bottle of propane for heating and cooking, accounting for 150 kg CO2 equivalent.
 We only sporadically turned the heater on for a few minutes on cold mornings, but never slept with the heater on.
+Also, there's no air conditioner.
+Needless to say that it wasn't 20°C all the time like in a house, as we will see in the [thermal comfort section](#thermal).
+Our electric appliances were all running using the energy collected from our 200W solar panels and stored in our battery.
+A detailed carbon footprint calculation should take into account the CO2 emitted for the lifecycle of the battery and the solar panels, from construction to destruction.
+There's also the energy we consumed in campings, for laundry, hot showers and so on, which is hard to account for.
 
-Without surprise, transportation was the most important category of our carbon footprint.
-Surprisingly though, it did not weigh as much in our expenses.
+Without surprise, transportation was the most important category of our carbon footprint, despite the GNC tank.
+It's still a reduction compared to our previous lifestyle, since we used to fly overseas for vacations.
+Driving at the same pace for a whole year would be incompatible with the clitame targets though, even if compensated with sobriety on the other categories.
+But it's not compatible with the climate target.
+It's quite telling that driving did not quite weigh as much in our expenses.
 
 ## How much did it cost?
 
 We've tracked all our expenses during the trip, also because it made splitting the bills easier.
 Talking to other travellers, it looks like we are on the high-end of the spectrum with respect to spending.
 All in all, we've spent 11430€ within 144 days, that's an average of 2381€ per month for the two of us.
-I can't compare this figure with our urban lifestyle as I didn't track my expenses back then.
+I can't compare this figure with our sedentary lifestyle as I didn't track my expenses back then.
 
 ![Expenses plot](https://res.cloudinary.com/vanderfool/image/upload/v1642876868/2021-trip/total_expenses_oynk3f.png "Expenses plot")
 
@@ -105,7 +107,7 @@ For reference, during the trip, the median fueling cost per volume was 1.48€/L
 The category "other" accounts mainly for local gifts we bought for friends and family, as well as public transportation.
 
 
-## Thermal comfort and air quality in the van
+## <a name="thermal"></a>Thermal comfort and air quality in the van
 
 I believe that we've spent a lot more time and effort into insulating our van than most other vanlifers.
 Especially for the air tightness, to protect the insulator from the water vapor released by cooking and breathing.
