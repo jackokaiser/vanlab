@@ -1,7 +1,7 @@
 ---
 title: Exploring France, Spain and Portugal
 date: 2022-04-09
-cover: https://res.cloudinary.com/vanderfool/image/upload/v1630406350/first_months/IMG_20210607_190053_jq4btj.jpg
+cover: https://res.cloudinary.com/vanderfool/image/upload/v1650227487/2021-trip/2021_trip_map_fcpvlc.png
 ---
 
 We've been on the road for this longer trip from mid-July to mid-December.
