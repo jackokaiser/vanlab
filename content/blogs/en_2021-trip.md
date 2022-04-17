@@ -43,9 +43,9 @@ In contrast, our van drives with petrol and Compressed Natural Gas (CNG) (it's m
 It has one 100L petrol tank and a 20kg CNG tank.
 It's advantageous to drive on CNG as much as possible, but tanking stations are sparse: there are less than 200 open to the public in France.
 Natural gas is a fossil fuel just like petrol, whereas BioGNC is a renewable fuel which is locally produced from agricultural waste.
-There were many BioGNC stations in the west of France, in August.
+There were many BioGNC stations in the west of France, when we were there in August.
 After crossing the border to Spain in October, we could find many CNG stations, but no BioGNC stations.
-A van is a big and heavy car: I calculated our E10 fuel consumption to be around 16.8L/100km.
+A van is a big and heavy car: I calculated our E10 fuel consumption to be around 16.5L/100km (+/-1.6 depending on the roads).
 
 ![Driven kilometers](https://res.cloudinary.com/vanderfool/image/upload/v1642884439/2021-trip/driven_km_urc9ph.png "Driven kilometers per month")
 
@@ -58,26 +58,30 @@ These factors are different from one website to another, so here are the ones I 
 This results in a total of 2888 kg CO2 equivalent for driving the van during 144 days.
 
 I'll draw some comparisons with an average French person, with the data from this [carbone4 study](https://www.carbone4.com/myco2-empreinte-moyenne-evolution-methodo).
-On average, a French person emits 2650 kg of CO2 equivalent for transportation in one year.
-If we'd have continued cruising at the same pace for one year, we would have emitted 3660 kg CO2 equivalent each.
-During our sedentary lifestyle, we relied on public transportations, but we also used to fly for work and vacations.
-For example, for our last vacations in Chile in 2019, the return flight from Frankfurt to Santiago accounted for 4100 kg CO2 equivalent each.
+On average, a French person emits 2650 kg CO2 equivalent for transportation in one year.
+If we'd have continued cruising at the same pace for one year (which we didn't - it would be too exhaustive), we would have emitted 3660 kg CO2 equivalent each.
+So with respect to transportation, our vanlife emits more CO2 than an average French would.
+It's still a reduction compared to our sedentary lifestyle though.
+Indeed, we relied solely on public transportations back then, but we also used to take planes for both work and vacations.
+As an example, for our last vacation in Chile in 2019, the return flight from Frankfurt to Santiago accounted for 4100 kg CO2 equivalent each.
 
-Our food diet didn't change substantially between vanlife and sedentary lifestyle - I didn't track our meat consumption.
+Our food diet didn't change substantially between vanlife and sedentary lifestyle and I didn't track our meat consumption.
 Housing and purchasing emissions were much smaller than an average French person, thanks to sobriety.
+Primarily, we simply couldn't buy much at all since we were living in a confined space.
 We used a single 13kg bottle of propane for heating and cooking, accounting for 150 kg CO2 equivalent.
-We only sporadically turned the heater on for a few minutes on cold mornings, but never slept with the heater on.
+We only sporadically turned the heater on for a few minutes on cold mornings, but we never slept with the heater on.
 Also, there's no air conditioner.
-Needless to say that it wasn't 20°C all the time like in a house, as we will see in the [thermal comfort section](#thermal).
+Needless to say that it wasn't the optimal 20°C all the time like in a house, as we will see in the [thermal comfort section](#thermal).
+In comparison, an average French emits 1180 kg CO2 equivalent with gas and fuel for housing.
+
 Our electric appliances were all running using the energy collected from our 200W solar panels and stored in our battery.
 A detailed carbon footprint calculation should take into account the CO2 emitted for the lifecycle of the battery and the solar panels, from construction to destruction.
-There's also the energy we consumed in campings, for laundry, hot showers and so on, which is hard to account for.
+There's also the energy we consumed in campings, for laundry, hot showers and so on.
+These numbers are hard to account for.
 
-Without surprise, transportation was the most important category of our carbon footprint, despite the GNC tank.
-It's still a reduction compared to our previous lifestyle, since we used to fly overseas for vacations.
-Driving at the same pace for a whole year would be incompatible with the clitame targets though, even if compensated with sobriety on the other categories.
-But it's not compatible with the climate target.
-It's quite telling that driving did not quite weigh as much in our expenses.
+Without surprise, our carbon footprint is dominated by transportation, despite the GNC tank.
+Even when mitigating with sobriety on the other categories, driving at this pace is incompatible with the climate target of 2000 kg CO2 equivalent per person per year.
+It's quite telling, that driving did not weigh quite as much in our expenses.
 
 ## How much did it cost?
 
@@ -110,11 +114,11 @@ The category "other" accounts mainly for local gifts we bought for friends and f
 ## <a name="thermal"></a>Thermal comfort and air quality in the van
 
 I believe that we've spent a lot more time and effort into insulating our van than most other vanlifers.
-Especially for the air tightness, to protect the insulator from the water vapor released by cooking and breathing.
+Especially for the air tightness, to protect the insulation from the water vapor released by cooking and breathing.
 In the end it was worth it.
 
-I have measured temperature and humidity in the van at four spots: in the living area, near the exterior (in the fan), in the roof insulator and in the left wall insulator.
-Parking the van in the sun during the summer months, the insulator in the roof could exceed 50°C.
+I have measured temperature and humidity in the van at four spots: in the living area, near the exterior (in the fan), and in the roof and left wall insulation (hemp).
+Parking the van in the sun during the summer months, the hemp in the roof could exceed 50°C.
 Within the van however, the temperature would "only" peak to around 30°.
 Here is a plot of a representative hot summer day: the 21st of August in Avignon, I spent the whole day working within the van with the door opens.
 
@@ -122,13 +126,13 @@ Here is a plot of a representative hot summer day: the 21st of August in Avignon
 
 We were in Spain until the end of November, and did not spend winter in the van, so we did not have any really cold days.
 Here is a plot of a cold day in Grenada on the 18th of November, with a low peak at 0°C outside (just checked historical weather data online).
-The room temperature was 5°C above the temperature in the insulators, without any heating throughout the evening.
+The room temperature was 5°C above the temperature in the insulation, without any heating throughout the evening.
 When waking up around 9am, we turned on the heating for a few minutes which quickly warmed the room.
 We spent the rest of the day visiting Grenada, outside of the van.
 
 ![Cold winter day](https://res.cloudinary.com/vanderfool/image/upload/v1649517787/2021-trip/2021-11-18_temperature_qgh8hc.png "Cold winter day")
 
-Relative humidity in insulators remained below 70% even in winter.
+Relative humidity in the hemp remained below 70% even in winter.
 We've also noted that air quality was better in winter than in summer, likely because the temperature difference between inside and outside increased natural ventilation.
 In general, air quality wasn't good according to the sensor: above 4000ppm equivalent CO2 most of the time.
 This sensor isn't very reliable as it doesn't measure CO2 directly though.
