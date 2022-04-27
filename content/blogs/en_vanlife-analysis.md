@@ -52,18 +52,19 @@ A van is a big and heavy car: I calculated our E10 fuel consumption to be around
 In total, we have consumed 767L of E10 petrol, 366kg of GNC and 180kg of BioGNC.
 To estimate our carbon footprint, I have converted these numbers into kilograms of equivalent CO2 emitted using the factors I could find online.
 These factors are different from one website to another, so here are the ones I used for reference:
-- 1L of E10 emits 2.21 kg CO2 equivalent
-- 1kg of CNG emits 2.96 kg CO2 equivalent (1kg of CNG has more energy than 1L of fuel)
-- 1kg of BioGNC emits 0.61 kg CO2 equivalent
-This results in a total of 2888 kg CO2 equivalent for driving the van during 144 days.
 
-I'll draw some comparisons with an average French person, with the data from this [carbone4 study](https://www.carbone4.com/myco2-empreinte-moyenne-evolution-methodo).
-On average, a French person emits 2650 kg CO2 equivalent for transportation in one year.
-If we'd have continued cruising at the same pace for one year (which we didn't - it would be too exhaustive), we would have emitted 3660 kg CO2 equivalent each.
+* 1L of E10 emits 2.21 kg CO2 equivalent
+* 1kg of CNG emits 2.96 kg CO2 equivalent (1kg of CNG has more energy than 1L of fuel)
+* 1kg of BioGNC emits 0.61 kg CO2 equivalent
+
+This results in a total of 2888 kg CO2 equivalent for driving the van during 144 days - which makes 1444 kg CO2 equivalent for each of us.
+
+I'll draw some comparisons with the French numbers taken from this [carbone4 study](https://www.carbone4.com/myco2-empreinte-moyenne-evolution-methodo).
+Within the same timespan, an average French person would have emitted 1045 kg CO2 equivalent for transportation (2650 kg CO2 equivalent in one year).
 So with respect to transportation, our vanlife emits more CO2 than an average French would.
-It's still a reduction compared to our sedentary lifestyle though.
+Counterintuitively, it's still a reduction compared to our sedentary lifestyle though.
 Indeed, we relied solely on public transportations back then, but we also used to take planes for both work and vacations.
-As an example, for our last vacation in Chile in 2019, the return flight from Frankfurt to Santiago accounted for 4100 kg CO2 equivalent each.
+As an example, for our last vacation in Chile in 2019, the return flight from Frankfurt to Santiago accounted for 4100 kg CO2 equivalent each!
 
 Our food diet didn't change substantially between vanlife and sedentary lifestyle and I didn't track our meat consumption.
 Housing and purchasing emissions were much smaller than an average French person, thanks to sobriety.

@@ -23,7 +23,7 @@ function callToAction() {
 	<div>
 	  <h1 class="pageTitle">Follow our trip</h1>
 	  <div class="d-flex justify-content-around mb-4 mt-4">
-		<a target="_blank" class="btn btn-primary mx-1" href="https://0b681449.sibforms.com/serve/MUIEAHTk6cldrZ6rX0d-kn6z8h6IU8aTHBHGIO-ULxrtt4Yw8R6BBzXUP5mvcPDdrCgvbtsC5cZzV9SODogur8IRXQ8dp7lCo26IP_Vx617oC2hsFSjrgmOWTBoi3baHd5pVtus4MLiqw2ZpWXOjOS3jT-5_soRXhSihO6LzcpDVSOYM6G0ADFfw08bsqGPnR8I29t5aKxavRWNc"><i class="fa fa-envelope"></i> Newsletter</a>
+		<a target="_blank" class="btn btn-primary mx-1" href="https://docs.google.com/forms/d/e/1FAIpQLSfnkEj_sKi9HEXs9u78t-smyVp9Oua3L7n87GbbnDgTparAYg/viewform?usp=sf_link"><i class="fa fa-envelope"></i> Newsletter</a>
 		<a target="_blank" class="btn btn-primary mx-1" href="https://www.instagram.com/vanderfool.fr"><i class="fab fa-instagram"></i> Instagram</a>
 		<a target="_blank" class="btn btn-primary mx-1" href="https://www.facebook.com/vanderfool.fr"><i class="fab fa-facebook"></i> Facebook</a>
 	  </div>

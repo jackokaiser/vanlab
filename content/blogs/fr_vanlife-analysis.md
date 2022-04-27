@@ -52,18 +52,19 @@ Un van est une voiture grande et lourde : J'ai calculé que notre consommation d
 Au total, nous avons consommé 767L d'essence E10, 366kg de GNC et 180kg de BioGNC.
 Pour estimer notre empreinte carbone, j'ai converti ces chiffres en kilogrammes d'équivalent CO2 émis en utilisant les facteurs que j'ai pu trouver en ligne.
 Ces facteurs sont différents d'un site Web à l'autre, voici donc ceux que j'ai utilisés à titre de référence :
-- 1L d'E10 émet 2,21 kg d'équivalent CO2
-- 1 kg de GNC émet 2,96 kg d'équivalent CO2 (1 kg de GNC contient plus d'énergie que 1 litre de carburant).
-- 1 kg de BioGNC émet 0,61 kg d'équivalent CO2.
+
+* 1L d'E10 émet 2,21 kg d'équivalent CO2
+* 1 kg de GNC émet 2,96 kg d'équivalent CO2 (1 kg de GNC contient plus d'énergie que 1 litre de carburant).
+* 1 kg de BioGNC émet 0,61 kg d'équivalent CO2.
+
 Cela donne un total de 2888 kg d'équivalent CO2 pour la conduite de la camionnette pendant 144 jours.
 
-Je vais faire quelques comparaisons avec un Français moyen, avec les données de cette [étude carbone4](https://www.carbone4.com/myco2-empreinte-moyenne-evolution-methodo).
-En moyenne, un Français émet 2650 kg équivalent CO2 pour le transport en un an.
-Si nous avions continué à rouler au même rythme pendant un an (ce que nous n'avons pas fait - ce serait trop exhaustif), nous aurions émis 3660 kg équivalent CO2 chacun.
-En ce qui concerne les transports, notre vie de van émet donc plus de CO2 que celle d'un Français moyen.
-C'est tout de même une réduction par rapport à notre mode de vie sédentaire.
+Je vais établir quelques comparaisons avec les chiffres français tirés de cette [étude carbone4](https://www.carbone4.com/myco2-empreinte-moyenne-evolution-methodo).
+Dans le même laps de temps, un Français moyen aurait émis 1045 kg d'équivalent CO2 pour le transport (2650 kg équivalent CO2 en un an).
+En ce qui concerne le transport, notre vanlife émet donc plus de CO2 qu'un Français moyen.
+De manière contre-intuitive, il s'agit tout de même d'une réduction par rapport à notre mode de vie sédentaire.
 En effet, à l'époque, nous n'utilisions que les transports en commun, mais nous prenions aussi l'avion pour le travail et les vacances.
-À titre d'exemple, pour nos dernières vacances au Chili en 2019, le vol aller-retour entre Francfort et Santiago représentait 4100 kg d'équivalent CO2 chacun.
+A titre d'exemple, pour nos dernières vacances au Chili en 2019, le vol aller-retour Francfort-Santiago représentait 4100 kg équivalent CO2 chacun !
 
 Notre régime alimentaire n'a pas beaucoup changé entre le vanlife et le mode de vie sédentaire et je n'ai pas suivi notre consommation de viande.
 Les émissions liées au logement et aux achats étaient beaucoup plus faibles que celles d'un Français moyen, grâce à la sobriété.
