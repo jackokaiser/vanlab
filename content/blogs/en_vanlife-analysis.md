@@ -7,11 +7,11 @@ cover: https://res.cloudinary.com/vanderfool/image/upload/v1650227487/2021-trip/
 It was about a year ago that we left with the van.
 We were on the road living in the van from May to mid-December 2021, in a succession of three round trips.
 Since December, we are back at my mother place, starting only now again with smaller trip.
-It was our intention to return to our families for christmas, but also because winter is more comfortable in a house than in a van.
+It was our intention to return to our families for Christmas, but also because winter is more comfortable in a house than in a van.
 We followed our plans around the coast of France, Spain and Portugal (even England with Gibraltar).
 We were in time for Camille's hypnosis training in August in Avignon, and she graduated.
 Also, we almost forgot about the pandemic, as we didn't have a TV and didn't meet much people either.
-In that respect, vanlife is rather lonely, in the sense that we could only establish short relationships.
+In that respect, vanlife is rather lonely, in the sense that we could only establish short-term relationships.
 
 I've shared the pretty landscape pictures on our [instagram page](https://www.instagram.com/vanderfool.fr/).
 In this blog post, I provide an analysis of our vanlife, supported by data I collected during our trip.
@@ -24,14 +24,14 @@ Let's start with a map of our three round trips, automatically generated from go
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1rChaN2ThmCtaWgaOKvEWMAnF3JnIKtLW&ehbc=2E312F" width="640" height="480" style="width:100%;"></iframe>
 
 In 210 days of vanlife, we drove 16336km, averaging to a cruising speed of 78km/day.
-This number is quite high for us, who never owned a car before, as we always lived close to well-connected cities.
+This number is quite high for us, who never owned a car before, as we always lived in well-connected cities.
 It also reflects that we were changing our sleeping spot and moving forward almost every day.
 
-![Driven kilometers](https://res.cloudinary.com/vanderfool/image/upload/v1652521787/2021-trip/tanked_volumes_rinjcb.png "Driven kilometers per month")
+![Driven kilometers](https://res.cloudinary.com/vanderfool/image/upload/v1652024743/2021-trip/driven_km_b4iyfh.png "Driven kilometers per month")
 
 The month we drove the most kilometers were July and August, mainly because we needed to reach Avignon in time for Camille's training.
 The month that we drove the least during the trip was September with 1462km, when we were in the Pyrenees: there was a lot to do there and we loved this place.
-Since December, we are back to transitional sedentary life at my mother and we drone another 2511km in 147 days (average 17km/day).
+Since December, we are back to transitional sedentary life at my mother and we drove another 2511km in 147 days (average 17km/day).
 
 Vanlife is new to us and very different from our previous, sedentary lifestyle.
 How did this change impact our carbon footprint?
@@ -85,7 +85,7 @@ Primarily, we simply couldn't buy much at all since we were living in a confined
 We used a single 13kg bottle of propane for heating and cooking, accounting for 150 kg CO2 equivalent.
 We only sporadically turned the heater on for a few minutes on cold mornings, but we never slept with the heater on.
 Also, there's no air conditioner.
-Needless to say that it wasn't the optimal 20°C all the time like in a house, as we will see in the [thermal comfort section](#thermal).
+Needless to say that it wasn't the optimal 20-25°C all the time like in a house, as we will see in the [thermal comfort section](#thermal).
 
 Our electric appliances were all running using the energy collected from our 200W solar panels and stored in our battery.
 A detailed carbon footprint calculation should take into account the CO2 emitted for the lifecycle of the battery and the solar panels, from construction to destruction.
@@ -144,7 +144,7 @@ We spent the rest of the day visiting Grenada, outside of the van.
 
 ![Cold winter day](https://res.cloudinary.com/vanderfool/image/upload/v1649517787/2021-trip/2021-11-18_temperature_qgh8hc.png "Cold winter day")
 
-Relative humidity in the hemp remained below 70% even in winter.
+Relative humidity in the hemp remained on average below 70% even in winter.
 We've also noted that air quality was better in winter than in summer, likely because the temperature difference between inside and outside increased natural ventilation.
 In general, air quality wasn't good according to the sensor: above 4000ppm equivalent CO2 most of the time.
 This sensor isn't very reliable as it doesn't measure CO2 directly though.
@@ -155,4 +155,4 @@ Also, the computer fan we installed for ventilation was too loud for me to sleep
 
 Driving around was a lot of fun, although a little tiring sometimes.
 This coming year, we will drive less, and plan ahead for a place to live for long-term.
-Of course we'll keep the van.
+For the time being, we use the van to visit eco-villages and participate in collaborative building sites.
