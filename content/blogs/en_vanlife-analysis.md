@@ -59,7 +59,7 @@ Depending on the roads, our E10 fuel consumption was around 15.2L/100km (+/-1.9)
 In contrast, BioGNC and GNC fuel consumption was smaller, around 9kg/100km (+/-0.7).
 We were mostly driving on small country roads and sometimes in mountains, we rarely used highways.
 
-![Tanked fuels](https://res.cloudinary.com/vanderfool/image/upload/v1652521352/2021-trip/tanked_volumes_i6fprz.png "Tanked fuels per month")
+![Tanked fuels](https://res.cloudinary.com/vanderfool/image/upload/v1652521787/2021-trip/tanked_volumes_rinjcb.png "Tanked fuels per month")
 
 Over the whole year, we have consumed 1550L of E10 petrol, 530kg of CNG and 295kg of BioGNC.
 To estimate our carbon footprint regarding transportation, I have converted these numbers into kilograms of equivalent CO2 emitted using the factors I could find online.

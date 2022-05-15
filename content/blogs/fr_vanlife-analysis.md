@@ -57,7 +57,7 @@ Selon les routes, notre consommation de carburant E10 était d'environ 15.2L/100
 En revanche, la consommation de BioGNC et GNC était plus faible, environ 9kg/100km (+/-0.7).
 Nous roulions principalement sur des petites routes de campagne et parfois en montagne, nous utilisions rarement les autoroutes.
 
-![Carburants consommés par mois](https://res.cloudinary.com/vanderfool/image/upload/v1652521352/2021-trip/tanked_volumes_i6fprz.png "Carburants consommés par mois")
+![Carburants consommés par mois](https://res.cloudinary.com/vanderfool/image/upload/v1652521787/2021-trip/tanked_volumes_rinjcb.png "Carburants consommés par mois")
 
 Sur l'ensemble de l'année, nous avons consommé 1550L d'essence E10, 530kg de GNC et 295kg de BioGNC.
 Pour estimer notre empreinte carbone concernant le transport, j'ai converti ces chiffres en kilogrammes d'équivalent CO2 émis en utilisant les facteurs que j'ai pu trouver en ligne.
