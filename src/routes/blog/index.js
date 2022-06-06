@@ -16,7 +16,7 @@ const Blog = (props) => {
   return (
 	<>
 	  {callToAction()}
-	  <article class={`container-fluid p-0 ${style.blogcontainer}`}>
+	  <article class={`container-fluid p-0`}>
 		{getBlogBody(props, data, isLoading)}
 	  </article>
 	  {callToAction()}

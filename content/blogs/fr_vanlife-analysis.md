@@ -27,6 +27,8 @@ En 210 jours de vie en van, nous avons parcouru 16336 km, à une vitesse de croi
 Ce chiffre est assez élevé pour nous, qui n'avons jamais possédé de voiture auparavant, car nous avons toujours vécu dans des villes bien desservies.
 Il reflète également le fait que nous changions de lieu de pour dormir et avancions presque tous les jours.
 
+![Kilomètres parcourus](https://res.cloudinary.com/vanderfool/image/upload/v1652024743/2021-trip/driven_km_b4iyfh.png "Kilomètres parcourus par mois")
+
 Les mois où nous avons parcouru le plus de kilomètres ont été juillet et août, principalement parce que nous devions atteindre Avignon à temps pour la formation de Camille.
 Le mois où nous avons le moins roulé pendant le voyage a été septembre avec 1462km, lorsque nous étions dans les Pyrénées : il y avait beaucoup à faire là-bas et nous avons adoré cet endroit.
 Depuis décembre, nous sommes de retour à la vie sédentaire (transitoire) chez ma mère et nous avons encore parcouru 2511km en 147 jours (moyenne de 17km/jour).
