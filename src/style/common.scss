@@ -1,8 +1,11 @@
 $footer-height: 40px;
 
+$my-color: #FFB970;
+$black: #1c1e21;
+
 @mixin sm-up {
   @media (min-width: 960px) {
-    @content;
+	@content;
   }
 }
 
@@ -19,5 +22,5 @@ $footer-height: 40px;
   left: 0px;
   content: '';
   width: 75%;
-  border-bottom: 2px solid #FFC107;
+  border-bottom: 2px solid $my-color;
 }

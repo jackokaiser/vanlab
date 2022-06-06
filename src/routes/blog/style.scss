@@ -1,3 +1,5 @@
+@import '../../style/common';
+
 .blogtitle {
   font-size: 2.2rem;
   font-weight: 400;
@@ -14,14 +16,14 @@
 }
 
 .blogbody a {
-  color: #000;
+  color: $black;
   text-decoration: underline;
 }
 
 .blogbody pre code {
   display: block;
   max-width: 100%;
-  color: rgb(57, 58, 52);
+  color: $my-color;
   font-family: Consolas, "Bitstream Vera Sans Mono", "Courier New", Courier, monospace;
   direction: ltr;
   text-align: left;
@@ -116,7 +118,7 @@ code.inline {
 }
 
 .inlineImageTitle {
-  font-size: 0.9rem;
+  font-size: 1rem;
   margin-top: 8px;
-  color: #777;
+  color: #343a40;
 }
