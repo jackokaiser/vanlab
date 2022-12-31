@@ -46,8 +46,6 @@ This year I also tracked my meat and fish consumption between July and December 
 I've tracked it manually in a table, which wasn't really practical: I won't continue doing it next year.
 On average, I've eaten 680g of meat or fish product per week, which was dominated by the consumption of pork by 45%.
 
-
-
 ![Meat consumption quantity](https://res.cloudinary.com/vanderfool/image/upload/v1672484284/2022-trip/meat_consumption_quantity_qows8g.png "Meat consumption quantity")
 
 I've looked up the footprint of the items I've tracked in the new [agribalyse database from Ademe](https://agribalyse.ademe.fr/).
