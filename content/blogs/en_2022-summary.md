@@ -37,9 +37,26 @@ In 2022, we drove a total of 7717km, compared to 16806km in 2021, and mostly usi
 
 Less driving helped us decrease our fuel consumption, and thus our carbon footprint.
 I have calculated the carbon footprint of driving the van this year to 1562 kg CO2 equivalent (compared to 4656 kg in 2021).
+Note that we did not tank the van in November and December.
 We also sporadically borrowed my mother's car to cover short distances, which I did not account for.
 
 [!Fuel consumption](https://res.cloudinary.com/vanderfool/image/upload/v1672418032/2022-trip/tanked_volumes_icyyll.png "Fuel consumption")
+
+This year I also tracked my meat and fish consumption between July and December for 143 days.
+I've tracked it manually in a table, which wasn't really practical: I won't continue doing it next year.
+On average, I've eaten 680g of meat or fish product per week, which was dominated by the consumption of pork by 45%.
+
+
+
+[Meat consumption quantity](https://res.cloudinary.com/vanderfool/image/upload/v1672484284/2022-trip/meat_consumption_quantity_qows8g.png "Meat consumption quantity")
+
+I've looked up the footprint of the items I've tracked in the new [agribalyse database from Ademe](https://agribalyse.ademe.fr/).
+In 143 days, I've calculated of carbon footprint of 181 kg CO2 equivalent.
+It was dominated by the consumption of beef, accounting 55% of my footprint, while only representing 21% of my consumption.
+Consumption of pork only accounted for 18% of my footprint.
+
+[Meat carbon footprint](https://res.cloudinary.com/vanderfool/image/upload/v1672484284/2022-trip/meat_consumption_co2_vc6zj5.png "Meat carbon footprint")
+
 
 ## What's next
 
