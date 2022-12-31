@@ -9,7 +9,7 @@ We have traveled much less in 2022 than in 2021.
 This is mostly due to our current sedentarization project (as well as overall increased workload).
 We have spent much more time at my mother's place, to study real estate our possibilities in Alsace.
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1zIMbDHp3morNo-bFDd_oMll2tcrwREM&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1zIMbDHp3morNo-bFDd_oMll2tcrwREM&ehbc=2E312F" width="640" height="480" style="width:100%;"></iframe>
 
 ## The trips
 
@@ -40,7 +40,7 @@ I have calculated the carbon footprint of driving the van this year to 1562 kg C
 Note that we did not tank the van in November and December.
 We also sporadically borrowed my mother's car to cover short distances, which I did not account for.
 
-[!Fuel consumption](https://res.cloudinary.com/vanderfool/image/upload/v1672418032/2022-trip/tanked_volumes_icyyll.png "Fuel consumption")
+![Fuel consumption](https://res.cloudinary.com/vanderfool/image/upload/v1672418032/2022-trip/tanked_volumes_icyyll.png "Fuel consumption")
 
 This year I also tracked my meat and fish consumption between July and December for 143 days.
 I've tracked it manually in a table, which wasn't really practical: I won't continue doing it next year.
@@ -48,14 +48,14 @@ On average, I've eaten 680g of meat or fish product per week, which was dominate
 
 
 
-[Meat consumption quantity](https://res.cloudinary.com/vanderfool/image/upload/v1672484284/2022-trip/meat_consumption_quantity_qows8g.png "Meat consumption quantity")
+![Meat consumption quantity](https://res.cloudinary.com/vanderfool/image/upload/v1672484284/2022-trip/meat_consumption_quantity_qows8g.png "Meat consumption quantity")
 
 I've looked up the footprint of the items I've tracked in the new [agribalyse database from Ademe](https://agribalyse.ademe.fr/).
 In 143 days, I've calculated of carbon footprint of 181 kg CO2 equivalent.
 It was dominated by the consumption of beef, accounting 55% of my footprint, while only representing 21% of my consumption.
 Consumption of pork only accounted for 18% of my footprint.
 
-[Meat carbon footprint](https://res.cloudinary.com/vanderfool/image/upload/v1672484284/2022-trip/meat_consumption_co2_vc6zj5.png "Meat carbon footprint")
+![Meat carbon footprint](https://res.cloudinary.com/vanderfool/image/upload/v1672484284/2022-trip/meat_consumption_co2_vc6zj5.png "Meat carbon footprint")
 
 
 ## What's next
