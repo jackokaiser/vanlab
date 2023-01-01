@@ -44,7 +44,7 @@ In 2022, we drove a total of 7717km, compared to 16806km in 2021, and mostly usi
 ![Driven kilometers](https://res.cloudinary.com/vanderfool/image/upload/v1672418017/2022-trip/driven_km_zmwgyi.png "Driven kilometers per month")
 
 Less driving helped us decrease our fuel consumption, and thus our carbon footprint.
-I have calculated the carbon footprint of driving the van this year to 1562 kg CO2 equivalent (compared to 4656 kg in 2021: that's a 33% reduction).
+I have calculated the carbon footprint of driving the van this year to 1562 kg CO2 equivalent (compared to 4656 kg in 2021: that's a 66% reduction).
 Note that we did not tank the van in November and December.
 We also sporadically borrowed my mother's car, which I did not account for.
 While at home, we mostly relied on public transportation.

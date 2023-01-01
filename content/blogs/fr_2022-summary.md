@@ -46,7 +46,7 @@ En 2022, nous avons parcouru un total de 7717 km, contre 16806 km en 2021, en ut
 ![Kilomètres parcourus](https://res.cloudinary.com/vanderfool/image/upload/v1672418017/2022-trip/driven_km_zmwgyi.png "Kilomètres parcourus par mois")
 
 Le fait de moins conduire nous a permis de diminuer notre consommation de carburant, et donc notre empreinte carbone.
-J'ai calculé que l'empreinte carbone de la conduite de la camionnette cette année était de 1562 kg d'équivalent CO2 (contre 4656 kg en 2021).
+J'ai calculé que l'empreinte carbone de la conduite de la camionnette cette année était de 1562 kg d'équivalent CO2 (contre 4656 kg en 2021, soit une réduction de 66%).
 Nous avons également emprunté de temps à autre la voiture de ma mère pour couvrir de courtes distances, ce que je n'ai pas pris en compte.
 À la maison, nous avons principalement utilisé les transports en commun.
 
