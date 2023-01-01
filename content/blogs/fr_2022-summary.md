@@ -5,43 +5,60 @@ cover: https://res.cloudinary.com/vanderfool/image/upload/v1672414701/2022-trip/
 ---
 
 
-We have traveled much less in 2022 than in 2021.
-This is mostly due to our current sedentarization project (as well as overall increased workload).
-We have spent much more time at my mother's place, to study real estate our possibilities in Alsace.
+Nous avons beaucoup moins voyagé en 2022 qu'en 2021.
+Cela est principalement dû à notre projet de sédentarisation actuel (ainsi qu'à l'augmentation globale de la charge de travail).
+Nous avons passé beaucoup plus de temps chez ma mère, pour étudier le marché de l'immobilier alsacien.
+
+J'ai partagé quelques photos de nos voyages sur notre [page instagram](https://www.instagram.com/vanderfool.fr/).
+Dans ce billet de blog, je vous propose un bilan chiffré de notre année 2022.
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1zIMbDHp3morNo-bFDd_oMll2tcrwREM&ehbc=2E312F" width="640" height="480"></iframe>
 
-## The trips
+## Les voyages
 
-Our first trip of the year was related to this project.
-We left three weeks in mid-April, first driving to Nanteau-sur-Lunain near Paris.
-There, we helped out Jean to self-build his own house using the [EcoCocon](https://ecococon.eu/fr/) straw panel system, which we were also considering for us.
-We returned home over Wissembourg, and spent some days at the Ecolieu Langenberg.
-This Ecolieu consists of a German/French collective, sharing an old castle in the wood near the border.
-We have helped them plastering a straw wall with adobe and laying a parquet floor in a renovated apartment.
+Notre premier voyage de l'année était lié à notre projet de sédentarisation.
+Nous sommes partis trois semaines à la mi-avril, en nous rendant d'abord à Nanteau-sur-Lunain près de Paris.
+Là, nous avons aidé Jean à auto-construire sa maison en utilisant le système de panneaux de paille [EcoCocon](https://ecococon.eu/fr/), que nous envisagions également pour nous.
+Nous sommes rentrés en passant par Wissembourg, et avons passé quelques jours à l'Ecolieu Langenberg.
+Cet Ecolieu est constitué d'un collectif franco-allemand, partageant un vieux château dans le bois près de la frontière.
+Nous les avons aidés à crépir un mur en paille avec du pisé et à poser un parquet dans un appartement rénové.
 
-We then did a short trip in June, mostly visiting the places around the lake of Geneva and hiking near Chamonix Mont Blanc.
-Our longest trip of the year was from July 7th to August 24th.
-This time we traveled towards the East: we visited castles in Bavaria, mountains in Austria, more mountains in Slovenia, friends in Czech Republic and more friends in Germany.
+Nous avons ensuite fait un petit voyage en juin, principalement pour visiter les endroits autour du lac de Genève et faire des randonnées près de Chamonix Mont Blanc.
+Notre plus long voyage de l'année s'est déroulé du 7 juillet au 24 août.
+Cette fois, nous avons voyagé vers l'Est : nous avons visité des châteaux en Bavière, des montagnes en Autriche, d'autres montagnes en Slovénie, des amis en République tchèque et d'autres amis en Allemagne.
 
-## The data
+## Les données
 
-Gas price were quite volative this year.
-Looking at the data, compared to last year, it was 8% more expensive to drive on E10 and 25% more expensive to drive on GNC, while driving on BioGNC was the same price.
-One reason why we traveled East was also because it was much simpler to find GNC and BioGNC.
-In 2022, we drove a total of 7717km, compared to 16806km in 2021, and mostly using GNC or BioGNC.
+Le prix de l'essence été assez volatile cette année.
+En regardant les données, comparé à l'année dernière, c'était 8% plus cher de rouler avec de l'E10 et 25% plus cher de rouler avec du GNC.
+Rouler avec du BioGNC est resté au même prix.
+Si nous avons voyagé vers l'Est, c'est aussi parce qu'il était beaucoup plus simple de trouver du GNC et du BioGNC.
+En 2022, nous avons parcouru un total de 7717 km, contre 16806 km en 2021, en utilisant principalement du GNC ou du BioGNC.
 
-![Fuel cost](https://res.cloudinary.com/vanderfool/image/upload/v1672418032/2022-trip/fuel_price_cohh3n.png "Fuel cost")
+![Coût du carburant](https://res.cloudinary.com/vanderfool/image/upload/v1672418032/2022-trip/fuel_price_cohh3n.png "Coût du carburant")
 
-![Driven kilometers](https://res.cloudinary.com/vanderfool/image/upload/v1672418017/2022-trip/driven_km_zmwgyi.png "Driven kilometers per month")
+![Kilomètres parcourus](https://res.cloudinary.com/vanderfool/image/upload/v1672418017/2022-trip/driven_km_zmwgyi.png "Kilomètres parcourus par mois")
 
-Less driving helped us decrease our fuel consumption, and thus our carbon footprint.
-I have calculated the carbon footprint of driving the van this year to 1562 kg CO2 equivalent (compared to 4656 kg in 2021).
-We also sporadically borrowed my mother's car to cover short distances, which I did not account for.
+Le fait de moins conduire nous a permis de diminuer notre consommation de carburant, et donc notre empreinte carbone.
+J'ai calculé que l'empreinte carbone de la conduite de la camionnette cette année était de 1562 kg d'équivalent CO2 (contre 4656 kg en 2021).
+Nous avons également emprunté sporadiquement la voiture de ma mère pour couvrir de courtes distances, ce que je n'ai pas pris en compte.
 
-[!Fuel consumption](https://res.cloudinary.com/vanderfool/image/upload/v1672418032/2022-trip/tanked_volumes_icyyll.png "Fuel consumption")
+[Consommation de carburant](https://res.cloudinary.com/vanderfool/image/upload/v1672418032/2022-trip/tanked_volumes_icyyll.png "Consommation de carburant")
 
-## What's next
+Cette année, j'ai également suivi ma consommation de viande et de poisson entre juillet et décembre pendant 143 jours.
+J'ai entré manuellement les lignes dans un tableau, ce qui n'était pas vraiment pratique : je ne continuerai pas à le faire l'année prochaine.
+En moyenne, j'ai mangé 680g de viande ou de poisson par semaine, majoritairement de la viande de porc à 45%.
 
-We have now bought a building terrain, at the feet of northern Vosges mountains near Saverne.
-In 2023, the objective is the to build a certified PassivHaus dwelling.
+![Quantité de viande consommée](https://res.cloudinary.com/vanderfool/image/upload/v1672484284/2022-trip/meat_consumption_quantity_qows8g.png "Quantité de viande consommée")
+
+J'ai recherché l'empreinte des produits que j'ai consommé dans la nouvelle [base de données agribalyse de l'Ademe](https://agribalyse.ademe.fr/).
+J'ai ainsi calculé que l'empreinte carbone de ma consommation de viande et de poisson était de 181 kg équivalent CO2, pour 143 jours.
+Elle est dominée par la consommation de viande bovine, qui représente 55% de mon empreinte, et ne couvrant que 21% de ma consommation.
+La consommation de porc ne représente que 18% de mon empreinte.
+
+![Bilan carbone de la viande](https://res.cloudinary.com/vanderfool/image/upload/v1672484284/2022-trip/meat_consumption_co2_vc6zj5.png "Bilan carbone de la viande")
+
+## La suite
+
+Nous avons maintenant acheté un terrain constructible, au pied des Vosges du Nord, près de Saverne.
+En 2023, l'objectif est de construire un logement certifié maison passive.
