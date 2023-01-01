@@ -1,5 +1,6 @@
 node_modules
 /build
 /*.log
+/content/mails/*
 
 package-lock.json
