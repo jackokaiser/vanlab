@@ -7,7 +7,7 @@ cover: https://res.cloudinary.com/vanderfool/image/upload/v1672414701/2022-trip/
 
 Nous avons beaucoup moins voyagé en 2022 qu'en 2021.
 Cela est principalement dû à notre projet de sédentarisation actuel (ainsi qu'à l'augmentation globale de la charge de travail).
-Nous avons passé beaucoup plus de temps chez ma mère, pour étudier le marché de l'immobilier alsacien.
+Nous avons passé beaucoup plus de temps chez ma mère, ce qui nous a permis d'étudier le marché de l'immobilier alsacien.
 
 J'ai partagé quelques photos de nos voyages sur notre [page instagram](https://www.instagram.com/vanderfool.fr/).
 Dans ce billet de blog, je vous propose un bilan chiffré de notre année 2022.
@@ -20,16 +20,16 @@ Notre premier voyage de l'année était lié à notre projet de sédentarisation
 Nous sommes partis trois semaines à la mi-avril, en nous rendant d'abord à Nanteau-sur-Lunain près de Paris.
 Là, nous avons aidé Jean à auto-construire sa maison en utilisant le système de panneaux de paille [EcoCocon](https://ecococon.eu/fr/), que nous envisagions également pour nous.
 Nous sommes rentrés en passant par Wissembourg, et avons passé quelques jours à l'Ecolieu Langenberg.
-Cet Ecolieu est constitué d'un collectif franco-allemand, partageant un vieux château dans le bois près de la frontière.
+Cet Ecolieu est constitué d'un collectif franco-allemand, partageant un vieux château dans les bois près de la frontière.
 Nous les avons aidés à crépir un mur en paille avec du pisé et à poser un parquet dans un appartement rénové.
 
-Nous avons ensuite fait un petit voyage en juin, principalement pour visiter les endroits autour du lac de Genève et faire des randonnées près de Chamonix Mont Blanc.
+Nous avons ensuite fait un petit voyage en juin, principalement pour visiter les villes autour du lac de Genève et faire des randonnées près de Chamonix Mont Blanc.
 Notre plus long voyage de l'année s'est déroulé du 7 juillet au 24 août.
 Cette fois, nous avons voyagé vers l'Est : nous avons visité des châteaux en Bavière, des montagnes en Autriche, d'autres montagnes en Slovénie, des amis en République tchèque et d'autres amis en Allemagne.
 
 ## Les données
 
-Le prix de l'essence été assez volatile cette année.
+Le prix de l'essence a été assez volatile cette année.
 En regardant les données, comparé à l'année dernière, c'était 8% plus cher de rouler avec de l'E10 et 25% plus cher de rouler avec du GNC.
 Rouler avec du BioGNC est resté au même prix.
 Si nous avons voyagé vers l'Est, c'est aussi parce qu'il était beaucoup plus simple de trouver du GNC et du BioGNC.
@@ -41,9 +41,10 @@ En 2022, nous avons parcouru un total de 7717 km, contre 16806 km en 2021, en ut
 
 Le fait de moins conduire nous a permis de diminuer notre consommation de carburant, et donc notre empreinte carbone.
 J'ai calculé que l'empreinte carbone de la conduite de la camionnette cette année était de 1562 kg d'équivalent CO2 (contre 4656 kg en 2021).
-Nous avons également emprunté sporadiquement la voiture de ma mère pour couvrir de courtes distances, ce que je n'ai pas pris en compte.
+Nous avons également emprunté de temps à autre la voiture de ma mère pour couvrir de courtes distances, ce que je n'ai pas pris en compte.
+À la maison, nous avons principalement utilisé les transports en commun.
 
-[Consommation de carburant](https://res.cloudinary.com/vanderfool/image/upload/v1672418032/2022-trip/tanked_volumes_icyyll.png "Consommation de carburant")
+![Consommation de carburant](https://res.cloudinary.com/vanderfool/image/upload/v1672418032/2022-trip/tanked_volumes_icyyll.png "Consommation de carburant")
 
 Cette année, j'ai également suivi ma consommation de viande et de poisson entre juillet et décembre pendant 143 jours.
 J'ai entré manuellement les lignes dans un tableau, ce qui n'était pas vraiment pratique : je ne continuerai pas à le faire l'année prochaine.
@@ -56,7 +57,7 @@ J'ai ainsi calculé que l'empreinte carbone de ma consommation de viande et de p
 Elle est dominée par la consommation de viande bovine, qui représente 55% de mon empreinte, et ne couvrant que 21% de ma consommation.
 La consommation de porc ne représente que 18% de mon empreinte.
 
-![Bilan carbone de la viande](https://res.cloudinary.com/vanderfool/image/upload/v1672484284/2022-trip/meat_consumption_co2_vc6zj5.png "Bilan carbone de la viande")
+![Bilan carbone de ma consommation carnée](https://res.cloudinary.com/vanderfool/image/upload/v1672484284/2022-trip/meat_consumption_co2_vc6zj5.png "Bilan carbone de ma consommation carnée")
 
 ## La suite
 

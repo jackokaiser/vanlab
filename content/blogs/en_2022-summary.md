@@ -19,16 +19,16 @@ Our first trip of the year was related to our sedentarization project.
 We left three weeks in mid-April, first driving to Nanteau-sur-Lunain near Paris.
 There, we helped out Jean to self-build his own house using the [EcoCocon](https://ecococon.eu/) straw panel system, which we were also considering for us.
 We returned home over Wissembourg, and spent some days at the Ecolieu Langenberg.
-This Ecolieu consists of a German/French collective, sharing an old castle in the wood near the border.
-We have helped them plastering a straw wall with adobe and laying a parquet floor in a renovated apartment.
+This Ecolieu consists of a German/French collective, sharing an old castle in the woods near the border.
+We have helped them by plastering a straw wall with adobe and laying a parquet floor in a renovated apartment.
 
 We then did a short trip in June, mostly visiting the places around the lake of Geneva and hiking near Chamonix Mont Blanc.
 Our longest trip of the year was from July 7th to August 24th.
-This time we traveled towards the East: we visited castles in Bavaria, mountains in Austria, more mountains in Slovenia, friends in Czech Republic and more friends in Germany.
+This time we traveled towards the East: we visited castles in Bavaria, mountains in Austria, more mountains in Slovenia, friends in the Czech Republic and more friends in Germany.
 
 ## The data
 
-Gas price were quite volative this year.
+Gas prices were quite volatile this year.
 Looking at the data, compared to last year, it was 8% more expensive to drive on E10 and 25% more expensive to drive on GNC, while driving on BioGNC was the same price.
 One reason why we traveled East was also because it was much simpler to find GNC and BioGNC.
 In 2022, we drove a total of 7717km, compared to 16806km in 2021, and mostly using GNC or BioGNC.
@@ -62,4 +62,4 @@ Consumption of pork only accounted for 18% of this footprint.
 ## What's next
 
 We have now bought a building terrain, at the feet of northern Vosges mountains near Saverne.
-In 2023, the objective is the to build a certified passive house dwelling.
+In 2023, the objective is to build a certified passive house dwelling.
