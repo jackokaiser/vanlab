@@ -27,6 +27,12 @@ Nous avons ensuite fait un petit voyage en juin, principalement pour visiter les
 Notre plus long voyage de l'année s'est déroulé du 7 juillet au 24 août.
 Cette fois, nous avons voyagé vers l'Est : nous avons visité des châteaux en Bavière, des montagnes en Autriche, d'autres montagnes en Slovénie, des amis en République tchèque et d'autres amis en Allemagne.
 
+![Kaiserschmarrn au Zugspitze](https://res.cloudinary.com/vanderfool/image/upload/v1672600404/2022-trip/kaiserschmarrn_atew6c.jpg "Kaiserschmarrn au Zugspitze")
+
+![Visite chocolaterie Zotter](https://res.cloudinary.com/vanderfool/image/upload/v1672600584/2022-trip/zotter_yx4aqo.jpg "Visite chocolaterie Zotter")
+
+![Retrouvailles avec Elina](https://res.cloudinary.com/vanderfool/image/upload/v1672600597/2022-trip/elina_jsgsff.jpg "Retrouvailles avec Elina")
+
 ## Les données
 
 Le prix de l'essence a été assez volatile cette année.

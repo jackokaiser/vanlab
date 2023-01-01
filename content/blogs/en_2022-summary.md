@@ -26,6 +26,12 @@ We then did a short trip in June, mostly visiting the places around the lake of 
 Our longest trip of the year was from July 7th to August 24th.
 This time we traveled towards the East: we visited castles in Bavaria, mountains in Austria, more mountains in Slovenia, friends in the Czech Republic and more friends in Germany.
 
+![Kaiserschmarrn on the Zugspitze](https://res.cloudinary.com/vanderfool/image/upload/v1672600404/2022-trip/kaiserschmarrn_atew6c.jpg "Kaiserschmarrn on the Zugspitze")
+
+![Visiting Zotter chocolate factory](https://res.cloudinary.com/vanderfool/image/upload/v1672600584/2022-trip/zotter_yx4aqo.jpg "Visiting Zotter chocolate factory")
+
+![Catching up with Elina](https://res.cloudinary.com/vanderfool/image/upload/v1672600597/2022-trip/elina_jsgsff.jpg "Catching up with Elina")
+
 ## The data
 
 Gas prices were quite volatile this year.
